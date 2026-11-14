@@ -1,0 +1,5 @@
+---
+tags:
+  - Smosh
+---
+[[Survivor (US)]]

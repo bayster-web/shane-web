@@ -1,0 +1,5 @@
+---
+tags:
+  - Smosh
+---
+[[Trixie Motel]]

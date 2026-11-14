@@ -1,0 +1,5 @@
+---
+{}
+---
+[[Xenosaga (Franchise)]]
+[[Xenoblade (Franchise)]]
