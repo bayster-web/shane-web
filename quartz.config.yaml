@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: bayster-web.github.io/shane-web
+  baseUrl: bayster-web.github.io/
   ignorePatterns:
     - private
     - templates
