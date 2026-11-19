@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/David Cross.md
-created: 2026-11-15T13:43:16.793Z
+created: 2026-11-19T23:06:22.425Z
 modified: 2026-10-08T03:56:28.128Z
 published: 2026-10-08T03:56:28.128Z
 tags:

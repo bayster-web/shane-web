@@ -1,15 +1,15 @@
 ---
 publish: true
 permalink: /Layer 3 - Projects (Connections from Annoying Orange)/Video Games/Patrick Warburton.md
-created: 2026-11-15T13:43:16.574Z
-modified: 2026-10-08T03:56:09.967Z
-published: 2026-10-08T03:56:09.967Z
+created: 2026-11-19T23:06:22.745Z
+modified: 2026-11-19T23:20:22.423Z
+published: 2026-11-19T23:20:22.423Z
 tags:
   - AnnoyingOrange
 ---
 
 [[8 Simple Rules]]
-[[Agents of S.H.I.E.L.D.]]
+[[Agents of S.H.I.E.L.D. (Show)]]
 [[American Dad]]!
 American Strays
 Angels in the Infield
@@ -149,7 +149,7 @@ The Paper Chase
 The Soup
 [[The Tick (2001)]]
 [[The Twilight Zone]]
-[[The Venture Bros.]]
+[[The Venture Bros]]
 The Venture Bros.: Radiant Is the Blood of the Baboon Heart
 The Wedding Year
 [[The Wild]]

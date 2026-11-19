@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/YouTubers/Rosanna Pansino.md
-created: 2026-11-15T13:43:01.750Z
+created: 2026-11-19T23:06:22.387Z
 modified: 2026-09-05T07:06:12.365Z
 published: 2026-09-05T07:06:12.365Z
 tags:

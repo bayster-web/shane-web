@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Brie Larson.md
-created: 2026-11-15T13:43:04.049Z
+created: 2026-11-19T23:06:22.469Z
 modified: 2026-09-05T07:06:14.310Z
 published: 2026-09-05T07:06:14.310Z
 tags:

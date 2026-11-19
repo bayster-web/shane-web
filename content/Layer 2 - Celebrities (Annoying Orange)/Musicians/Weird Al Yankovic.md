@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Musicians/Weird Al Yankovic.md
-created: 2026-11-15T13:43:30.141Z
-modified: 2026-10-30T23:46:32.533Z
-published: 2026-10-30T23:46:32.533Z
+created: 2026-11-19T23:06:22.411Z
+modified: 2026-11-19T23:14:30.883Z
+published: 2026-11-19T23:14:30.883Z
 tags:
   - AnnoyingOrange
 ---
@@ -135,7 +135,7 @@ Tiny Tim: King for a Day
 [[Uncle Grandpa]]
 Uncle Kent 2
 [[Scooby-Doo Franchise]] - [[Velma]]
-[[V.I.P.]]
+[[V.I.P. (Show)]]
 [[Voltron - Legendary Defender]]
 Wallykazam!
 [[Wander Over Yonder]]

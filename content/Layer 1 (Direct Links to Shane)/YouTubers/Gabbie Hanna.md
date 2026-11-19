@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/YouTubers/Gabbie Hanna.md
-created: 2026-11-15T13:43:00.610Z
+created: 2026-11-19T23:06:22.385Z
 modified: 2026-09-05T07:06:12.284Z
 published: 2026-09-05T07:06:12.284Z
 tags:

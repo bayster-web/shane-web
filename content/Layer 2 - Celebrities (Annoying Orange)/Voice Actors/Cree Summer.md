@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Cree Summer.md
-created: 2026-11-15T13:43:07.251Z
-modified: 2026-09-05T07:06:13.157Z
-published: 2026-09-05T07:06:13.157Z
+created: 2026-11-19T23:06:22.415Z
+modified: 2026-11-19T23:18:52.408Z
+published: 2026-11-19T23:18:52.408Z
 tags:
   - AnnoyingOrange
 ---
@@ -68,7 +68,7 @@ Cro
 [[Curious George Franchise]] - Curious George 2: Follow That Monkey!, Curious George: A Halloween Boo Fest
 Danger Rangers
 [[Danny Phantom]]
-[[Dan Vs.]]
+[[Dan Vs. (Show)]]
 [[Dave the Barbarian]]
 Dawn of the Croods
 DC Showcase: Catwoman

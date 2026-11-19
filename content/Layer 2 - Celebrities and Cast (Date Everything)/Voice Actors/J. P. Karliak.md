@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/J. P. Karliak.md
-created: 2026-11-15T13:43:06.084Z
-modified: 2026-09-05T07:06:13.499Z
-published: 2026-09-05T07:06:13.499Z
+created: 2026-11-19T23:06:22.429Z
+modified: 2026-11-19T23:20:01.990Z
+published: 2026-11-19T23:20:01.990Z
 tags:
   - DateEverything
 ---
@@ -34,7 +34,7 @@ No Time to Spy: A [[The Loud House]] Movie
 [[The Super Mario Bros. Movie]] - [[The Super Mario Galaxy Movie]]
 Ringer
 Real Husbands of Hollywood
-[[Hulk and the Agents of S.M.A.S.H.]]
+[[Hulk and the Agents of S.M.A.S.H. (Show)]]
 Funsplosion
 [[Sanjay and Craig]]
 New [[Looney Tunes]]

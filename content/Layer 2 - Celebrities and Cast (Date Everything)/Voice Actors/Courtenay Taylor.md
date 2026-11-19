@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Courtenay Taylor.md
-created: 2026-11-15T13:43:25.562Z
-modified: 2026-10-24T16:55:18.142Z
-published: 2026-10-24T16:55:18.142Z
+created: 2026-11-19T23:06:22.434Z
+modified: 2026-11-19T23:21:56.672Z
+published: 2026-11-19T23:21:56.672Z
 tags:
   - DateEverything
   - ShutUpCartoons
@@ -19,7 +19,7 @@ The Imaginary
 [[Smosh - Shut Up Cartoons]] - Oishi High School Battle
 [[2 Broke Girls]]
 [[Skylanders Academy]]
-[[OK K.O.]]! Let's Be Heroes
+[[OK K.O. - Let's Be Heroes]]! Let's Be Heroes
 [[Love, Death & Robots]]
 Momma Named Me Sheriff
 [[American Dad]]!
@@ -83,7 +83,7 @@ Marvel's Midnight Suns
 Murdered: Soul Suspect
 Night Watch
 Ninety-Nine Nights II
-[[OK K.O.]]! Let's Play Heroes
+[[OK K.O. - Let's Be Heroes]]! Let's Play Heroes
 Rage 2
 [[Ratchet & Clank (Franchise)]] - Ratchet & Clank: Rift Apart
 [[Resident Evil (Franchise)]] - Resident Evil 6, Resident Evil: Operation Raccoon City
@@ -129,4 +129,4 @@ Close to Home
 [[Criminal Minds]]
 Orphan Black
 No Activity
-[[S.W.A.T.]]
+[[S.W.A.T.  (Show)]]

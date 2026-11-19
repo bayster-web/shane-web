@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Projects (Connections from Direct Links)/Movies/Baz Luhrmann's Romeo + Juliet.md
-created: 2026-11-15T13:43:28.807Z
+created: 2026-11-19T23:06:22.486Z
 modified: 2026-10-29T21:37:32.558Z
 published: 2026-10-29T21:37:32.558Z
 tags:

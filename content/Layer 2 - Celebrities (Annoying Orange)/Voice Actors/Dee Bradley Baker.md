@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Dee Bradley Baker.md
-created: 2026-11-15T13:43:07.690Z
-modified: 2026-09-05T07:06:13.166Z
-published: 2026-09-05T07:06:13.166Z
+created: 2026-11-19T23:06:22.416Z
+modified: 2026-11-19T23:20:01.945Z
+published: 2026-11-19T23:20:01.945Z
 tags:
   - AnnoyingOrange
 ---
@@ -138,7 +138,7 @@ Higglytown Heroes
 Holly Hobbie and Friends: Surprise Party
 Home: Adventures with Tip & Oh
 [[Hot in Cleveland]]
-[[Hulk and the Agents of S.M.A.S.H.]]
+[[Hulk and the Agents of S.M.A.S.H. (Show)]]
 Hunter: The Reckoning – Wayward
 I Am Groot
 [[I Am Weasel]]

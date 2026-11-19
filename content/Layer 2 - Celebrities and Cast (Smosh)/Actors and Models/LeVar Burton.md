@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Actors and Models/LeVar Burton.md
-created: 2026-11-15T13:43:05.370Z
-modified: 2026-09-05T07:06:13.685Z
-published: 2026-09-05T07:06:13.685Z
+created: 2026-11-19T23:06:22.446Z
+modified: 2026-11-19T23:21:56.678Z
+published: 2026-11-19T23:21:56.678Z
 tags:
   - Smosh
 ---
@@ -63,7 +63,7 @@ Miracle's Boys
 [[Murder, She Wrote]]
 Nancy Drew (2019)
 [[NCIS Franchise]] - NCIS: Hawaii, NCIS: New Orleans
-[[OK K.O.]]! Let's Be Heroes
+[[OK K.O. - Let's Be Heroes]]! Let's Be Heroes
 One in a Million: The Ron LeFlore Story
 One Night Only
 Our Friend, Martin

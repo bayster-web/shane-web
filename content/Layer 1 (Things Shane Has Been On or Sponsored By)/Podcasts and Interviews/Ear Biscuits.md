@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Things Shane Has Been On or Sponsored By)/Podcasts and Interviews/Ear Biscuits.md
-created: 2026-11-15T13:43:18.124Z
+created: 2026-11-19T23:06:22.401Z
 modified: 2026-10-21T11:17:37.608Z
 published: 2026-10-21T11:17:37.608Z
 tags:

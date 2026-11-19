@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Reality TV Stars/Lori Greiner.md
-created: 2026-11-15T13:43:00.347Z
+created: 2026-11-19T23:06:22.380Z
 modified: 2026-09-05T07:06:12.269Z
 published: 2026-09-05T07:06:12.269Z
 tags:

@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Projects (Connections from Direct Links)/Movies/Dead Poets Society.md
-created: 2026-11-15T13:43:27.069Z
+created: 2026-11-19T23:06:22.485Z
 modified: 2026-10-25T17:11:27.052Z
 published: 2026-10-25T17:11:27.052Z
 tags: []

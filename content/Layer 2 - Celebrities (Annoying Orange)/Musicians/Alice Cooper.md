@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Musicians/Alice Cooper.md
-created: 2026-11-15T13:43:12.761Z
+created: 2026-11-19T23:06:22.410Z
 modified: 2026-09-21T18:57:46.862Z
 published: 2026-09-21T18:57:46.862Z
 tags:

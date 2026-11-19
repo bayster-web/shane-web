@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Seth Green.md
-created: 2026-11-15T13:43:16.953Z
-modified: 2026-10-08T03:57:47.233Z
-published: 2026-10-08T03:57:47.233Z
+created: 2026-11-19T23:06:22.426Z
+modified: 2026-11-19T23:20:01.944Z
+published: 2026-11-19T23:20:01.944Z
 tags:
   - AnnoyingOrange
 ---
@@ -51,7 +51,7 @@ Con Man
 Crossing Swords
 Cybill
 Dads
-[[Dan Vs.]]
+[[Dan Vs. (Show)]]
 Dear Dictator
 Dear Mr. Watterson
 Delete
@@ -81,7 +81,7 @@ Historical Roasts
 Holidays
 Holliston
 [[How I Met Your Mother]]
-[[Hulk and the Agents of S.M.A.S.H.]]
+[[Hulk and the Agents of S.M.A.S.H. (Show)]]
 Husbands
 Ice Age: The Great Egg-Scapade
 Idle Hands
@@ -176,7 +176,7 @@ The Secret Policeman's Ball
 The Story of Luke
 The Trumpet of the Swan
 The TV Set
-[[The Venture Bros.]]
+[[The Venture Bros]]
 The Wonder Years
 [[The X-Files]]
 Ticks
@@ -190,7 +190,7 @@ Warren The Ape
 Weird Science (TV Show)
 Weird: The Al Yankovic Story
 Whatever Happened to Robot Jones
-[[What If...]]
+[[What If (Show)]]
 White Man's Burden
 [[Will & Grace]]
 Willy/Milly

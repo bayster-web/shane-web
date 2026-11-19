@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 3 - Projects (Connections from Smosh)/Video Games/Franchises/Animal Crossing (Franchise).md
-created: 2026-11-15T13:41:23.804Z
+created: 2026-11-19T23:06:23.103Z
 modified: 2026-09-05T07:06:25.915Z
 published: 2026-09-05T07:06:25.915Z
 tags:

@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 1 (Things Shane Has Been On or Sponsored By)/YouTube/Smosh/Smosh - Sponsors.md
-created: 2026-11-15T13:43:06.947Z
-modified: 2026-09-05T07:06:12.763Z
-published: 2026-09-05T07:06:12.763Z
+created: 2026-11-19T23:06:22.402Z
+modified: 2026-11-19T23:12:16.665Z
+published: 2026-11-19T23:12:16.665Z
 tags:
   - Smosh
 ---
@@ -15,7 +15,7 @@ tags:
 [[Airbnb]]  (Original Smoshcast)
 [[Amazon Prime Video]] - (Scouts Guide to the Zombie Apocalypse/Utopia (season 1)) - (Games Channel)
 Anchor FM (Merged into Spotify for Creators) - (Smoshcast)
-[[Athletic Brewing Co.]] (SmoshCast - Smosh Mouth)
+[[Athletic Brewing Co]] (SmoshCast - Smosh Mouth)
 [[Athletic Greens]] (AG1) - (SmoshCast - Smosh Mouth)
 [[Audible]] (Main Channel & Smosh Pit (Reddit Stories))
 [[Aura Frames]] (Reddit Stories (Smosh Pit))
@@ -42,7 +42,7 @@ Feals (CBD Meds) (Smoshcast)
 [[General Mills]] - [[Reese's Puffs]] & [[Cinnamon Toast Crunch]] (Smosh Games, Pit and Main Channels)
 [[Getcontact]] (Caller ID/Spam Caller App) (SmoshCast - Smosh Mouth)
 [[go90]] (Smosh Pit, Main and Games Channels)
-[[gumi Inc.]] (Gacha Games - [[FINAL FANTASY]] BRAVE EXVIUS & The Alchemist Code)
+[[gumi Inc]] (Gacha Games - [[FINAL FANTASY]] BRAVE EXVIUS & The Alchemist Code)
 [[Harmonix]] ([[Rock Band]] 4) - (Smosh Games)
 [[HelloFresh]] (Reddit Stories (Smosh Pit)) (SmoshCast - Smosh Mouth)
 [[Hims]], Inc (SmoshCast)
@@ -61,7 +61,7 @@ King of Avalon (Game) - (Smosh Games)
 [[Magic The Gathering]] - (Smosh Pit, Smosh Games)
 [[Mando Deodorant]] (SmoshCast - Smosh Mouth)
 [[Manscaped]] (SmoshCast - Smosh Mouth)
-[[Mars Inc.]] - [[Snickers]] (Main Channel)
+[[Mars Inc]] - [[Snickers]] (Main Channel)
 [[MasterClass]] (Reddit Stories (Smosh Pit))
 [[MeUndies]] (SmoshCast - Smosh Mouth)
 [[Mint Mobile]] (Reddit Stories (Smosh Pit)) (SmoshCast - Smosh Mouth)

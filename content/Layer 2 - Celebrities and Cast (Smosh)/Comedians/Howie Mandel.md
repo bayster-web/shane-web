@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Comedians/Howie Mandel.md
-created: 2026-11-15T13:43:12.707Z
+created: 2026-11-19T23:06:22.438Z
 modified: 2026-09-21T18:10:45.005Z
 published: 2026-09-21T18:10:45.005Z
 tags:

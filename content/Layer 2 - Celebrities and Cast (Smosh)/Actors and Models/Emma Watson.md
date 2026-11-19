@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Actors and Models/Emma Watson.md
-created: 2026-11-15T13:43:02.385Z
+created: 2026-11-19T23:06:22.444Z
 modified: 2026-09-05T07:06:13.666Z
 published: 2026-09-05T07:06:13.666Z
 tags:

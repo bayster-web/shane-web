@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Actors and Models/Arden Cho.md
-created: 2026-11-15T13:43:10.461Z
+created: 2026-11-19T23:06:22.447Z
 modified: 2026-09-19T14:28:09.844Z
 published: 2026-09-19T14:28:09.844Z
 tags:

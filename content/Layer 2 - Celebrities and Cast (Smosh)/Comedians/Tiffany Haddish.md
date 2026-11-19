@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Comedians/Tiffany Haddish.md
-created: 2026-11-15T13:43:34.098Z
-modified: 2026-11-14T14:10:21.462Z
-published: 2026-11-14T14:10:21.462Z
+created: 2026-11-19T23:06:22.439Z
+modified: 2026-11-19T23:11:10.024Z
+published: 2026-11-19T23:11:10.024Z
 tags:
   - Smosh
 ---
@@ -94,7 +94,7 @@ Face Value
 [[Drunk History]]
 Funny You Should Ask
 [[Sesame Street]]
-[[The Last O.G.]]
+[[The Last O.G. (Show)]]
 [[SpongeBob SquarePants]]
 Kevin Hart's Guide to Black History
 [[Bob's Burgers]]

@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Josh Peck.md
-created: 2026-11-15T13:43:02.679Z
-modified: 2026-09-05T07:06:12.107Z
-published: 2026-09-05T07:06:12.107Z
+created: 2026-11-19T23:06:22.392Z
+modified: 2026-11-19T23:21:18.364Z
+published: 2026-11-19T23:21:18.364Z
 tags:
   - DirectShane
 ---
@@ -43,5 +43,5 @@ The Guardian
 [[The Powerpuff Girls]]
 [[The Wedding Ringer]]
 Turner & Hooch (Disney+ Show)
-[[Whatever Happened to... Robot Jones]]?
+[[Whatever Happened to Robot Jones]]?
 [[Scooby-Doo Franchise]] - What's New, Scooby-Doo

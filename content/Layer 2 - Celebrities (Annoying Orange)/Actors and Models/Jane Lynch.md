@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Jane Lynch.md
-created: 2026-11-15T13:43:17.010Z
-modified: 2026-10-08T03:57:48.689Z
-published: 2026-10-08T03:57:48.689Z
+created: 2026-11-19T23:06:22.426Z
+modified: 2026-11-19T23:18:22.710Z
+published: 2026-11-19T23:18:22.710Z
 tags:
   - AnnoyingOrange
 ---
@@ -114,7 +114,7 @@ Love Is Love
 Lovespring International
 Manhunt: Unabomber
 Man Maid
-[[Married... with Children]]
+[[Married with Children]]
 Martini
 Mascots
 [[MasterChef (US)]]
@@ -213,7 +213,7 @@ The Stinky & Dirty Show
 [[The Super Hero Squad Show]]
 The Three Stooges
 The Toe Tactic
-[[The Venture Bros.]]: Radiant Is the Blood of the Baboon Heart
+[[The Venture Bros]]: Radiant Is the Blood of the Baboon Heart
 [[The Weakest Link (US)]]
 [[The West Wing]]
 [[The X-Files]]

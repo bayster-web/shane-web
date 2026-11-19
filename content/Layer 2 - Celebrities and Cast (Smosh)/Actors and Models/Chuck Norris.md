@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Actors and Models/Chuck Norris.md
-created: 2026-11-15T13:43:30.740Z
+created: 2026-11-19T23:06:22.447Z
 modified: 2026-11-01T00:01:11.892Z
 published: 2026-11-01T00:01:11.892Z
 tags:

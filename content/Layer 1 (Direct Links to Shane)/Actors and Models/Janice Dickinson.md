@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Janice Dickinson.md
-created: 2026-11-15T13:43:13.313Z
+created: 2026-11-19T23:06:22.396Z
 modified: 2026-11-19T18:14:16.660Z
 published: 2026-11-19T18:14:16.660Z
 tags:

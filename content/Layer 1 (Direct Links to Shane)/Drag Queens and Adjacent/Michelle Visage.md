@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Drag Queens and Adjacent/Michelle Visage.md
-created: 2026-11-15T13:42:59.953Z
+created: 2026-11-19T23:06:22.381Z
 modified: 2026-09-05T07:06:12.250Z
 published: 2026-09-05T07:06:12.250Z
 tags:

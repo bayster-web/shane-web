@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Projects (Connections from Direct Links)/Cartoons/Adult Cartoons/Family Guy.md
-created: 2026-11-15T13:43:30.896Z
+created: 2026-11-19T23:06:22.602Z
 modified: 2026-11-01T02:43:16.778Z
 published: 2026-11-01T02:43:16.778Z
 tags:

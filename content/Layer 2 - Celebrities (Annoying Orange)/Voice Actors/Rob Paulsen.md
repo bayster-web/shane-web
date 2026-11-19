@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Rob Paulsen.md
-created: 2026-11-15T13:43:26.443Z
-modified: 2026-10-25T17:06:10.405Z
-published: 2026-10-25T17:06:10.405Z
+created: 2026-11-19T23:06:22.417Z
+modified: 2026-11-19T23:21:18.379Z
+published: 2026-11-19T23:21:18.379Z
 tags:
   - AnnoyingOrange
 ---
@@ -528,7 +528,7 @@ Unintended
 Wake, Rattle & Roll
 Warlock
 What a Cartoon!
-[[Whatever Happened to... Robot Jones]]?
+[[Whatever Happened to Robot Jones]]?
 What's New, Scooby-Doo?
 [[Where's Waldo]]?
 Wildfire

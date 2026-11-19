@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Michael Clarke Duncan.md
-created: 2026-11-15T13:43:05.166Z
-modified: 2026-09-05T07:06:13.029Z
-published: 2026-09-05T07:06:13.029Z
+created: 2026-11-19T23:06:22.421Z
+modified: 2026-11-19T23:13:33.921Z
+published: 2026-11-19T23:13:33.921Z
 tags:
   - AnnoyingOrange
 ---
@@ -51,7 +51,7 @@ Kung Fu Panda
 Legend of Kung Fu Rabbit
 Living Single
 Loonatics Unleashed
-[[Married... with Children]]
+[[Married with Children]]
 Minoriteam
 One Way
 Panic in the Park

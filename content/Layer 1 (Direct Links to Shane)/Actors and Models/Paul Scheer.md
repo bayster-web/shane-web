@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Paul Scheer.md
-created: 2026-11-15T13:43:17.216Z
+created: 2026-11-19T23:06:22.396Z
 modified: 2026-10-08T03:59:21.399Z
 published: 2026-10-08T03:59:21.399Z
 tags:

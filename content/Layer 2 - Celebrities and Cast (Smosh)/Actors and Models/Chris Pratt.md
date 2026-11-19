@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Actors and Models/Chris Pratt.md
-created: 2026-11-15T13:43:05.269Z
-modified: 2026-09-05T07:06:13.642Z
-published: 2026-09-05T07:06:13.642Z
+created: 2026-11-19T23:06:22.446Z
+modified: 2026-11-19T23:16:09.448Z
+published: 2026-11-19T23:16:09.448Z
 tags:
   - Smosh
 ---
@@ -57,7 +57,7 @@ The Huntress
 [[Everwood]]
 I Love the '90s
 Path of Destruction
-[[The O.C.]]
+[[The O.C. (Show)]]
 [[The Batman (Cartoon)]]
 [[Parks and Recreation]]
 Ben 10: Ultimate Alien

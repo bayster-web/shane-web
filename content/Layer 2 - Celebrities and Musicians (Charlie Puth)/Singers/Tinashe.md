@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Musicians (Charlie Puth)/Singers/Tinashe.md
-created: 2026-11-15T13:42:04.952Z
+created: 2026-11-19T23:06:22.463Z
 modified: 2026-09-05T07:06:14.237Z
 published: 2026-09-05T07:06:14.237Z
 tags:

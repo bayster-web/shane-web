@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Cherami Leigh.md
-created: 2026-11-15T13:43:34.767Z
+created: 2026-11-19T23:06:22.396Z
 modified: 2026-11-14T14:10:33.127Z
 published: 2026-11-14T14:10:33.127Z
 tags:

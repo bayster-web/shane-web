@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Voice Actors/Kaiji Tang.md
-created: 2026-11-15T13:43:13.977Z
+created: 2026-11-19T23:06:22.441Z
 modified: 2026-09-26T09:53:39.310Z
 published: 2026-09-26T09:53:39.310Z
 tags:

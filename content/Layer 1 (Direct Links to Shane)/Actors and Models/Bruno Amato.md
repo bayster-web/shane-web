@@ -1,16 +1,16 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Bruno Amato.md
-created: 2026-11-15T13:43:33.943Z
-modified: 2026-11-14T14:10:21.280Z
-published: 2026-11-14T14:10:21.280Z
+created: 2026-11-19T23:06:22.396Z
+modified: 2026-11-19T23:20:22.393Z
+published: 2026-11-19T23:20:22.393Z
 tags:
   - DirectShane
 ---
 
 [[2 Broke Girls]]
 [[Abbott Elementary]]
-[[Agents of S.H.I.E.L.D.]]
+[[Agents of S.H.I.E.L.D. (Show)]]
 [[All My Children]]
 American Heiress
 [[American Housewife]]
@@ -100,7 +100,7 @@ The Exes
 The Grinder
 The Internship
 [[The Newsroom]]
-[[The O.C.]]
+[[The O.C. (Show)]]
 The Real St. Nick
 The Soul Man
 The Time Capsule

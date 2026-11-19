@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Troy Baker.md
-created: 2026-11-15T13:43:07.370Z
-modified: 2026-09-05T07:06:13.563Z
-published: 2026-09-05T07:06:13.563Z
+created: 2026-11-19T23:06:22.431Z
+modified: 2026-11-19T23:20:02.025Z
+published: 2026-11-19T23:20:02.025Z
 tags:
   - DateEverything
   - Fortnite
@@ -93,7 +93,7 @@ Guardians of Middle-earth
 Gunslinger Girl
 [[Halo (Franchise)]] - Halo 4
 [[Heroes of the Storm]]
-[[Hulk and the Agents of S.M.A.S.H.]]
+[[Hulk and the Agents of S.M.A.S.H. (Show)]]
 Indiana Jones and the Great Circle
 [[inFAMOUS Franchise]] - Infamous Second Son
 Infex

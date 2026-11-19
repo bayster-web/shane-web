@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Scott Chernoff.md
-created: 2026-11-15T13:43:00.706Z
+created: 2026-11-19T23:06:22.389Z
 modified: 2026-09-05T07:06:12.170Z
 published: 2026-09-05T07:06:12.170Z
 tags:

@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Projects (Connections from Direct Links)/Reality TV/Celebrity Medium with Tyler Henry.md
-created: 2026-11-15T13:43:27.485Z
+created: 2026-11-19T23:06:22.533Z
 modified: 2026-11-19T18:07:58.748Z
 published: 2026-11-19T18:07:58.748Z
 tags: []

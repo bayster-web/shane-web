@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Voice Actors/Richard (Steven) Horvitz.md
-created: 2026-11-15T13:43:06.189Z
+created: 2026-11-19T23:06:22.439Z
 modified: 2026-09-05T07:06:13.853Z
 published: 2026-09-05T07:06:13.853Z
 tags:

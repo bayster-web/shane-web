@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Carlos Alazraqui.md
-created: 2026-11-15T13:43:07.453Z
-modified: 2026-09-05T07:06:13.147Z
-published: 2026-09-05T07:06:13.147Z
+created: 2026-11-19T23:06:22.416Z
+modified: 2026-11-19T23:18:52.395Z
+published: 2026-11-19T23:18:52.395Z
 tags:
   - AnnoyingOrange
 ---
@@ -66,7 +66,7 @@ Crashbox
 [[Curious George Franchise]] - Curious George, Curious George 2: Follow That Monkey!, Curious George: A Halloween Boo Fest
 Dads in Parks
 Dance Baby Dance
-[[Dan Vs.]]
+[[Dan Vs. (Show)]]
 Delhi Safari
 [[Despicable Me Franchise]] - Despicable Me 3
 [[Despicable Me Franchise]] - Minions
@@ -149,7 +149,7 @@ Minnie's Bow-Toons
 Minoriteam
 Mixels
 [[Monsters at Work]]
-[[Monsters, Inc.]]
+[[Monsters, Inc]]
 [[Monsters University (2013)]]
 Moonbeam City
 Motorcity

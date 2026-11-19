@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Fred Tatasciore.md
-created: 2026-11-15T13:43:34.361Z
-modified: 2026-11-14T14:10:21.414Z
-published: 2026-11-14T14:10:21.414Z
+created: 2026-11-19T23:06:22.434Z
+modified: 2026-11-19T23:20:01.983Z
+published: 2026-11-19T23:20:01.983Z
 tags:
   - DateEverything
   - Fortnite
@@ -96,7 +96,7 @@ Costume Quest
 Crackdown 2
 [[Crash Bandicoot Franchise]] - Crash Bandicoot 4: It's About Time, Crash Bandicoot N.Sane Trilogy, Crash Bandicoot: On the Run!, Crash Team Racing Nitro-Fueled
 [[Curious George Franchise]] - Curious George, Curious George 2: Follow That Monkey!
-[[Dan Vs.]]
+[[Dan Vs. (Show)]]
 [[Darksiders Franchise]] - Darksiders, Darksiders II, Darksiders III
 Dark Void
 [[Date Everything!]]
@@ -195,7 +195,7 @@ High Risk
 [[Hotel Transylvania]]: Transformania
 Hot Wheels Battle Force 5
 Hot Wheels Let's Race
-[[Hulk and the Agents of S.M.A.S.H.]]
+[[Hulk and the Agents of S.M.A.S.H. (Show)]]
 Hulk Vs.
 Hulk: Where Monsters Dwell
 [[inFAMOUS Franchise]] - Infamous Second Son
@@ -537,7 +537,7 @@ Vixen
 [[Warhammer 40,000]]: Dawn of War II
 Watchmen: The End is Nigh
 We Wish You a Merry Walrus
-[[What If...]]?
+[[What If (Show)]]?
 What's New, Scooby-Doo?
 Where the Wild Things Are
 Whole

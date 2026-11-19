@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Projects (Connections from Direct Links)/Video Games/World of Warcraft.md
-created: 2026-11-15T13:43:30.790Z
+created: 2026-11-19T23:06:22.552Z
 modified: 2026-11-01T00:16:05.286Z
 published: 2026-11-01T00:16:05.286Z
 tags:

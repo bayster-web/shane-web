@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Comedians/Jamie Foxx.md
-created: 2026-11-15T13:43:28.860Z
-modified: 2026-10-29T21:38:01.522Z
-published: 2026-10-29T21:38:01.522Z
+created: 2026-11-19T23:06:22.438Z
+modified: 2026-11-19T23:13:09.740Z
+published: 2026-11-19T23:13:09.740Z
 tags:
   - Smosh
 ---
@@ -129,7 +129,7 @@ Melvin Riley
 [[The Black Eyed Peas]]
 [[The-Dream]]
 [[The Game (rapper)]]
-[[T.I.]]
+[[T.I. (Musician)]]
 [[Timbaland]]
 [[T-Pain]]
 [[Trey Songz]]

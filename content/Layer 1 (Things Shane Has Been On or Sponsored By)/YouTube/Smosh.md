@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Things Shane Has Been On or Sponsored By)/YouTube/Smosh.md
-created: 2026-11-15T13:43:00.102Z
+created: 2026-11-19T23:06:22.399Z
 modified: 2026-09-05T07:06:12.746Z
 published: 2026-09-05T07:06:12.746Z
 tags:

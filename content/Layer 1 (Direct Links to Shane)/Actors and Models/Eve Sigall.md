@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Eve Sigall.md
-created: 2026-11-15T13:43:10.511Z
+created: 2026-11-19T23:06:22.394Z
 modified: 2026-09-19T14:28:09.837Z
 published: 2026-09-19T14:28:09.837Z
 tags:

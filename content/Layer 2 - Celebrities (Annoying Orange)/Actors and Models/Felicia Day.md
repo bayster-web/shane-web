@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Felicia Day.md
-created: 2026-11-15T13:43:05.218Z
-modified: 2026-09-05T07:06:12.963Z
-published: 2026-09-05T07:06:12.963Z
+created: 2026-11-19T23:06:22.421Z
+modified: 2026-11-19T23:18:52.377Z
+published: 2026-11-19T23:18:52.377Z
 tags:
   - AnnoyingOrange
 ---
@@ -21,7 +21,7 @@ Con Man
 Co-Optitude
 [[Critical Role]] (campaign 1)
 Danger & Eggs
-[[Dan Vs.]]
+[[Dan Vs. (Show)]]
 [[Date Everything!]]
 Dear Me
 Delusional

@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Projects (Connections from Direct Links)/Video Games/Fortnite.md
-created: 2026-11-15T13:43:34.204Z
-modified: 2026-11-14T14:10:21.483Z
-published: 2026-11-14T14:10:21.483Z
+created: 2026-11-19T23:06:22.552Z
+modified: 2026-11-19T23:10:16.541Z
+published: 2026-11-19T23:10:16.541Z
 tags:
   - ShaneLinks
   - Fortnite
@@ -197,7 +197,7 @@ Loserfruit
 [[Mariah Carey]]
 [[Marshmello]]
 [[Marvel Rivals]]
-[[Marvin Luther King Jr.]] ([[TIME Magazine]]/Studios)
+[[Martin Luther King Jr]] ([[TIME Magazine]]/Studios)
 [[Maserati]]
 [[Masters of the Universe]]
 [[McLaren]]
@@ -254,7 +254,7 @@ Quanoe
 [[Real Madrid (Soccer Team)]]
 [[Regular Show]]
 REMATCH
-[[R.E.P.O.]]
+[[R.E.P.O. (Game)]]
 [[Resident Evil (Franchise)]]
 [[Revolution Beauty]]
 [[Rick and Morty]]

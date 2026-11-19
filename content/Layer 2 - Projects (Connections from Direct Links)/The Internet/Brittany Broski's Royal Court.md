@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Projects (Connections from Direct Links)/The Internet/Brittany Broski's Royal Court.md
-created: 2026-11-15T13:43:17.409Z
+created: 2026-11-19T23:06:22.560Z
 modified: 2026-11-19T20:19:27.201Z
 published: 2026-11-19T20:19:27.201Z
 tags:

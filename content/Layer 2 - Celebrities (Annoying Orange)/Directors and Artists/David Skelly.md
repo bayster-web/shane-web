@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Directors and Artists/David Skelly.md
-created: 2026-11-15T13:43:13.615Z
-modified: 2026-09-25T00:35:41.422Z
-published: 2026-09-25T00:35:41.422Z
+created: 2026-11-19T23:06:22.417Z
+modified: 2026-11-19T23:15:20.997Z
+published: 2026-11-19T23:15:20.997Z
 tags:
   - AnnoyingOrange
 ---
@@ -25,7 +25,7 @@ Llama Llama
 Treehouse Detectives
 Walking with Dinosaurs 3D
 Zevo-3
-[[Monsters, Inc.]]
+[[Monsters, Inc]]
 [[Toy Story Franchise]] - Toy Story 2
 [[Sesame Street]]
 [[The Muppets]] - The Muppets Christmas Carol, The Muppets, Muppets Most Wanted, The Muppets. (Sitcom), [[Lady Gaga]] & the Muppets' Holiday Spectacular

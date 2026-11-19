@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Projects (Connections from Direct Links)/The Internet/Judgy (TikTok & Instagram Series).md
-created: 2026-11-15T13:43:27.534Z
+created: 2026-11-19T23:06:22.561Z
 modified: 2026-10-29T21:33:00.435Z
 published: 2026-10-29T21:33:00.435Z
 ---

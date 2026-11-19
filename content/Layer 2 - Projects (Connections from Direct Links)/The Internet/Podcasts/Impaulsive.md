@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Projects (Connections from Direct Links)/The Internet/Podcasts/Impaulsive.md
-created: 2026-11-15T13:43:24.926Z
+created: 2026-11-19T23:06:22.655Z
 modified: 2026-10-24T16:36:55.146Z
 published: 2026-10-24T16:36:55.146Z
 ---

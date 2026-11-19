@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Paul Mescal.md
-created: 2026-11-15T13:43:25.458Z
+created: 2026-11-19T23:06:22.474Z
 modified: 2026-09-19T15:07:24.204Z
 published: 2026-09-19T15:07:24.204Z
 tags:

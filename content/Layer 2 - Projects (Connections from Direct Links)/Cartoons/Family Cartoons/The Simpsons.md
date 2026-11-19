@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Projects (Connections from Direct Links)/Cartoons/Family Cartoons/The Simpsons.md
-created: 2026-11-15T13:43:30.841Z
+created: 2026-11-19T23:06:22.593Z
 modified: 2026-11-01T02:31:10.780Z
 published: 2026-11-01T02:31:10.780Z
 tags:

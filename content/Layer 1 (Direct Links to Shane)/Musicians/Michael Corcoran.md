@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Musicians/Michael Corcoran.md
-created: 2026-11-15T13:43:11.301Z
+created: 2026-11-19T23:06:22.379Z
 modified: 2026-09-19T14:47:15.076Z
 published: 2026-09-19T14:47:15.076Z
 tags:

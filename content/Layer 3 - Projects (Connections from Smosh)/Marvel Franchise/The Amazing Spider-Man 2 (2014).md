@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 3 - Projects (Connections from Smosh)/Marvel Franchise/The Amazing Spider-Man 2 (2014).md
-created: 2026-11-15T13:40:36.047Z
+created: 2026-11-19T23:06:23.051Z
 modified: 2026-09-05T07:06:24.446Z
 published: 2026-09-05T07:06:24.446Z
 ---

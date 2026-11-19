@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Tom Kenny.md
-created: 2026-11-15T13:43:07.541Z
-modified: 2026-09-05T07:06:13.216Z
-published: 2026-09-05T07:06:13.216Z
+created: 2026-11-19T23:06:22.416Z
+modified: 2026-11-19T23:21:18.380Z
+published: 2026-11-19T23:21:18.380Z
 tags:
   - AnnoyingOrange
 ---
@@ -51,7 +51,7 @@ Charming
 Codename: Kids Next Door - Operation Z.E.R.O.
 [[Cow and Chicken]]
 [[Crank Yankers]]
-[[Dan Vs.]]
+[[Dan Vs. (Show)]]
 [[Dave the Barbarian]]
 DC Showcase: Blue Beetle
 [[DC Super Hero Girls]]
@@ -107,7 +107,7 @@ Home Movies
 [[Hoodwinked]]
 [[Horrible Histories]]
 [[Hotel Transylvania]]
-[[Hulk and the Agents of S.M.A.S.H.]]
+[[Hulk and the Agents of S.M.A.S.H. (Show)]]
 [[I Am Weasel]]
 IGPX: Immortal Grand Prix
 I Know That Voice
@@ -271,7 +271,7 @@ W/ Bob and David
 [[We Bare Bears]]
 Welcome to the Wayne
 What a Cartoon!
-[[Whatever Happened to... Robot Jones]]?
+[[Whatever Happened to Robot Jones]]?
 What's New, Scooby-Doo?
 What's with Andy?
 [[Where's Waldo]]

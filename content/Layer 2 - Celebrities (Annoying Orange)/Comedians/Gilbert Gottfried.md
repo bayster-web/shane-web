@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Comedians/Gilbert Gottfried.md
-created: 2026-11-15T13:43:17.118Z
-modified: 2026-10-08T03:57:58.249Z
-published: 2026-10-08T03:57:58.249Z
+created: 2026-11-19T23:06:22.412Z
+modified: 2026-11-19T23:13:33.926Z
+published: 2026-11-19T23:13:33.926Z
 tags:
   - AnnoyingOrange
 ---
@@ -108,7 +108,7 @@ Longshot
 Look Who's Talking Too
 Mad
 [[Mad About You]]
-[[Married... with Children]]
+[[Married with Children]]
 Meet Wally Sparks
 Mickey's House of Villains
 [[Microsoft Office]] XP (Voice of Clippy)

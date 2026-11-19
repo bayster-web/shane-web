@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Ryan Radis.md
-created: 2026-11-15T13:40:24.468Z
+created: 2026-11-19T23:06:22.388Z
 modified: 2026-09-05T07:06:12.147Z
 published: 2026-09-05T07:06:12.147Z
 tags:

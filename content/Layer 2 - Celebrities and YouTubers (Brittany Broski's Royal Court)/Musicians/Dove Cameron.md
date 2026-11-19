@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Musicians/Dove Cameron.md
-created: 2026-11-15T13:43:11.585Z
-modified: 2026-09-19T14:48:55.312Z
-published: 2026-09-19T14:48:55.312Z
+created: 2026-11-19T23:06:22.465Z
+modified: 2026-11-19T23:20:22.417Z
+published: 2026-11-19T23:20:22.417Z
 tags:
   - RoyalCourt
 ---
@@ -27,7 +27,7 @@ Hairspray Live!
 [[Ultimate Spider-Man]]
 [[Project Runway]]
 The Lodge
-[[Agents of S.H.I.E.L.D.]]
+[[Agents of S.H.I.E.L.D. (Show)]]
 Soy Luna
 Home: Adventures with Tip & Oh
 Marvel Rising: Initiation

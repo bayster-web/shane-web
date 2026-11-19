@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Chase Infiniti.md
-created: 2026-11-15T13:43:26.321Z
+created: 2026-11-19T23:06:22.475Z
 modified: 2026-10-24T17:06:44.895Z
 published: 2026-10-24T17:06:44.895Z
 tags:

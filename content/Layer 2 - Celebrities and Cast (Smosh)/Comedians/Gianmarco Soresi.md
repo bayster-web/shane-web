@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Comedians/Gianmarco Soresi.md
-created: 2026-11-15T13:43:02.265Z
-modified: 2026-09-05T07:06:13.733Z
-published: 2026-09-05T07:06:13.733Z
+created: 2026-11-19T23:06:22.437Z
+modified: 2026-11-19T23:11:10.010Z
+published: 2026-11-19T23:11:10.010Z
 tags:
   - Smosh
 ---
@@ -33,7 +33,7 @@ I Love You... But I Lied
 How to Be a Startup in 21 Days
 Matza Pizza
 Cruel Children
-[[The Last O.G.]]
+[[The Last O.G. (Show)]]
 [[Deception]]
 Bonding
 We the Internet TV

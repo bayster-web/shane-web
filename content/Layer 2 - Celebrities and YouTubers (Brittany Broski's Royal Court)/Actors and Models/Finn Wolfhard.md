@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Finn Wolfhard.md
-created: 2026-11-15T13:43:10.565Z
+created: 2026-11-19T23:06:22.470Z
 modified: 2026-09-19T14:29:48.725Z
 published: 2026-09-19T14:29:48.725Z
 tags:

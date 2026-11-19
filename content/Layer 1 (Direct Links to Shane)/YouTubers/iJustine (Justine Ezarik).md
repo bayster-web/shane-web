@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/YouTubers/iJustine (Justine Ezarik).md
-created: 2026-11-15T13:43:01.233Z
+created: 2026-11-19T23:06:22.386Z
 modified: 2026-09-05T07:06:12.328Z
 published: 2026-09-05T07:06:12.328Z
 tags:

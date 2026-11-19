@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Travis Willingham.md
-created: 2026-11-15T13:43:34.667Z
-modified: 2026-11-14T14:10:33.170Z
-published: 2026-11-14T14:10:33.170Z
+created: 2026-11-19T23:06:22.435Z
+modified: 2026-11-19T23:20:02.022Z
+published: 2026-11-19T23:20:02.022Z
 tags:
   - DateEverything
 ---
@@ -76,7 +76,7 @@ Gun Sword
 [[Halo (Franchise)]] - Halo 4, Halo 5: Guardians, Halo Wars
 Hellsing Ultimate
 [[Heroes of the Storm]]
-[[Hulk and the Agents of S.M.A.S.H.]]
+[[Hulk and the Agents of S.M.A.S.H. (Show)]]
 [[inFAMOUS Franchise]] - Infamous First Light, Infamous Second Son
 Infinite Crisis
 JLA Adventures: Trapped in Time

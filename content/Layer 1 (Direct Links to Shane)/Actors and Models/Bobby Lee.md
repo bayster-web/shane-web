@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Bobby Lee.md
-created: 2026-11-15T13:43:03.238Z
-modified: 2026-09-05T07:06:11.981Z
-published: 2026-09-05T07:06:11.981Z
+created: 2026-11-19T23:06:22.393Z
+modified: 2026-11-19T23:19:29.611Z
+published: 2026-11-19T23:19:29.611Z
 tags:
   - DirectShane
 ---
@@ -12,7 +12,7 @@ tags:
 2 Different Tears ([[Wonder Girls]] music video)
 Alone Together
 [[American Dad]]
-[[And Just Like That...]]
+[[And Just Like That]]
 Animal Practice
 [[Arrested Development]]
 A Very [[Harold & Kumar]] 3D Christmas

@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Matt Lanter.md
-created: 2026-11-15T13:43:04.252Z
-modified: 2026-09-05T07:06:13.020Z
-published: 2026-09-05T07:06:13.020Z
+created: 2026-11-19T23:06:22.420Z
+modified: 2026-11-19T23:20:46.722Z
+published: 2026-11-19T23:20:46.722Z
 tags:
   - AnnoyingOrange
 ---
@@ -41,7 +41,7 @@ Shark
 Sorority Row
 Star-Crossed
 [[Star Wars Franchise]] - Star Wars: The Clone Wars, Star Wars: The Force Awakens, Star Wars Forces of Destiny, Star Wars Rebels, Star Wars: The Bad Batch, Star Wars: The Clone Wars
-[[S.W.A.T.]]
+[[S.W.A.T.  (Show)]]
 Tales of the Jedi
 The Astronaut Wives Club
 The Cutting Edge: Chasing the Dream

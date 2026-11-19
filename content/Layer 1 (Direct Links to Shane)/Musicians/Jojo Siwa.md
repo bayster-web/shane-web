@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Musicians/Jojo Siwa.md
-created: 2026-11-15T13:43:02.783Z
+created: 2026-11-19T23:06:22.378Z
 modified: 2026-09-05T07:06:12.209Z
 published: 2026-09-05T07:06:12.209Z
 tags:

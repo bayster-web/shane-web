@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/YouTubers/Lucas Cruikshank (FRED).md
-created: 2026-11-15T13:42:59.441Z
+created: 2026-11-19T23:06:22.383Z
 modified: 2026-09-05T07:06:12.352Z
 published: 2026-09-05T07:06:12.352Z
 tags:

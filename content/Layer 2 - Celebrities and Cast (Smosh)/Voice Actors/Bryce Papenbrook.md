@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Voice Actors/Bryce Papenbrook.md
-created: 2026-11-15T13:43:07.001Z
+created: 2026-11-19T23:06:22.440Z
 modified: 2026-09-05T07:06:13.843Z
 published: 2026-09-05T07:06:13.843Z
 tags:

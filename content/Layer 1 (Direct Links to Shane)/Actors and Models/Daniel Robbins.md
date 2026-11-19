@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Daniel Robbins.md
-created: 2026-11-15T13:43:12.054Z
-modified: 2026-09-19T15:14:58.017Z
-published: 2026-09-19T15:14:58.017Z
+created: 2026-11-19T23:06:22.395Z
+modified: 2026-11-19T23:20:46.705Z
+published: 2026-11-19T23:20:46.705Z
 tags:
   - DirectShane
 ---
@@ -20,7 +20,7 @@ Murder in the First
 Puppy Place
 [[SEAL Team]]
 Sexdotcom
-[[S.W.A.T.]]
+[[S.W.A.T.  (Show)]]
 Them
 Timeless
 The Last Tycoon

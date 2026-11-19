@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Girvan 'Swirv' Bramble.md
-created: 2026-11-15T13:43:01.961Z
-modified: 2026-09-05T07:06:12.028Z
-published: 2026-09-05T07:06:12.028Z
+created: 2026-11-19T23:06:22.391Z
+modified: 2026-11-19T23:20:46.711Z
+published: 2026-11-19T23:20:46.711Z
 tags:
   - DirectShane
 ---
@@ -39,7 +39,7 @@ Shadows Fall
 Side Hustle
 Snowfall
 Stranded 3
-[[S.W.A.T.]]
+[[S.W.A.T.  (Show)]]
 The Afterparty
 The American Society of Magical Negroes
 [[The Wheel of Time]]

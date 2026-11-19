@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Musicians/Dave Grohl.md
-created: 2026-11-15T13:43:30.337Z
+created: 2026-11-19T23:06:22.411Z
 modified: 2026-10-30T23:47:36.120Z
 published: 2026-10-30T23:47:36.120Z
 tags:

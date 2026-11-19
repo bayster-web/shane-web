@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Actors and Models/Dave Franco.md
-created: 2026-11-15T13:43:14.224Z
+created: 2026-11-19T23:06:22.447Z
 modified: 2026-09-30T09:20:37.220Z
 published: 2026-09-30T09:20:37.220Z
 tags:

@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Voice Actors/SungWon Cho - ProZD.md
-created: 2026-11-15T13:43:06.290Z
-modified: 2026-09-05T07:06:13.867Z
-published: 2026-09-05T07:06:13.867Z
+created: 2026-11-19T23:06:22.440Z
+modified: 2026-11-19T23:21:56.680Z
+published: 2026-11-19T23:21:56.680Z
 tags:
   - Smosh
 ---
@@ -82,7 +82,7 @@ Nine Noir Lives
 Nomad of Nowhere
 No Sleep for Kaname Date – From AI: The Somnium Files
 [[Odd Taxi]]
-[[OK K.O.]]! Let's Be Heroes
+[[OK K.O. - Let's Be Heroes]]! Let's Be Heroes
 [[One Piece]]
 Onyx Equinox
 Pantheon

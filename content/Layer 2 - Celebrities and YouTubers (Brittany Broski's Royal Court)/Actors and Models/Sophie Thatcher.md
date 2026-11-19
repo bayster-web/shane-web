@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Sophie Thatcher.md
-created: 2026-11-15T13:43:25.409Z
+created: 2026-11-19T23:06:22.474Z
 modified: 2026-10-24T16:49:01.123Z
 published: 2026-10-24T16:49:01.123Z
 tags:

@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Missi Pyle.md
-created: 2026-11-15T13:43:10.829Z
+created: 2026-11-19T23:06:22.395Z
 modified: 2026-09-19T14:36:41.138Z
 published: 2026-09-19T14:36:41.138Z
 tags:

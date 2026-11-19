@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Projects (Connections from Direct Links)/The Internet/Good Mythical Morning.md
-created: 2026-11-15T13:43:18.177Z
+created: 2026-11-19T23:06:22.560Z
 modified: 2026-10-21T11:17:40.713Z
 published: 2026-10-21T11:17:40.713Z
 tags:

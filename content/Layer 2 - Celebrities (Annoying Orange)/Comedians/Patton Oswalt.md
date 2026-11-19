@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Comedians/Patton Oswalt.md
-created: 2026-11-15T13:43:06.800Z
-modified: 2026-09-05T07:06:12.837Z
-published: 2026-09-05T07:06:12.837Z
+created: 2026-11-19T23:06:22.412Z
+modified: 2026-11-19T23:20:22.396Z
+published: 2026-11-19T23:20:22.396Z
 tags:
   - AnnoyingOrange
 ---
@@ -15,7 +15,7 @@ tags:
 Absolute Dominion
 A Disturbance in the Force
 Adventures in Wonder Park
-[[Agents of S.H.I.E.L.D.]]
+[[Agents of S.H.I.E.L.D. (Show)]]
 All Roads Lead Home
 Al's Brain
 [[American Dad]]!
@@ -215,7 +215,7 @@ The Secret Life of Walter Mitty
 [[The Simpsons]]
 The Spine of Night
 The [[Tom and Jerry]] Show
-[[The Venture Bros.]]
+[[The Venture Bros]]
 The Weird Al Show
 The X-Fools
 Those Who Can't

@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Benjamin Diskin.md
-created: 2026-11-15T13:43:06.897Z
-modified: 2026-09-05T07:06:13.424Z
-published: 2026-09-05T07:06:13.424Z
+created: 2026-11-19T23:06:22.431Z
+modified: 2026-11-19T23:20:01.972Z
+published: 2026-11-19T23:20:01.972Z
 tags:
   - DateEverything
 ---
@@ -71,7 +71,7 @@ Go! Go! Loser Ranger!
 [[He-Man and the Masters of the Universe]]
 [[Hey Arnold!]]
 High-Rise Invasion
-[[Hulk and the Agents of S.M.A.S.H.]]
+[[Hulk and the Agents of S.M.A.S.H. (Show)]]
 [[Hunter x Hunter]]
 Huntik: Secrets & Seekers
 Indivisible

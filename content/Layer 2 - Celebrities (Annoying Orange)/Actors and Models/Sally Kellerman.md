@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Sally Kellerman.md
-created: 2026-11-15T13:43:05.115Z
+created: 2026-11-19T23:06:22.421Z
 modified: 2026-09-05T07:06:13.055Z
 published: 2026-09-05T07:06:13.055Z
 tags:

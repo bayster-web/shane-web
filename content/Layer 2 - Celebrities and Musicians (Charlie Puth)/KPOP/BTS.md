@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Musicians (Charlie Puth)/KPOP/BTS.md
-created: 2026-11-15T13:43:30.540Z
+created: 2026-11-19T23:06:22.448Z
 modified: 2026-10-30T23:52:13.991Z
 published: 2026-10-30T23:52:13.991Z
 tags:

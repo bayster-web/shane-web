@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Drag Queens and Adjacent/Bob the Drag Queen.md
-created: 2026-11-15T13:43:24.765Z
+created: 2026-11-19T23:06:22.442Z
 modified: 2026-10-24T16:35:47.668Z
 published: 2026-10-24T16:35:47.668Z
 tags:

@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Reality TV Stars/Tyler Henry.md
-created: 2026-11-15T13:42:59.543Z
+created: 2026-11-19T23:06:22.380Z
 modified: 2026-09-05T07:06:12.262Z
 published: 2026-09-05T07:06:12.262Z
 tags:

@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Matt Bomer.md
-created: 2026-11-15T13:43:12.001Z
+created: 2026-11-19T23:06:22.424Z
 modified: 2026-09-19T15:14:57.655Z
 published: 2026-09-19T15:14:57.655Z
 tags:

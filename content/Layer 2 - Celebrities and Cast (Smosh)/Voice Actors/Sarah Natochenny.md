@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Voice Actors/Sarah Natochenny.md
-created: 2026-11-15T13:43:34.459Z
+created: 2026-11-19T23:06:22.441Z
 modified: 2026-11-14T14:10:33.190Z
 published: 2026-11-14T14:10:33.190Z
 tags:

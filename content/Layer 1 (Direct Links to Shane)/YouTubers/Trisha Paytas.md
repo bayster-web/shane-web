@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/YouTubers/Trisha Paytas.md
-created: 2026-11-15T13:43:31.298Z
+created: 2026-11-19T23:06:22.388Z
 modified: 2026-11-07T06:51:56.078Z
 published: 2026-11-07T06:51:56.078Z
 tags:

@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Grey DeLisle.md
-created: 2026-11-15T13:43:07.620Z
-modified: 2026-09-05T07:06:13.481Z
-published: 2026-09-05T07:06:13.481Z
+created: 2026-11-19T23:06:22.432Z
+modified: 2026-11-19T23:21:18.389Z
+published: 2026-11-19T23:21:18.389Z
 tags:
   - DateEverything
   - Fortnite
@@ -53,7 +53,7 @@ Crayon Shin-chan
 [[Curious George Franchise]] - Curious George: A Very Monkey Christmas
 Danger Rangers
 [[Danny Phantom]]
-[[Dan Vs.]]
+[[Dan Vs. (Show)]]
 [[Date Everything!]]
 [[Dave the Barbarian]]
 Dawn of the Croods
@@ -104,7 +104,7 @@ Henry Hugglemonster
 [[Hi Hi Puffy AmiYumi]]
 Hot Wheels Let's Race
 House of Mouse
-[[Hulk and the Agents of S.M.A.S.H.]]
+[[Hulk and the Agents of S.M.A.S.H. (Show)]]
 Hulk Versus
 [[Indiana Jones (Franchise)]] - Indiana Jones and the Infernal Machine
 Infinite Crisis
@@ -288,7 +288,7 @@ Unicorn: Warriors Eternal
 [[Wander Over Yonder]]
 Watchmen Chapter 1
 Watchmen Chapter 2
-[[Whatever Happened to... Robot Jones]]?
+[[Whatever Happened to Robot Jones]]?
 What's New, Scooby-Doo?
 [[When Marnie Was There (2014)]]
 [[Winx Club]] (Nickelodeon revival)

@@ -1,11 +1,9 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/YouTubers/Jeffree Star.md
-created: 2026-11-15T13:43:00.304Z
-modified: 2026-11-19T21:02:43.809Z
-published: 2026-11-19T21:02:43.809Z
-tags:
-  - DirectShane
+created: 2026-11-19T23:06:22.384Z
+modified: 2026-09-05T07:06:12.333Z
+published: 2026-09-05T07:06:12.333Z
 ---
 
 [[Metro Station]] Music Video (Shake It)

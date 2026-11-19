@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/YouTubers/Perez Hilton.md
-created: 2026-11-15T13:43:01.903Z
+created: 2026-11-19T23:06:22.387Z
 modified: 2026-11-19T18:17:15.066Z
 published: 2026-11-19T18:17:15.066Z
 tags:

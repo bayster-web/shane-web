@@ -1,11 +1,9 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Reality TV Stars/Steve-O.md
-created: 2026-11-15T13:43:16.891Z
-modified: 2026-11-19T21:02:43.753Z
-published: 2026-11-19T21:02:43.753Z
-tags:
-  - DirectShane
+created: 2026-11-19T23:06:22.381Z
+modified: 2026-11-19T23:16:09.436Z
+published: 2026-11-19T23:16:09.436Z
 ---
 
 Barely Lethal
@@ -43,7 +41,7 @@ Totally Busted
 [[America's Next Top Model]]
 Celebrity [[Love Island (UK)]], Original 2005 Series)
 The Dudesons
-[[The O.C.]]
+[[The O.C. (Show)]]
 24 Hours with...
 [[MTV Cribs]]
 2006 [[MTV Video Music Awards]]

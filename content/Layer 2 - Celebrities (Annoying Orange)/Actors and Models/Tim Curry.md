@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Tim Curry.md
-created: 2026-11-15T13:43:08.387Z
+created: 2026-11-19T23:06:22.424Z
 modified: 2026-09-06T08:38:06.565Z
 published: 2026-09-06T08:38:06.565Z
 tags:

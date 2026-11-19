@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/YouTubers/GloZell Green.md
-created: 2026-11-15T13:43:00.458Z
+created: 2026-11-19T23:06:22.385Z
 modified: 2026-09-05T07:06:12.299Z
 published: 2026-09-05T07:06:12.299Z
 tags:

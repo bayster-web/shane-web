@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Kristen Schaal.md
-created: 2026-11-15T13:43:05.573Z
-modified: 2026-09-05T07:06:13.090Z
-published: 2026-09-05T07:06:13.090Z
+created: 2026-11-19T23:06:22.422Z
+modified: 2026-11-19T23:19:29.618Z
+published: 2026-11-19T23:19:29.618Z
 tags:
   - AnnoyingOrange
 ---
@@ -14,7 +14,7 @@ Adam & Steve
 All Nighter
 [[American Dad]]!
 [[Amphibia]]
-[[And Just Like That...]]
+[[And Just Like That]]
 [[Aqua Teen Hunger Force]]
 [[Archer]]
 [[Anthem]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/YouTubers/Dan and Phil - Dan Howell and Phil Lester.md
-created: 2026-11-15T13:43:18.225Z
+created: 2026-11-19T23:06:22.435Z
 modified: 2026-11-19T15:35:53.420Z
 published: 2026-11-19T15:35:53.420Z
 tags:

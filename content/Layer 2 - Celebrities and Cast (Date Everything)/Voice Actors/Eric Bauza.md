@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Eric Bauza.md
-created: 2026-11-15T13:43:07.153Z
-modified: 2026-09-05T07:06:13.472Z
-published: 2026-09-05T07:06:13.472Z
+created: 2026-11-19T23:06:22.431Z
+modified: 2026-11-19T23:18:52.415Z
+published: 2026-11-19T23:18:52.415Z
 tags:
   - DateEverything
 ---
@@ -51,7 +51,7 @@ Clouds and Time with a Brick Wall
 [[Community]]
 [[Coyote vs. Acme]]
 Dallas & Robo
-[[Dan Vs.]]
+[[Dan Vs. (Show)]]
 DC Super Friends
 [[Dick Figures]]
 [[Dick Figures]]: The Movie

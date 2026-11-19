@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 3 - Projects (Connections from Annoying Orange)/The Internet/Critical Role.md
-created: 2026-11-15T13:43:10.040Z
+created: 2026-11-19T23:06:22.754Z
 modified: 2026-09-09T08:21:09.796Z
 published: 2026-09-09T08:21:09.796Z
 tags:

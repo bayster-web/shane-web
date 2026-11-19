@@ -1,9 +1,9 @@
 ---
 publish: true
 permalink: /Unfinished Links/Layer 2 - Celebrities and Cast (Smosh)/Stan Lee.md
-created: 2026-11-15T13:43:05.931Z
-modified: 2026-09-05T07:06:28.364Z
-published: 2026-09-05T07:06:28.364Z
+created: 2026-11-19T23:06:23.210Z
+modified: 2026-11-19T23:20:22.433Z
+published: 2026-11-19T23:20:22.433Z
 ---
 
 [[Fantastic Four - Rise of the Silver Surfer (2007)]]
@@ -52,7 +52,7 @@ Black Widow
 [[Spider-Man - No Way Home (2021 - MCU)]]
 [[Guardians of the Galaxy Vol. 3 (2023 - MCU)]]
 [[Deadpool & Wolverine (2024 - MCU)]]
-[[Agents of S.H.I.E.L.D.]]
+[[Agents of S.H.I.E.L.D. (Show)]]
 Agent Carter
 Daredevil (Netflix Show)
 Jessica Jones (Netflix Show)
@@ -88,7 +88,7 @@ The Incredible Hulk (1996 Cartoon)
 [[The Super Hero Squad Show]]
 Black Panther (2010 Cartoon)
 [[Ultimate Spider-Man]]
-[[Hulk and the Agents of S.M.A.S.H.]]
+[[Hulk and the Agents of S.M.A.S.H. (Show)]]
 [[Big Hero 6 - The Series]]
 [[Phineas and Ferb]] - Mission Marvel
 Lego Marvel Super Heroes: Maximum Overload / Trouble in Wakanda

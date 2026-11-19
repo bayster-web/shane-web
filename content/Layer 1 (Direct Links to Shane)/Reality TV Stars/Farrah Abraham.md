@@ -1,11 +1,9 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Reality TV Stars/Farrah Abraham.md
-created: 2026-11-15T13:43:12.548Z
-modified: 2026-11-19T21:02:43.747Z
-published: 2026-11-19T21:02:43.747Z
-tags:
-  - DirectShane
+created: 2026-11-19T23:06:22.381Z
+modified: 2026-09-21T18:08:07.198Z
+published: 2026-09-21T18:08:07.198Z
 ---
 
 [[Impaulsive]] Podcast

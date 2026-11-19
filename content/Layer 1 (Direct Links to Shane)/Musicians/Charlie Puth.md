@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Musicians/Charlie Puth.md
-created: 2026-11-15T13:43:30.996Z
+created: 2026-11-19T23:06:22.379Z
 modified: 2026-11-07T06:42:56.382Z
 published: 2026-11-07T06:42:56.382Z
 tags:

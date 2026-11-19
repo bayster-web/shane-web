@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Yerin Ha.md
-created: 2026-11-15T13:43:11.743Z
+created: 2026-11-19T23:06:22.472Z
 modified: 2026-09-19T14:54:51.077Z
 published: 2026-09-19T14:54:51.077Z
 tags:

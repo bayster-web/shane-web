@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Colman Domingo.md
-created: 2026-11-15T13:43:11.795Z
+created: 2026-11-19T23:06:22.472Z
 modified: 2026-09-19T15:00:47.492Z
 published: 2026-09-19T15:00:47.492Z
 tags:

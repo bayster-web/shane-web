@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Actors and Models/Dante Basco.md
-created: 2026-11-15T13:43:34.047Z
+created: 2026-11-19T23:06:22.428Z
 modified: 2026-11-14T14:10:21.389Z
 published: 2026-11-14T14:10:21.389Z
 tags:

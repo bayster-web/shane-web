@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Frank Gerrish.md
-created: 2026-11-15T13:43:03.840Z
+created: 2026-11-19T23:06:22.393Z
 modified: 2026-09-05T07:06:12.000Z
 published: 2026-09-05T07:06:12.000Z
 tags:

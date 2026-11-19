@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Comedians/Kathy Griffin.md
-created: 2026-11-15T13:43:32.378Z
+created: 2026-11-19T23:06:22.371Z
 modified: 2026-11-13T05:07:29.208Z
 published: 2026-11-13T05:07:29.208Z
 tags:

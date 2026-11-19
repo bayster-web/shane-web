@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /Unfinished Links/Layer 2 - Celebrities and Cast (Smosh)/YouTubers and Streamers/VanillaMace.md
-created: 2026-11-15T13:43:31.146Z
+created: 2026-11-19T23:06:23.387Z
 modified: 2026-11-07T06:44:12.504Z
 published: 2026-11-07T06:44:12.504Z
 tags:
