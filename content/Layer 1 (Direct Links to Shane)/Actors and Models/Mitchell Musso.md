@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Mitchell Musso.md
+created: 2026-11-15T13:43:01.284Z
+modified: 2026-09-05T07:06:12.134Z
+published: 2026-09-05T07:06:12.134Z
 tags:
   - DirectShane
 ---
+
 The Keyman (2002)
 Secondhand Lions
 Life Is Ruff

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Christine Marie Cabanos.md
+created: 2026-11-15T13:43:06.342Z
+modified: 2026-09-05T07:06:13.152Z
+published: 2026-09-05T07:06:13.152Z
 tags:
   - AnnoyingOrange
 ---
+
 Accel World
 Akiba's Trip: Hellbound & Debriefed
 Aldnoah.Zero

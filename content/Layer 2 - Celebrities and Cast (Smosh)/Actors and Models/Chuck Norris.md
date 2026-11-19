@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Actors and Models/Chuck Norris.md
+created: 2026-11-15T13:43:30.740Z
+modified: 2026-11-01T00:01:11.892Z
+published: 2026-11-01T00:01:11.892Z
 tags:
   - Smosh
 ---
+
 The Wrecking Crew
 The Way of the Dragon
 The Student Teachers
@@ -51,14 +57,16 @@ Inside World Combat League
 [[The Goldbergs]]
 Chuck Norris's Epic Guide to Military Vehicles
 [[Hawaii Five-0]]
+
 ## Commercials
+
 [[Dodge]] Ram
-CForce 
+CForce
 [[World of Warcraft]]  - https://www.youtube.com/watch?v=rllvKGZfwMg
-[[WBK Bank]] Commercial 
-[[UnitedHealthcare]] - Lunch vs Chuck 
-[[Toyota]] Tacoma 
-[[World of Tanks]] Holiday Ops 
+[[WBK Bank]] Commercial
+[[UnitedHealthcare]] - Lunch vs Chuck
+[[Toyota]] Tacoma
+[[World of Tanks]] Holiday Ops
 [[Total Gym]]
 [[Red Baron]] Pizza - https://www.ispot.tv/ad/57sW/red-baron-fully-loaded-hand-tossed-style-crust-saloon
 [[Procter & Gamble (P&G)]] - [[Era Detergent]] - https://www.ispot.tv/ad/7kZs/era-laundry-detergent-headbutted-a-tea-stain

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Tony Cavalero.md
+created: 2026-11-15T13:43:01.649Z
+modified: 2026-09-05T07:06:12.165Z
+published: 2026-09-05T07:06:12.165Z
 tags:
   - DirectShane
 ---
+
 [[2 Broke Girls]]
 Agent Elvis
 American Princess

@@ -1,8 +1,14 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Voice Actors/Bryce Papenbrook.md
+created: 2026-11-15T13:43:07.001Z
+modified: 2026-09-05T07:06:13.843Z
+published: 2026-09-05T07:06:13.843Z
 tags:
   - Smosh
   - DateEverything
 ---
+
 Ajin
 Aldnoah.Zero
 A Lull in the Sea
@@ -85,7 +91,7 @@ MÄR
 Marvel Anime: Blade
 [[Marvel Future Avengers]]
 Mind Zero
-[[Miraculous - Tales of Ladybug & Cat Noir]] 
+[[Miraculous - Tales of Ladybug & Cat Noir]]
 Mission: Yozakura Family
 [[Mobile Suit Gundam]]: Iron-Blooded Orphans
 Mobius [[Final Fantasy]]
@@ -116,7 +122,7 @@ Sakuna: Of Rice and Ruin
 [[Shenmue (Franchise)]] - Shenmue III
 [[Shin Megami Tensei Franchise]] - Shin Megami Tensei IV
 Sleepy Princess in the Demon Castle
-[[Sonic the Hedgehog]] series - (Silver the Hedgehog voice since 2019) - Sonic Racing: CrossWorlds,  Sonic X Shadow Generations, [[Mario & Sonic (Olympics Franchise)]] - Mario & Sonic at the Olympic Games: Tokyo 2020, Team Sonic racing, 
+[[Sonic the Hedgehog]] series - (Silver the Hedgehog voice since 2019) - Sonic Racing: CrossWorlds,  Sonic X Shadow Generations, [[Mario & Sonic (Olympics Franchise)]] - Mario & Sonic at the Olympic Games: Tokyo 2020, Team Sonic racing,
 [[Soul Eater]] Not!
 Space Dandy
 [[Star Ocean (Franchise)]] - Star Ocean: The Divine Force
@@ -151,5 +157,6 @@ YooHoo to the Rescue
 [[World of Warcraft]]
 
 # Commercials
-[[Friskies]] - https://youtu.be/4UqNkHqA_B8 
+
+[[Friskies]] - https://youtu.be/4UqNkHqA\_B8
 [[Red Bull]] - https://youtu.be/L5xsFNfIPlM

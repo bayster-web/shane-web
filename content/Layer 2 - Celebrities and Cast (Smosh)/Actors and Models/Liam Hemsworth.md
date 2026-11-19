@@ -1,12 +1,19 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Actors and Models/Liam Hemsworth.md
+created: 2026-11-15T13:43:02.166Z
+modified: 2026-09-05T07:06:13.703Z
+published: 2026-09-05T07:06:13.703Z
 tags:
   - Smosh
 ---
+
 [[Miley Cyrus]] (Ex-Fiance)
 Chris Hemsworth (Brother)
 Luke Hemsworth (Brother)
 
 ---
+
 Arkansas
 Cut Bank
 Empire State

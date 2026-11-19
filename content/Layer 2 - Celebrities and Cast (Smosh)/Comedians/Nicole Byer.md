@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Comedians/Nicole Byer.md
+created: 2026-11-15T13:43:14.176Z
+modified: 2026-09-30T09:20:37.012Z
+published: 2026-09-30T09:20:37.012Z
 tags:
   - Smosh
 ---
+
 [[The Unicorn]]
 A Better You
 Other People
@@ -53,7 +59,7 @@ Little Big Awesome
 [[Big City Greens]]
 [[The Good Place]]
 [[The Simpsons]]
-Bajillion Dollar Propertie$
+Bajillion Dollar Propertie\$
 [[A Black Lady Sketch Show]]
 Snoopy in Space
 [[Tuca & Bertie]]
@@ -99,6 +105,7 @@ Dinner Time Live with David Chang
 [[Chibiverse]]
 
 # Podcasts
+
 Before You Were Funny
 Doodie Calls with Doug Mand
 Baby Geniuses
@@ -193,14 +200,11 @@ My Favorite Murder
 [[Call Her Daddy]]
 Brooke Candy: Unwrapped
 
-
-
-
 # Commercials
+
 [[Smirnoff]] - https://www.youtube.com/watch?v=Ag7JVc0S4yA
 [[Wayfair]] - https://www.ispot.tv/ad/T56Z/wayfair-welcome-to-the-wayborhood-patio-featuring-kelly-clarkson
 [[Uber]] - https://www.ispot.tv/ad/OiTS/uber-rent
-[[AT&T]] - https://www.ispot.tv/ad/bn_d/at-and-t-5g-replacement-feat-kumail-nanjiani-zooey-deschanel-lamelo-ball-rosario-dawson
+[[AT&T]] - https://www.ispot.tv/ad/bn\_d/at-and-t-5g-replacement-feat-kumail-nanjiani-zooey-deschanel-lamelo-ball-rosario-dawson
 [[MTV]] (Get Tested for STDs bumper) - https://www.ispot.tv/ad/76n4/mtv-network-get-yourself-tested-recycle-bin
 [[Nestle]] - https://www.youtube.com/watch?v=GfBcRwiOfk4
-

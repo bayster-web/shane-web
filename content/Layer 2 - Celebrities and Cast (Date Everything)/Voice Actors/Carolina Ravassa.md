@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Carolina Ravassa.md
+created: 2026-11-15T13:43:11.410Z
+modified: 2026-09-19T14:49:19.446Z
+published: 2026-09-19T14:49:19.446Z
 tags:
   - DateEverything
 ---
+
 [[Step Up (Franchise)]] - Step Up 3D
 Maybe Tomorrow
 5

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Girvan 'Swirv' Bramble.md
+created: 2026-11-15T13:43:01.961Z
+modified: 2026-09-05T07:06:12.028Z
+published: 2026-09-05T07:06:12.028Z
 tags:
   - DirectShane
 ---
+
 68 Whiskey
 All's Fair
 [[Ant-Man and the Wasp (2018 - MCU)]]

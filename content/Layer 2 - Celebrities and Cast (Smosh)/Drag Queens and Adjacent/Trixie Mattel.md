@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Drag Queens and Adjacent/Trixie Mattel.md
+created: 2026-11-15T13:43:12.808Z
+modified: 2026-09-21T18:58:13.409Z
+published: 2026-09-21T18:58:13.409Z
 tags:
   - Smosh
 ---
+
 Trixie Mattel: Moving Parts
 RuPaul's Drag Race
 RuPaul's Drag Race: Untucked
@@ -74,7 +80,7 @@ Stand Out: An LGBTQ+ Celebration
 Walk In
 Awards for Excellence in Audio
 Tammie Talks
-Last Meals (Mythical Kitchen) 
+Last Meals (Mythical Kitchen)
 The Kelly Mantle Show
 Sloppy Seconds
 Lovett or Leave It

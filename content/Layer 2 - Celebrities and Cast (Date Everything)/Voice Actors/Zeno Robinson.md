@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Zeno Robinson.md
+created: 2026-11-15T13:43:06.594Z
+modified: 2026-09-05T07:06:13.558Z
+published: 2026-09-05T07:06:13.558Z
 tags:
   - DateEverything
 ---
+
 2.43: Seiin High School Boys Volleyball Team
 86
 [[Aggretsuko]]

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Liam O'Brien.md
+created: 2026-11-15T13:43:34.260Z
+modified: 2026-11-14T14:10:21.425Z
+published: 2026-11-14T14:10:21.425Z
 tags:
   - DateEverything
 ---
+
 [[Afro Samurai]]: Resurrection
 Age of Umbra
 [[Alien (Franchise)]] - Aliens: Colonial Marines
@@ -196,7 +202,7 @@ Tenjho Tenge
 [[Terminator - Franchise]] - Terminator Salvation
 Texhnolyze
 [[XCOM (Franchise)]] - The Bureau: XCOM Declassified
-The Dragon King 
+The Dragon King
 [[Elder Scrolls Franchise]] - The Elder Scrolls Online
 [[The Evil Within]]
 The Last: Naruto the Movie

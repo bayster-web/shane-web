@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Matt Lanter.md
+created: 2026-11-15T13:43:04.252Z
+modified: 2026-09-05T07:06:13.020Z
+published: 2026-09-05T07:06:13.020Z
 tags:
   - AnnoyingOrange
 ---
+
 [[8 Simple Rules]]
 [[90210]]
 [[Annoying Orange (TV Show or YouTube Series)]]

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Mindy Kaling.md
+created: 2026-11-15T13:43:11.097Z
+modified: 2026-09-19T14:44:43.046Z
+published: 2026-09-19T14:44:43.046Z
 tags:
   - RoyalCourt
 ---
+
 The 40-Year-Old Virgin
 Unaccompanied Minors
 License to Wed

@@ -1,10 +1,17 @@
 ---
+publish: true
+permalink: /Layer 1 (Things Shane Has Been On or Sponsored By)/YouTube/Smosh/Smosh - Sponsors.md
+created: 2026-11-15T13:43:06.947Z
+modified: 2026-09-05T07:06:12.763Z
+published: 2026-09-05T07:06:12.763Z
 tags:
   - Smosh
 ---
+
 [[Smosh]]
 
-# Sponsors/Ad Reads 
+# Sponsors/Ad Reads
+
 [[Airbnb]]  (Original Smoshcast)
 [[Amazon Prime Video]] - (Scouts Guide to the Zombie Apocalypse/Utopia (season 1)) - (Games Channel)
 Anchor FM (Merged into Spotify for Creators) - (Smoshcast)

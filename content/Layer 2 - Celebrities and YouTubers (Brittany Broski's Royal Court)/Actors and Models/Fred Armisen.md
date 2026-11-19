@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Fred Armisen.md
+created: 2026-11-15T13:43:16.204Z
+modified: 2026-10-08T03:51:02.748Z
+published: 2026-10-08T03:51:02.748Z
 tags:
   - RoyalCourt
 ---
+
 Guide to Music and South by Southwest
 Fred Armisen's Guide to Dance and Self-Defense
 I Am Trying to Break Your Heart: A Film About Wilco

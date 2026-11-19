@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Dee Bradley Baker.md
+created: 2026-11-15T13:43:07.690Z
+modified: 2026-09-05T07:06:13.166Z
+published: 2026-09-05T07:06:13.166Z
 tags:
   - AnnoyingOrange
 ---
+
 Abra-Catastrophe
 [[Adventure Time]]
 [[Adventure Time]]: Distant Lands
@@ -314,7 +320,7 @@ The [[Fairly OddParents]]
 The Grim Adventures of the KND
 The Haunted Mansion
 The Haunted World of El Superbeasto
-[[The Hobbit]] 
+[[The Hobbit]]
 [[The Hobbit]]: The Battle of the Five Armies
 The Jungle Book: Mowgli's Story
 The King of Kings

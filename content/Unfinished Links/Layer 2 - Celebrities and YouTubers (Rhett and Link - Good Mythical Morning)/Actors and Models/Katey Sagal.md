@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Unfinished Links/Layer 2 - Celebrities and YouTubers (Rhett and Link - Good Mythical Morning)/Actors and Models/Katey Sagal.md
+created: 2026-11-15T13:43:14.578Z
+modified: 2026-10-03T07:42:09.180Z
+published: 2026-10-03T07:42:09.180Z
 tags:
   - GMM
 ---
+
 [[Smart House (Disney Channel Movie)]]
 [[Married... with Children]]
 Maid to Order

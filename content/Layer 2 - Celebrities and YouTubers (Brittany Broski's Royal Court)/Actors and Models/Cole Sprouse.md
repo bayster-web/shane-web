@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Cole Sprouse.md
+created: 2026-11-15T13:43:10.362Z
+modified: 2026-09-19T14:27:17.021Z
+published: 2026-09-19T14:27:17.021Z
 tags:
   - RoyalCourt
 ---
+
 [[Big Daddy]]
 The Astronaut's Wife
 Diary of a Sex Addict
@@ -22,9 +28,9 @@ I Wish You All the Best
 The Rivals of Amziah King
 The Long Haul
 Vintage Violence
-Goodbye Girl 
-Elastic Hearts 
-Wake 
+Goodbye Girl
+Elastic Hearts
+Wake
 [[Grace Under Fire]]
 [[Mad TV]]
 [[Friends]]

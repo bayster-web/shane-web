@@ -1,9 +1,15 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/YouTubers/iJustine (Justine Ezarik).md
+created: 2026-11-15T13:43:01.233Z
+modified: 2026-09-05T07:06:12.328Z
+published: 2026-09-05T07:06:12.328Z
 tags:
   - DirectShane
 ---
+
 [[Annoying Orange (TV Show or YouTube Series)]]
-[[Criminal Minds]], 
+[[Criminal Minds]],
 Go Fish (2019)
 I, Justine (book published by [[Keywords Press (Imprint of Atria - Simon and Schuster)]])
 [[Law and Order Franchise]] - Law and Order: SVU

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Musicians/Alice Cooper.md
+created: 2026-11-15T13:43:12.761Z
+modified: 2026-09-21T18:57:46.862Z
+published: 2026-09-21T18:57:46.862Z
 tags:
   - AnnoyingOrange
 ---
+
 2nd Classic Rock Roll of Honour Awards
 6th Marshall Classic Rock Roll of Honour Awards
 11th Classic Rock Roll of Honour Awards
@@ -126,8 +132,7 @@ Kerrang! Awards 2015
 Kerrang! Awards 2016
 Kings of Glam
 Last Call with Carson Daly
-Later...with Jools Holland
-[[Late Show with David Letterman]]
+Later...with Jools Holland [[Late Show with David Letterman]]
 Lee Mack's All Star Cast
 Lemmy
 Lista Top 40
@@ -144,8 +149,7 @@ Metal Evolution
 Metal Hammer Golden Gods Awards
 Michael Douglas & Friends Celebrity Golf Tournament
 Mickey Mouse Mixed-Up Adventures
-Midsummer Rock
-[[Monk]]
+Midsummer Rock [[Monk]]
 Monster Dog
 Mother of Rock: The Life and Times of Lillian Roxon
 MusiCalifornia
@@ -282,6 +286,6 @@ WrestleMania III
 X-Rated: The Pop Videos They Tried to Ban
 You Wanted the Best... You Got the Best: The Official KISS Movie
 
-
 # Commercials
+
 [[Staples]] - https://www.youtube.com/watch?v=dyfqvrx9Jx0

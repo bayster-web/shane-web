@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Wilmer Valderrama.md
+created: 2026-11-15T13:43:03.798Z
+modified: 2026-09-05T07:06:12.180Z
+published: 2026-09-05T07:06:12.180Z
 tags:
   - DirectShane
 ---
+
 Are You There, Chelsea?
 Awake
 [[Barbershop Franchise]] - Beauty Shop

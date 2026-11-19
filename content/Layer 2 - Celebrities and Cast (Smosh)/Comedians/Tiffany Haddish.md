@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Comedians/Tiffany Haddish.md
+created: 2026-11-15T13:43:34.098Z
+modified: 2026-11-14T14:10:21.462Z
+published: 2026-11-14T14:10:21.462Z
 tags:
   - Smosh
 ---
+
 The Urban Demographic
 Meet the Spartans
 Janky Promoters
@@ -61,7 +67,7 @@ The McCaingels
 Def Comedy Jam
 Baisden After Dark
 Reality Bites Back
-[[Comics Unleashed]] 
+[[Comics Unleashed]]
 In the Motherhood
 Secret Girlfriend
 Black to the Future
@@ -125,6 +131,7 @@ It's Florida, Man
 [[Terminator - Franchise]] - Terminator Salvation (Video Game)
 
 # Music Videos
+
 [[Jay-Z]] (Moonlight)
 [[Maroon 5]] (Girls Like You)
 [[Todrick Hall]] (What's Going On/Ring-a-Ling/Pettiness/Apple Pie)
@@ -134,6 +141,7 @@ Johnny Gill (Soul of a Woman)
 [[Jason Mraz]] (You Do You)
 
 # Commercials
+
 [[Groupon]] - https://www.ispot.tv/ad/wxtL/groupon-save-on-groupon-like-tiffany-haddish
 [[Sleeper (Fantasy Football)]] - https://www.youtube.com/watch?v=43cfpnPp2p0
 [[Discovery+]] - https://www.ispot.tv/ad/OFpG/discovery-tiffany-haddish-does-shark-week

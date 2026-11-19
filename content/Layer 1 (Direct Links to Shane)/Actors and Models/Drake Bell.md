@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Drake Bell.md
+created: 2026-11-15T13:43:04.962Z
+modified: 2026-09-05T07:06:11.988Z
+published: 2026-09-05T07:06:11.988Z
 tags:
   - DirectShane
 ---
+
 7 Secrets with Miranda Cosgrove
 20 Moves
 ABC Afterschool Special

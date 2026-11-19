@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Comedians/Kathy Griffin.md
+created: 2026-11-15T13:43:32.378Z
+modified: 2026-11-13T05:07:29.208Z
+published: 2026-11-13T05:07:29.208Z
 tags:
   - DirectShane
 ---
+
 [[American Dad]]
 Bachelor Party Vegas / Vegas, Baby
 Beethoven's 5th
@@ -72,10 +78,11 @@ World Poker Tour
 [[Big Brother (US)]]
 
 # Commercials
+
 [[Kenwood]] - https://youtu.be/qCN1kJx-UdM
 [[Target]] - https://youtu.be/8o8Og6a3ifk
 [[Kmart]] (US) - https://youtu.be/C9MGy-MtN5o
-[[AARP]] - https://youtu.be/FWcYz_-lpcA
+[[AARP]] - https://youtu.be/FWcYz\_-lpcA
 Arizona Mills (Shopping Centre) - https://youtu.be/H8jhA40pX9s
 Frosted [[Cheerios]] - https://youtu.be/fnnS590S3q4
 [[Alka Seltzer]] - https://youtu.be/N7soXTso5sQ

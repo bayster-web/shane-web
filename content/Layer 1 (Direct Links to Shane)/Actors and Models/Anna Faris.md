@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Anna Faris.md
+created: 2026-11-15T13:43:03.192Z
+modified: 2026-09-05T07:06:11.932Z
+published: 2026-09-05T07:06:11.932Z
 tags:
   - DirectShane
 ---
+
 22 Jump Street
 [[Alvin and the Chipmunks]] 2-4
 [[Brokeback Mountain]]
@@ -49,6 +55,7 @@ Winter Break
 Yogi Bear
 
 # Commercials
+
 Avocados (From Mexico) - https://youtu.be/wC-bOP2hl1g
 [[Walmart]] (Pharmacy) - https://www.youtube.com/watch?v=7RKrbKboAOk
 [[PetSmart]] - https://youtu.be/-C0baZr5t60

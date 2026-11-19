@@ -1,8 +1,14 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Phil LaMarr.md
+created: 2026-11-15T13:43:34.309Z
+modified: 2026-11-14T14:10:21.371Z
+published: 2026-11-14T14:10:21.371Z
 tags:
   - AnnoyingOrange
   - Fortnite
 ---
+
 50 Cent: Bulletproof
 [[A Black Lady Sketch Show]]
 [[According to Jim]]
@@ -79,7 +85,7 @@ Deep
 [[Despicable Me Franchise]] - Minions & Monsters
 Devil May Care
 [[Diablo Franchise]] - Diablo III
-[[Disenchantment]] 
+[[Disenchantment]]
 Dissidia Final Fantasy NT
 [[Doom Franchise]] - Doom 3
 [[Dota 2]]
@@ -221,7 +227,7 @@ Philly
 [[Pickle and Peanut]]
 [[Pound Puppies]]
 Prep & Landing: Naughty vs. Nice
-[[Prototype (Series)]] - [PROTOTYPE]
+[[Prototype (Series)]] - \[PROTOTYPE]
 [[Pulp Fiction]]
 [[Quake Franchise]] - Quake 4
 Quiz Lady

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Actors and Models/Dave Franco.md
+created: 2026-11-15T13:43:14.224Z
+modified: 2026-09-30T09:20:37.220Z
+published: 2026-09-30T09:20:37.220Z
 tags:
   - Smosh
 ---
+
 [[Superbad]]
 After Sex
 Milk
@@ -62,7 +68,6 @@ The Studio
 [[Jamie Foxx]] featuring [[Dave Franco]], J Young MDK, Sam Pounds and [[Snoop Dogg]] music video (Bud (Remix))
 
 # Commercials
+
 [[Summoners War (Game)]] - https://www.ispot.tv/ad/ACxp/summoners-war-team-up-featuring-dave-franco-alison-brie
 [[Electronic Arts]] [[Madden NFL (Game Series)]] - https://www.youtube.com/watch?v=IeeZ5Zynn54
-
- 

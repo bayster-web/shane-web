@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Scott Grimes.md
+created: 2026-11-15T13:43:03.391Z
+modified: 2026-09-05T07:06:13.062Z
+published: 2026-09-05T07:06:13.062Z
 tags:
   - AnnoyingOrange
 ---
+
 Critters
 Pinocchio and the Emperor of the Night
 Critters 2: The Main Course

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Comedians/Gilbert Gottfried.md
+created: 2026-11-15T13:43:17.118Z
+modified: 2026-10-08T03:57:58.249Z
+published: 2026-10-08T03:57:58.249Z
 tags:
   - AnnoyingOrange
 ---
+
 80s Creature House
 Abnormal Attraction
 A Disturbance in the Force
@@ -31,7 +37,7 @@ Big Bag
 Billy & Mandy Save Christmas
 [[Bobby's World]]
 Bonkers
-Boy Band 
+Boy Band
 Bravo's 100 Scariest Movie Moments
 Bumping Mics with Jeff Ross & Dave Attell
 Bump in the Night

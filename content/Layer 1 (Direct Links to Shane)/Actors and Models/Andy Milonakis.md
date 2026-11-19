@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Andy Milonakis.md
+created: 2026-11-15T13:43:01.385Z
+modified: 2026-09-05T07:06:11.957Z
+published: 2026-09-05T07:06:11.957Z
 tags:
   - DirectShane
 ---
+
 2 Dudes and a Dream
 [[Adventure Time]]
 [[Adventure Time]]: Fionna & Cake

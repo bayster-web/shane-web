@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Comedians/Thomas Lennon.md
+created: 2026-11-15T13:43:06.443Z
+modified: 2026-09-05T07:06:13.753Z
+published: 2026-09-05T07:06:13.753Z
 tags:
   - Smosh
 ---
+
 A Friend of Dorothy
 Row Your Boat
 [[Drop Dead Gorgeous]]
@@ -131,7 +137,7 @@ Dawn of the Croods
 Animals.
 [[Goldie & Bear]]
 [[LEGO]] Star Wars: The Freemaker Adventures
-Bajillion Dollar Propertie$
+Bajillion Dollar Propertie\$
 [[American Dad]]!
 [[Santa Clarita Diet]]
 Lethal Weapon (2016 Show)

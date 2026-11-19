@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Jeffrey Tambor.md
+created: 2026-11-15T13:43:06.549Z
+modified: 2026-09-05T07:06:12.971Z
+published: 2026-09-05T07:06:12.971Z
 tags:
   - AnnoyingOrange
 ---
+
 3-South
 9 to 5
 55 Steps

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Cree Summer.md
+created: 2026-11-15T13:43:07.251Z
+modified: 2026-09-05T07:06:13.157Z
+published: 2026-09-05T07:06:13.157Z
 tags:
   - AnnoyingOrange
 ---
+
 101 Dalmatians: The Series
 [[Abbott Elementary]]
 A Different World
@@ -48,7 +54,7 @@ Camp Candy
 Cartoon Network Universe: [[FusionFall]]
 ChalkZone
 [[Class of 3000]]
-[[Clifford the Big Red Dog]] - 
+[[Clifford the Big Red Dog]] -
 Clifford's Really Big Movie
 Clifford the Big Red Dog Learning Activities
 Clifford the Big Red Dog Musical Memory Games
@@ -145,7 +151,7 @@ Medusa's Revenge
 Miles from Tomorrowland
 [[Milo Murphy's Law]]
 Mixels
-M&M's The Lost Formulas
+M\&M's The Lost Formulas
 Moonbeam City
 [[Moon Girl and Devil Dinosaur]]
 [[Mortal Kombat Franchise]] - Mortal Kombat: Defenders of the Realm
@@ -209,7 +215,7 @@ Strange Frame: Love & Sax
 Swarm
 Sweet Justice
 [[Teen Titans Go!]]
-[[Teen Titans Go! & DC Super Hero Girls - Mayhem in the Multiverse]] 
+[[Teen Titans Go! & DC Super Hero Girls - Mayhem in the Multiverse]]
 [[The Boondocks]]
 The Buzz on Maggie
 [[The Care Bears]] Family

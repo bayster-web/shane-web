@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/YouTubers/Gabbie Hanna.md
+created: 2026-11-15T13:43:00.610Z
+modified: 2026-09-05T07:06:12.284Z
+published: 2026-09-05T07:06:12.284Z
 tags:
   - DirectShane
 ---
+
 2016 Teen Choice Awards
 Access Hollywood
 Adultolescence (Book Published by [[Keywords Press (Imprint of Atria - Simon and Schuster)]])

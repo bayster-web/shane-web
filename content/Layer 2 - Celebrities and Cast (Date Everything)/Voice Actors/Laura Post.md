@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Laura Post.md
+created: 2026-11-15T13:43:06.498Z
+modified: 2026-09-05T07:06:13.540Z
+published: 2026-09-05T07:06:13.540Z
 tags:
   - DateEverything
 ---
+
 13 Sentinels: Aegis Rim
 [[A Hat in Time]]: Nyakuza Metro
 AI: The Somnium Files – Nirvana Initiative
@@ -28,7 +34,7 @@ Freedom Fighters: The Ray
 Gantz: O
 Gargantia on the Verdurous Planet
 [[Genshin Impact]]
-[[Ghost in the Shell]]: SAC_2045
+[[Ghost in the Shell]]: SAC\_2045
 Giovanni's Island
 [[Godzilla (Franchise)]] - Godzilla: The Planet Eater
 [[Granblue Fantasy (Series)]] - Granblue Fantasy: Relink, Granblue Fantasy Versus, Granblue Fantasy Versus: Rising
@@ -106,7 +112,7 @@ Trinity Trigger
 [[Violet Evergarden]]: Eternity and the Auto Memory Doll
 Vitamin Connection
 Vivy: Fluorite Eye's Song
-[[Voltron - Legendary Defender]] 
+[[Voltron - Legendary Defender]]
 [[World of Warcraft]]: Battle For Azeroth, World of Warcraft: Cataclysm, World of Warcraft: Legion, World of Warcraft: Mists of Pandaria
 Yashahime: Princess Half-Demon
 [[Yo-Kai Watch (Franchise)]] - Yo-kai Watch

@@ -1,8 +1,14 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Courtenay Taylor.md
+created: 2026-11-15T13:43:25.562Z
+modified: 2026-10-24T16:55:18.142Z
+published: 2026-10-24T16:55:18.142Z
 tags:
   - DateEverything
   - ShutUpCartoons
 ---
+
 [[Resident Evil (Franchise)]] - Resident Evil: Damnation
 Wonder Woman: Bloodlines
 [[Mortal Kombat Franchise]] - Mortal Kombat Legends: Snow Blind

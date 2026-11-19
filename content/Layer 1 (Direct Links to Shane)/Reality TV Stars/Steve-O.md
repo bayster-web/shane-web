@@ -1,6 +1,13 @@
 ---
-{}
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Reality TV Stars/Steve-O.md
+created: 2026-11-15T13:43:16.891Z
+modified: 2026-11-19T21:02:43.753Z
+published: 2026-11-19T21:02:43.753Z
+tags:
+  - DirectShane
 ---
+
 Barely Lethal
 Blind Horizon
 [[Celebrity Medium with Tyler Henry]]

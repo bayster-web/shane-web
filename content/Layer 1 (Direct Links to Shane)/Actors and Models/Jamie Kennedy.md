@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Jamie Kennedy.md
+created: 2026-11-15T13:43:04.617Z
+modified: 2026-09-05T07:06:12.062Z
+published: 2026-09-05T07:06:12.062Z
 tags:
   - DirectShane
 ---
+
 As Good as It Gets
 Bait
 [[Baz Luhrmann's Romeo + Juliet]]

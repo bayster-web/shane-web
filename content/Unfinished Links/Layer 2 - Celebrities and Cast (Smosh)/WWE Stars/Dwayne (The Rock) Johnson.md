@@ -1,8 +1,14 @@
 ---
+publish: true
+permalink: /Unfinished Links/Layer 2 - Celebrities and Cast (Smosh)/WWE Stars/Dwayne (The Rock) Johnson.md
+created: 2026-11-15T13:43:16.509Z
+modified: 2026-10-08T03:53:29.348Z
+published: 2026-10-08T03:53:29.348Z
 tags:
   - Smosh
   - Fortnite
 ---
+
 2009 Kids' Choice Awards
 2016 [[MTV Movie Awards]]
 [[Ballers]]
@@ -85,5 +91,5 @@ You Again
 | 2011                | "Dwayne "The Rock" Johnson WWE Entrance Video"                                                      | [Jim Johnston](https://en.wikipedia.org/wiki/Jim_Johnston_\(composer\) "Jim Johnston (composer)")                                                       |                                                                                                                                             |              |                                                                                          |
 | 2016                | "You're Welcome (From "Moana")"                                                                     | Himself                                                                                                                                                 | Maui                                                                                                                                        |              |                                                                                          |
 | 2017                | "Jumanji, Jumanji"                                                                                  |                                                                                                                                                         | [Nick Jonas](https://en.wikipedia.org/wiki/Nick_Jonas "Nick Jonas") and [Jack Black](https://en.wikipedia.org/wiki/Jack_Black "Jack Black") |              |                                                                                          |
-| 2020                | "The Man"                                                                                           | [[Taylor Swift]]                                                                                                                                        | Tyler Swift                                                                                                                                 | Voice; cameo | [[49]](https://en.wikipedia.org/wiki/Dwayne_Johnson_filmography#cite_note-49)            |
-| 2021                | "[Face Off](https://en.wikipedia.org/wiki/Face_Off_\(Tech_N9ne_song\) "Face Off (Tech N9ne song)")" | [Tech N9ne](https://en.wikipedia.org/wiki/Tech_N9ne "Tech N9ne"), Joey Cool, [King Iso](https://en.wikipedia.org/wiki/King_Iso "King Iso"), and himself | Himself                                                                                                                                     |              | [[50]](https://en.wikipedia.org/wiki/Dwayne_Johnson_filmography#cite_note-V-20211008-50) |
+| 2020                | "The Man"                                                                                           | [[Taylor Swift]]                                                                                                                                        | Tyler Swift                                                                                                                                 | Voice; cameo | [[49]]\(https://en.wikipedia.org/wiki/Dwayne\_Johnson\_filmography#cite\_note-49)            |
+| 2021                | "[Face Off](https://en.wikipedia.org/wiki/Face_Off_\(Tech_N9ne_song\) "Face Off (Tech N9ne song)")" | [Tech N9ne](https://en.wikipedia.org/wiki/Tech_N9ne "Tech N9ne"), Joey Cool, [King Iso](https://en.wikipedia.org/wiki/King_Iso "King Iso"), and himself | Himself                                                                                                                                     |              | [[50]]\(https://en.wikipedia.org/wiki/Dwayne\_Johnson\_filmography#cite\_note-V-20211008-50) |

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Comedians/Jamie Foxx.md
+created: 2026-11-15T13:43:28.860Z
+modified: 2026-10-29T21:38:01.522Z
+published: 2026-10-29T21:38:01.522Z
 tags:
   - Smosh
 ---
+
 [[Toys]]
 The Truth About Cats & Dogs
 The Great White Hype
@@ -55,9 +61,9 @@ Not Another Church Movie
 Back in Action
 Tin Soldier
 Being Eddie
-Geechee 
-Fight For '84 
-All-Star Weekend 
+Geechee
+Fight For '84
+All-Star Weekend
 [[In Living Color]]
 Roc
 Jamie Foxx: Straight from the Foxxhole
@@ -86,9 +92,8 @@ Dad Stop Embarrassing Me!
 Alert: Missing Persons Unit
 Jamie Foxx: What Had Happened Was...
 
-
-
 # Musicians Jamie Foxx has worked with:
+
 [[2 Chainz]]
 [[50 Cent]]
 Adina Howard
@@ -100,7 +105,7 @@ Big Boi
 [[Dionne Warwick]]
 [[Drake]]
 [[Fabolous]]
-[[Field Mob]] 
+[[Field Mob]]
 [[Gucci Mane]]
 [[Justin Timberlake]]
 [[Kanye West]]
@@ -133,11 +138,11 @@ Melvin Riley
 [[Wale]]
 [[Wiz Khalifa]]
 
-We Are The World 25 (For Haiti) -- 
+We Are The World 25 (For Haiti) --
+
 # Music Videos
 
 [[Coolio]]
 [[LMFAO]]
 [[Demi Lovato]]
 [[Migos]]
-

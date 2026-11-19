@@ -1,9 +1,16 @@
 ---
+publish: true
+permalink: /Layer 2 - Projects (Connections from Direct Links)/Video Games/Fortnite.md
+created: 2026-11-15T13:43:34.204Z
+modified: 2026-11-14T14:10:21.483Z
+published: 2026-11-14T14:10:21.483Z
 tags:
   - ShaneLinks
   - Fortnite
 ---
+
 # Voice Actors
+
 [[Abby Trott]]
 [[Aleks Le]]
 [[Allegra Clark]]
@@ -19,8 +26,8 @@ tags:
 [[Suzie Yeung]]
 [[Troy Baker]]
 
-
 # Collabs & Tie-Ins
+
 [[28 Days Later (Franchise)]]
 [[Addison Rae]]
 [[Adidas]]
@@ -37,7 +44,7 @@ Ali-A (Streamer)
 [[Arsenal (Soccer Team)]]
 [[Assassin's Creed (Series)]]
 [[Aston Marin]] / [[007 (Franchise)]] - 007 First Light
-[[Attack on Titan]] 
+[[Attack on Titan]]
 [[Avatar (Movie Franchise)]]
 [[Avatar the Last Airbender]] / [[The Legend of Korra]]
 [[Avengers - Infinity War (2018 - MCU)]] / [[Avengers - Endgame (2019 - MCU)]] / (Marvel Franchise in General)
@@ -80,7 +87,7 @@ d4vd
 [[Daft Punk]]
 [[Danny Phantom]]
 [[Dave the Diver]]
-(DC Franchise in General) [[Batman Franchise]]  / [[The Suicide Squad]] (Harley Quinn) / Aquaman / [[Deadpool]] 
+(DC Franchise in General) [[Batman Franchise]]  / [[The Suicide Squad]] (Harley Quinn) / Aquaman / [[Deadpool]]
 [[deadmau5]]
 [[Dead Space Franchise]]
 [[Deep Rock Galactic]]
@@ -106,10 +113,10 @@ EsDeeKid
 [[Fall Guys]]
 [[Fallout Franchise]]
 [[Family Guy]]
-[[Fast and the Furious Franchise]] 
+[[Fast and the Furious Franchise]]
 [[Fender (Guitars)]]
 [[Ferrari]]
-Flakes Power 
+Flakes Power
 [[Ford]]
 [[Formula One]]
 [[Free Guy]]
@@ -127,7 +134,7 @@ Glaive
 GOALS
 Goat Simulator 3
 [[God of War (Franchise)]]
-[[Godzilla (Franchise)]] 
+[[Godzilla (Franchise)]]
 Go Goated!
 [[Gorillaz]]
 [[Halloween Franchise]]
@@ -169,7 +176,7 @@ Kizuna AI
 [[KPOP Demon Hunters]]
 Lachlan (YouTuber/Streamer)
 [[Lady Gaga]]
-[[Lamborghini]] 
+[[Lamborghini]]
 [[Land Rover]]
 [[Laufey]]
 Lazarbeam
@@ -219,7 +226,7 @@ Neymar (Footballer)
 [[NFL (Football)]] - [[Patrick Mahomes]]
 Nick Eh30
 [[Nike]]
-[[Ninja (Streamer)]] 
+[[Ninja (Streamer)]]
 [[Ninja (Streamer)]])
 [[Nissan]]
 [[Olivia Rodrigo]]
@@ -276,7 +283,7 @@ Son Heung-min (Footballer)
 [[Stranger Things]]
 [[Street Fighter (Franchise)]]
 [[Supergirl (Movie)]]
-[[Superman (Franchise)]] 
+[[Superman (Franchise)]]
 [[Super Meat Boy (Franchise)]]
 [[Superplastic (Company)]]
 SypherPK
@@ -310,7 +317,7 @@ The Notorious B.I.G.
 [[Tron Franchise]]
 [[Tung Tung Tung Sahur]] / Ballerina Cappuccina
 [[Tyler, The Creator]]
-Typical Gamer 
+Typical Gamer
 UEFA Euro 2020 Cup
 [[Uncharted (Franchise)]]
 [[Universal Classic Monsters]] - Frankenstein('s Monster), Frankenstein's Bride, The Mummy

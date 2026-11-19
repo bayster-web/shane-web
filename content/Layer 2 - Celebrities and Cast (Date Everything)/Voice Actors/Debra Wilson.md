@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Debra Wilson.md
+created: 2026-11-15T13:43:34.152Z
+modified: 2026-11-14T14:10:21.406Z
+published: 2026-11-14T14:10:21.406Z
 tags:
   - DateEverything
 ---
+
 [[2 Broke Girls]]
 10 Year Plan
 [[90210]]

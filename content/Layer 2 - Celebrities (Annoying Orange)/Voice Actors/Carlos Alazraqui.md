@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Carlos Alazraqui.md
+created: 2026-11-15T13:43:07.453Z
+modified: 2026-09-05T07:06:13.147Z
+published: 2026-09-05T07:06:13.147Z
 tags:
   - AnnoyingOrange
 ---
+
 [[Aaahh!!! Real Monsters]]
 [[A Bug's Life (1998)]]
 [[Adam Ruins Everything]]

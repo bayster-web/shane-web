@@ -1,8 +1,14 @@
 ---
+publish: true
+permalink: /Layer 2 - Projects (Connections from Direct Links)/The Internet/Brittany Broski's Royal Court.md
+created: 2026-11-15T13:43:17.409Z
+modified: 2026-11-19T20:19:27.201Z
+published: 2026-11-19T20:19:27.201Z
 tags:
   - ShaneLinks
   - RoyalCourt
 ---
+
 [[Matt Smith]]
 [[Orville Peck]]
 [[Drew Afualo]]
@@ -79,3 +85,5 @@ The Pitt Cast ([[Isa Briones]] and [[Patrick Ball]])
 [[Sandra Bullock]]
 [[Nicole Kidman]]
 [[Drew Barrymore]]
+
+_Partnered with Nintendo for [[The Legend of Zelda (Franchise)]] - OOT Remake_ - https://youtu.be/O1fgerrVkNI

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Laura Bailey.md
+created: 2026-11-15T13:43:34.714Z
+modified: 2026-11-14T14:10:33.137Z
+published: 2026-11-14T14:10:33.137Z
 tags:
   - DateEverything
 ---
+
 Æon Flux
 A Four Course Meal
 Age of Umbra
@@ -77,7 +83,7 @@ Genesis of Aquarion
 Glass Fleet
 Glitter Force
 Graduation Day
-[[Guardians of the Galaxy (Cartoon)]] 
+[[Guardians of the Galaxy (Cartoon)]]
 Gunslinger Girl
 Gunslinger Girl -Il Teatrino-
 [[Halo (Franchise)]] - Halo 4, Halo 5: Guardians

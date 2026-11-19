@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Unfinished Links/Layer 2 - Celebrities and Cast (Smosh)/Musicians/T-Pain.md
+created: 2026-11-15T13:43:15.537Z
+modified: 2026-10-08T03:42:09.806Z
+published: 2026-10-08T03:42:09.806Z
 tags:
   - Smosh
 ---
+
 Ghostmates ([[Smosh]] Movie)
 [[Aqua Teen Hunger Force]]
 Lottery Ticket (Keith David movie)
@@ -27,8 +33,8 @@ Wild 'n Out
 This Is Pop
 Go-Big Show
 
-
 # Music Collabs
+
 Mike Jones
 Yung Joe
 Akon
@@ -36,7 +42,7 @@ Lil Wayne
 Ludacris
 Chris Brown
 Rick Ross
-Wiz Khalifa 
+Wiz Khalifa
 Lily Allen
 Ne-Yo
 B.o.B.
@@ -137,4 +143,4 @@ Kesha
 Flo Milla
 Tayler Holder
 
-(Finish from Promotional Singles - https://en.wikipedia.org/wiki/T-Pain_discography)
+(Finish from Promotional Singles - https://en.wikipedia.org/wiki/T-Pain\_discography)

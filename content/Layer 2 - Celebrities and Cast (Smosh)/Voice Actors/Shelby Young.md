@@ -1,8 +1,14 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Voice Actors/Shelby Young.md
+created: 2026-11-15T13:43:07.047Z
+modified: 2026-09-05T07:06:13.880Z
+published: 2026-09-05T07:06:13.880Z
 tags:
   - Smosh
   - DateEverything
 ---
+
 ## Note - Most Roles are ADR Voicing
 
 2 Bedroom 1 Bath
@@ -169,7 +175,7 @@ Status Update
 Strange Planet
 Superman
 Tag
-[[Teenage Mutant Ninja Turtles Franchise]] - Tales of the Teenage Mutant Ninja Turtles 
+[[Teenage Mutant Ninja Turtles Franchise]] - Tales of the Teenage Mutant Ninja Turtles
 Tatsuki Fujimoto 17-26
 The Acolyte
 The Babysitter: Killer Queen

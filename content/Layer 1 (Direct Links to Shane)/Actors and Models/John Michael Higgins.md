@@ -1,13 +1,19 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/John Michael Higgins.md
+created: 2026-11-15T13:43:04.093Z
+modified: 2026-09-05T07:06:12.075Z
+published: 2026-09-05T07:06:12.075Z
 tags:
   - DirectShane
 ---
+
 [[2 Broke Girls]]
 [[Adam Ruins Everything]]
 [[Ally McBeal]]
 America Says (Game Show)
 [[A Million Ways to Die in the West]]
-Angie Tribeca 
+Angie Tribeca
 [[Arrested Development]]
 [[Baby Shark's Big Show]]
 [[Bad Teacher]]

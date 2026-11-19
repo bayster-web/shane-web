@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Benjamin Diskin.md
+created: 2026-11-15T13:43:06.897Z
+modified: 2026-09-05T07:06:13.424Z
+published: 2026-09-05T07:06:13.424Z
 tags:
   - DateEverything
 ---
+
 13 Sentinels: Aegis Rim
 100 Deeds for Eddie McDowd
 [[Aggretsuko]]

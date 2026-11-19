@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Tom Kenny.md
+created: 2026-11-15T13:43:07.541Z
+modified: 2026-09-05T07:06:13.216Z
+published: 2026-09-05T07:06:13.216Z
 tags:
   - AnnoyingOrange
 ---
+
 3Below: Tales of Arcadia
 Abra-Catastrophe!
 [[Adam Ruins Everything]]
@@ -278,9 +284,11 @@ Woody Woodpecker Goes to Camp
 [[WordGirl]]
 Xiaolin Showdown
 Zambezia
+
 # Video Games
+
 Adventure Time: Pirates of the Enchiridion
-*ALL SPONGEBOB SQUAREPANTS GAMES*
+_ALL SPONGEBOB SQUAREPANTS GAMES_
 Brave: The Search for Spirit Dancer
 Cartoon Network Racing
 CatDog: Quest for the Golden Hydrant

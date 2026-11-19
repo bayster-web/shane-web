@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Alan Shearman.md
+created: 2026-11-15T13:43:02.057Z
+modified: 2026-09-05T07:06:12.902Z
+published: 2026-09-05T07:06:12.902Z
 tags:
   - AnnoyingOrange
 ---
+
 Bullshot
 Water
 The Shrimp on the Barbie

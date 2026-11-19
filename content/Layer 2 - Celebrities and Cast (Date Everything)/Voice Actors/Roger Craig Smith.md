@@ -1,4 +1,9 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Roger Craig Smith.md
+created: 2026-11-15T13:43:34.612Z
+modified: 2026-11-14T14:10:33.158Z
+published: 2026-11-14T14:10:33.158Z
 tags:
   - DateEverything
 ---
@@ -56,7 +61,7 @@ Duel Masters
 [[Fish Hooks]]
 Future-Worm!
 [[Ghost in the Shell]] 2: Innocence
-[[Ghost in the Shell]]: SAC_2045
+[[Ghost in the Shell]]: SAC\_2045
 [[G.I. Joe (Franchise)]] - G.I. Joe: The Rise of Cobra
 Grounded
 [[Guardians of the Galaxy (Cartoon)]]

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Musicians/cupcakKe.md
+created: 2026-11-15T13:42:59.339Z
+modified: 2026-09-05T07:06:12.199Z
+published: 2026-09-05T07:06:12.199Z
 tags:
   - DirectShane
 ---
+
 [[Uma Kompton]]
 [[Charli XCX]]
 [[Brooke Candy]]
@@ -11,9 +17,10 @@ tags:
 [[Princess Nokia]]
 [[Junglepussy]]
 [[Ms. Boogie]]
-[[DreamDoll]] 
+[[DreamDoll]]
 [[Aja]]
 [[Big Freedia]]
 
 ---
+
 [[Hot Haus]]

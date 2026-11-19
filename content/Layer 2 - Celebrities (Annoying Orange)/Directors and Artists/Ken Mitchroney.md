@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Directors and Artists/Ken Mitchroney.md
+created: 2026-11-15T13:43:03.594Z
+modified: 2026-09-05T07:06:12.864Z
+published: 2026-09-05T07:06:12.864Z
 tags:
   - AnnoyingOrange
 ---
+
 Shelly Duvall's Bedtime Stories
 [[Tiny Toon Adventures]]
 The Pink Panther

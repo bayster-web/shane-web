@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Keith David.md
+created: 2026-11-15T13:43:08.332Z
+modified: 2026-09-06T08:38:01.346Z
+published: 2026-09-06T08:38:01.346Z
 tags:
   - DirectShane
 ---
+
 3x3 Eyes
 [[7th Heaven]]
 21 Bridges

@@ -1,18 +1,25 @@
 ---
+publish: true
+permalink: /Layer 2 - Projects (Connections from Direct Links)/Cartoons/Family Cartoons/The Simpsons.md
+created: 2026-11-15T13:43:30.841Z
+modified: 2026-11-01T02:31:10.780Z
+published: 2026-11-01T02:31:10.780Z
 tags:
   - ShaneLinks
 ---
+
 # Celebrities
+
 [[Elon Musk]]
 [[Lady Gaga]]
 
-
 # Brand Deals and Advertisements
+
 [[Monopoly Go]] - https://www.youtube.com/watch?v=pDxn0CD41b0
 [[Jack in the Box]] - https://fixupx.com/OOCCouchGags/status/2090085843310354542
 [[Burger King]] - https://youtu.be/e1FDyi7TnW4
 [[Church's Chicken]] - https://youtu.be/C1oS8a-uOaU
-[[KFC]] - https://www.youtube.com/watch?v=S90GTdS_PwY
+[[KFC]] - https://www.youtube.com/watch?v=S90GTdS\_PwY
 [[CCs (Chips)]] - https://youtu.be/nLDFsybebJ0
 [[Suntory]] (C.C. Lemon) - https://youtu.be/d1EdoUCIUeU
 [[TGI Fridays]] - https://youtu.be/RnFz9AENyVc

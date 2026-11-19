@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Rob Paulsen.md
+created: 2026-11-15T13:43:26.443Z
+modified: 2026-10-25T17:06:10.405Z
+published: 2026-10-25T17:06:10.405Z
 tags:
   - AnnoyingOrange
 ---
+
 2 Stupid Dogs
 101 Dalmatians: The Series
 ABC Weekend Specials
@@ -106,7 +112,9 @@ ClayFighter: Sculptor's Cut
 [[Codename Kids Next Door]]
 Comic Book: The Movie
 Comic Book: The Movie
+
 # Commercials
+
 Courtesy Clerk
 [[Cow and Chicken]]
 Cranberry Christmas
@@ -378,7 +386,7 @@ Svengoolie
 Swat Kats: The Radical Squadron
 Swift
 [[Taco Bell]]
-Tak 2: The Staff of Dreams, Tak 3: The Great Juju Challenge, Tak & the Power of Juju, 
+Tak 2: The Staff of Dreams, Tak 3: The Great Juju Challenge, Tak & the Power of Juju,
 [[TaleSpin]]
 Tasty Time with ZeFronk
 Taz-Mania

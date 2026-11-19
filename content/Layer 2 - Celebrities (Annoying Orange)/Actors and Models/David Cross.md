@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/David Cross.md
+created: 2026-11-15T13:43:16.793Z
+modified: 2026-10-08T03:56:28.128Z
+published: 2026-10-08T03:56:28.128Z
 tags:
   - AnnoyingOrange
 ---
+
 8-Bit Christmas
 A Bucket of Blood
 [[Alvin and the Chipmunks]]
@@ -108,7 +114,7 @@ Teenage Euthanasia
 [[The Ben Stiller Show]]
 [[The Cable Guy]]
 [[The Colbert Report]]
-The Dark Divide[88]
+The Dark Divide\[88]
 [[The Drew Carey Show]]
 The Grand
 The Gynotician
@@ -137,11 +143,13 @@ You Hurt My Feelings
 [[Annoying Orange (TV Show or YouTube Series)]]
 
 # Commercials
+
 [[America Online (AOL)]] - https://youtu.be/Vx1qlRRtCgs
 [[Mastercard]] - https://youtu.be/DqD8zbJQPlc
 [[M&Ms]] - https://www.youtube.com/watch?v=GhEWY4RlJ4g
 
 # Music Videos
+
 Superchunk - Watery Hands
 Yo La Tengo - Sugarcube
 [[The Black Keys]] - 10 A.M. Automatic

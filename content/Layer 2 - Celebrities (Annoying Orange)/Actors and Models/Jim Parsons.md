@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Jim Parsons.md
+created: 2026-11-15T13:43:03.084Z
+modified: 2026-09-05T07:06:13.067Z
+published: 2026-09-05T07:06:13.067Z
 tags:
   - AnnoyingOrange
 ---
+
 Happy End
 Garden State
 Heights

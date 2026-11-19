@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Actors and Models/Ji-young Yoo.md
+created: 2026-11-15T13:42:59.241Z
+modified: 2026-09-05T07:06:13.683Z
+published: 2026-09-05T07:06:13.683Z
 tags:
   - Smosh
 ---
+
 Moxie
 The Sky Is Everywhere
 Smoking Tigers

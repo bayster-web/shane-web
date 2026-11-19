@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Diego Luna.md
+created: 2026-11-15T13:43:25.033Z
+modified: 2026-10-24T16:44:00.952Z
+published: 2026-10-24T16:44:00.952Z
 tags:
   - RoyalCourt
 ---
+
 Ámbar
 Morena
 A Trickle of Blood
@@ -64,7 +70,7 @@ On the Road (En el camino)
 Ashes
 México 86
 Tangled (Live Action)
-Eleven Days 
+Eleven Days
 El abuelo y yo
 Ángeles sin paraíso
 El premio mayor

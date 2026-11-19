@@ -1,8 +1,12 @@
 ---
-{}
+publish: true
+permalink: /Unfinished Links/Other/Teppen.md
+created: 2026-11-15T13:43:02.981Z
+modified: 2026-09-05T07:06:28.992Z
+published: 2026-09-05T07:06:28.992Z
 ---
-# Franchises
 
+# Franchises
 
 [[Ace Attorney (Franchise)]] / The Great Ace Attorney
 [[Asura's Wrath]]

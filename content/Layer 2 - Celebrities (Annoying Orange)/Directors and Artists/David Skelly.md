@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Directors and Artists/David Skelly.md
+created: 2026-11-15T13:43:13.615Z
+modified: 2026-09-25T00:35:41.422Z
+published: 2026-09-25T00:35:41.422Z
 tags:
   - AnnoyingOrange
 ---
+
 Max & the Midknights
 Word Party Songs
 Slpash and Bubbles
@@ -15,7 +21,7 @@ Puss in Boots Shorts
 Woody Woodpecker (Reboot)
 The Magic School Bus Rides Again
 Hello Ninja
-Llama Llama 
+Llama Llama
 Treehouse Detectives
 Walking with Dinosaurs 3D
 Zevo-3

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/YouTubers/Rosanna Pansino.md
+created: 2026-11-15T13:43:01.750Z
+modified: 2026-09-05T07:06:12.365Z
+published: 2026-09-05T07:06:12.365Z
 tags:
   - DirectShane
 ---
+
 A Night at the Park ([[Brandon Rogers]])
 Baketopia
 [[Bizaardvark]]
@@ -27,4 +33,3 @@ The [[Late Show with Stephen Colbert]]
 The Lohdown with Lindsay Lohan (Podcast)
 
 [[Shigeru Miyamoto]] was on her channel. - https://youtu.be/DNUcDkNI24o?t=447
-

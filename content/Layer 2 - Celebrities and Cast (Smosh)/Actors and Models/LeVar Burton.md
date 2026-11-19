@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Actors and Models/LeVar Burton.md
+created: 2026-11-15T13:43:05.370Z
+modified: 2026-09-05T07:06:13.685Z
+published: 2026-09-05T07:06:13.685Z
 tags:
   - Smosh
 ---
+
 94th Scripps National Spelling Bee
 [[Adventure Time]]
 Ali
@@ -10,7 +16,7 @@ And the Children Shall Lead
 And They're Off
 A Special Friendship
 [[Batman - The Animated Series]]
-Battered 
+Battered
 Becker
 Billy: Portrait of a Street Kid
 Blindspotting

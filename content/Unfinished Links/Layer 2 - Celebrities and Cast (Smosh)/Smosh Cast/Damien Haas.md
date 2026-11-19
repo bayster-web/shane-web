@@ -1,8 +1,14 @@
 ---
+publish: true
+permalink: /Unfinished Links/Layer 2 - Celebrities and Cast (Smosh)/Smosh Cast/Damien Haas.md
+created: 2026-11-15T13:43:04.404Z
+modified: 2026-09-05T07:06:28.223Z
+published: 2026-09-05T07:06:28.223Z
 tags:
   - Smosh
   - Fortnite
 ---
+
 Astrid Clover
 [[Beyblade]] X
 [[Black Butler]]: Emerald Witch Arc
@@ -44,7 +50,7 @@ Sparks of Tomorrow
 Steel Ball Run: [[JoJo's Bizarre Adventure]]
 [[The Callisto Protocol]]
 The Lay of LaLa Land
-[[The Legend of Heroes Franchise]] - The Legend of Heroes: Trails Beyond the Horizon, The Legend of Heroes: Trails through Daybreak, The Legend of Heroes: Trails through Daybreak II, 
+[[The Legend of Heroes Franchise]] - The Legend of Heroes: Trails Beyond the Horizon, The Legend of Heroes: Trails through Daybreak, The Legend of Heroes: Trails through Daybreak II,
 [[The Rose of Versailles]]
 [[The Walking Dead Franchise]] - The Walking Dead: Survivors
 [[Thomas Sanders]] - Sanders Shorts

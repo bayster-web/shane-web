@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Bob Odenkirk.md
+created: 2026-11-15T13:43:06.390Z
+modified: 2026-09-05T07:06:14.304Z
+published: 2026-09-05T07:06:14.304Z
 tags:
   - RoyalCourt
 ---
+
 [[Wayne's World]] 2
 Clean Slate
 The Truth About Cats & Dogs
@@ -133,7 +139,6 @@ Corporate
 Lucky Hank
 [[The Bear]]
 [[Glengarry Glen Ross (Broadway)]]
-
 
 # Music Videos
 

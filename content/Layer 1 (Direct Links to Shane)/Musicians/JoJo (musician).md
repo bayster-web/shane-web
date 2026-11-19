@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Musicians/JoJo (musician).md
+created: 2026-11-15T13:43:11.202Z
+modified: 2026-09-19T14:45:32.956Z
+published: 2026-09-19T14:45:32.956Z
 tags:
   - DirectShane
 ---
+
 American Dream
 Aquamarine
 G.B.F

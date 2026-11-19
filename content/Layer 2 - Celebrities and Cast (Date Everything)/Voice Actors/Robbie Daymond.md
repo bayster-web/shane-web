@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Robbie Daymond.md
+created: 2026-11-15T13:43:07.204Z
+modified: 2026-09-05T07:06:13.517Z
+published: 2026-09-05T07:06:13.517Z
 tags:
   - DateEverything
 ---
+
 [[Adventure Time]]: Fionna and Cake
 [[Agents of Mayhem]]
 Akiba's Beat
@@ -59,7 +65,7 @@ Fist of the North Star: Lost Paradise
 FLCL Progressive
 [[Friday the 13th (Franchise)]]: The Game
 Get Blake!
-[[Ghost in the Shell]]: SAC_2045
+[[Ghost in the Shell]]: SAC\_2045
 [[Ghost of Tsushima]]
 [[Ghost of Yōtei]]
 Glitter Force

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Tony Hale.md
+created: 2026-11-15T13:43:16.743Z
+modified: 2026-10-08T03:56:26.839Z
+published: 2026-10-08T03:56:26.839Z
 tags:
   - AnnoyingOrange
 ---
+
 About a Boy
 [[Alvin and the Chipmunks]]: The Road Chip
 American Ultra
@@ -153,18 +159,19 @@ Wuss
 Yoga Hosers
 
 # Commercials
+
 [[Volkswagen]] - https://www.youtube.com/watch?v=D692JJPPUe4
-[[Village Inn]] - https://youtu.be/_FWYtGoV4rE
+[[Village Inn]] - https://youtu.be/\_FWYtGoV4rE
 [[Sony]] Vaio - https://youtu.be/l-2RxLGYm8w
 [[Herbal Essences]] - https://youtu.be/XN6Bz6yxc4A
-[[Pam (Cooking Spray)]] - https://youtu.be/_71sjtGRxUc
+[[Pam (Cooking Spray)]] - https://youtu.be/\_71sjtGRxUc
 [[Cingular Wireless]] - https://youtu.be/-YmiNJJgmSo
 [[Velveeta]] - https://youtu.be/mfnRq2eisVk
-[[Tide (Detergent)]] with Bleach - https://youtu.be/kyJZXzmxR_0
+[[Tide (Detergent)]] with Bleach - https://youtu.be/kyJZXzmxR\_0
 [[Verizon]] - https://youtu.be/5SO9CX2Bx5k / https://youtu.be/mzIUNZokWec
-[[Taco Bell]] - https://youtu.be/Q6jzl_Oy2IQ
+[[Taco Bell]] - https://youtu.be/Q6jzl\_Oy2IQ
 [[Motorola]] - https://www.youtube.com/watch?v=FxmDkI0xiZw
 [[Citibank]] - https://www.youtube.com/watch?v=IouPPdQkCSY
-Ohio Lottery - https://youtu.be/RNPx_mYg6fM
+Ohio Lottery - https://youtu.be/RNPx\_mYg6fM
 New York Lottery - https://www.youtube.com/watch?v=1gjtGTu5AB0
 [[Autodesk]] - https://youtu.be/6IB6Ob69oJM

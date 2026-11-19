@@ -1,2 +1,2 @@
-[[Die Hard (Franchise)]] 
+[[Die Hard (Franchise)]]
 [[Armageddon]]

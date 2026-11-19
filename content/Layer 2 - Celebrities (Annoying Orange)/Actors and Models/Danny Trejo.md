@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Danny Trejo.md
+created: 2026-11-15T13:43:16.638Z
+modified: 2026-10-08T03:56:11.166Z
+published: 2026-10-08T03:56:11.166Z
 tags:
   - AnnoyingOrange
 ---
+
 3Below: Tales of Arcadia
 3 from Hell
 3-Headed Shark Attack
@@ -482,6 +488,7 @@ XXX
 [[Young Justice]]
 Zombie Hunter
 [[Zootopia 2]]
+
 # Music Videos
 
 | Year | Music video                          | Artist(s)                                   |
@@ -528,6 +535,7 @@ Zombie Hunter
 | 2023 | "La Chamba"                          | Arcángel featuring Peso Pluma               |
 
 # Commercials
+
 | Year      | Title                                                      | Role                                       | Note(s)                                                                                                                                                                                                             |
 | --------- | ---------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2009      | This Guy                                                   | Himself                                    | The commercial for the live broadcast of weekly National Football League (NFL) games on ESPN in the United States (US) which was entitled ESPN Monday Night Football. Parking garage scene only.                    |
@@ -558,5 +566,5 @@ Zombie Hunter
 |           | Escape Room: Magic: The Gathering x [[Dungeons & Dragons]] |                                            | Short film                                                                                                                                                                                                          |
 |           | Try Not to Eat - Trejo's Tacos (ft. Danny Trejo!)          |                                            |                                                                                                                                                                                                                     |
 | 2022      | [[Planet Fitness]] - What's Gotten into Lindsay?           |                                            | With Lindsay Lohan and William Shatner. This commercial was to promote the NFL 2022 Super Bowl game which was entitled Super Bowl LVI.                                                                              |
-[[McDonalds]] - https://youtu.be/8_ujovOhn2I
+[[McDonalds]] - https://youtu.be/8\_ujovOhn2I
 [[Del Taco]] - https://youtu.be/ENuomrgujgc

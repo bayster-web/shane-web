@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Unfinished Links/Layer 2 - Celebrities and YouTubers (Rhett and Link - Good Mythical Morning)/Actors and Models/Daniel Radcliffe.md
+created: 2026-11-15T13:43:16.353Z
+modified: 2026-10-08T03:51:00.006Z
+published: 2026-10-08T03:51:00.006Z
 tags:
   - GMM
 ---
+
 [[Harry Potter (Franchise)]] - Harry Potter himself. - Harry Potter and the Philosopher's Stone, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban, Harry Potter and the Goblet of Fire, Harry Potter and the Order of the Phoenix, Harry Potter and the Half-Blood Prince, Harry Potter and the Deathly Hallows – Part 1, Harry Potter and the Deathly Hallows – Part 2
 [[Weird Al Yankovic]] - Weird: The Al Yankovic Story
 [[Equus (Broadway)]]
@@ -31,8 +37,8 @@ The Lost City
 Weird: The Al Yankovic Story
 Merrily We Roll Along (Proshot of Musical)
 [[Pizza Movie]]
-Steps 
-Trust the Man 
+Steps
+Trust the Man
 David Copperfield (TV Film)
 [[Extras]]
 My Boy Jack (TV Film)

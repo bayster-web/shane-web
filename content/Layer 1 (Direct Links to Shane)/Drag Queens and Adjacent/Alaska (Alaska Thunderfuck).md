@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Drag Queens and Adjacent/Alaska (Alaska Thunderfuck).md
+created: 2026-11-15T13:43:00.978Z
+modified: 2026-09-05T07:06:12.237Z
+published: 2026-09-05T07:06:12.237Z
 tags:
   - DirectShane
 ---
+
 [[After Midnight]]
 [[Dropout (streaming service)]] - [[Dimension 20]]
 Drag Me to Dinner

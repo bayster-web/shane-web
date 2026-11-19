@@ -1,4 +1,9 @@
 ---
+publish: true
+permalink: /Layer 3 - Projects (Connections from Smosh)/Video Games/Franchises/Rock Band.md
+created: 2026-11-15T13:41:24.666Z
+modified: 2026-09-05T07:06:26.018Z
+published: 2026-09-05T07:06:26.018Z
 tags:
   - Smosh
 ---

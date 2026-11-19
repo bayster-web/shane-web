@@ -1,8 +1,14 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Fred Tatasciore.md
+created: 2026-11-15T13:43:34.361Z
+modified: 2026-11-14T14:10:21.414Z
+published: 2026-11-14T14:10:21.414Z
 tags:
   - DateEverything
   - Fortnite
 ---
+
 3Below: Tales of Arcadia
 007: Quantum of Solace
 9
@@ -407,7 +413,7 @@ Splatterhouse
 Starhawk
 [[Star Trek Franchise]] - Star Trek Into Darkness, Star Trek: Lower Decks
 [[Star vs. the Forces of Evil]]
-[[Star Wars Franchise]] - Star Wars: Clone Wars, Star Wars Rebels, Star Wars Resistance, Star Wars: The Clone Wars, Star Wars: The Force Awakens, Star Wars: The Force Unleashed II, 
+[[Star Wars Franchise]] - Star Wars: Clone Wars, Star Wars Rebels, Star Wars Resistance, Star Wars: The Clone Wars, Star Wars: The Force Awakens, Star Wars: The Force Unleashed II,
 Star Wars: The Old Republic
 Stewie Griffin: The Untold Story
 Stranger of Paradise: [[Final Fantasy]] Origin

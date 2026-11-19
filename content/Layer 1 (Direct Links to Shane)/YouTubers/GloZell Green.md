@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/YouTubers/GloZell Green.md
+created: 2026-11-15T13:43:00.458Z
+modified: 2026-09-05T07:06:12.299Z
+published: 2026-09-05T07:06:12.299Z
 tags:
   - DirectShane
 ---
+
 A Beauty & The Beast Christmas
 [[All That (2019 Reboot)]]
 Betch

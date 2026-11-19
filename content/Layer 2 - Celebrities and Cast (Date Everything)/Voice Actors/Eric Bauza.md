@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Eric Bauza.md
+created: 2026-11-15T13:43:07.153Z
+modified: 2026-09-05T07:06:13.472Z
+published: 2026-09-05T07:06:13.472Z
 tags:
   - DateEverything
 ---
+
 A Cat in Paris
 [[Adventure Time]]
 A Fairly Odd Summer
@@ -114,7 +120,7 @@ Ren & Stimpy "Adult Party Cartoon"
 Samurai Rabbit: The Usagi Chronicles
 [[Sanjay and Craig]]
 Saturday Morning All Star Hits!
-[[Scooby-Doo Franchise]] - Scooby-Doo! and [[WWE]]: Curse of the Speed Demon, Scooby-Doo! Frankencreepy, Scooby-Doo! Moon Monster Madness, Scooby-Doo! Mystery Incorporated, 
+[[Scooby-Doo Franchise]] - Scooby-Doo! and [[WWE]]: Curse of the Speed Demon, Scooby-Doo! Frankencreepy, Scooby-Doo! Moon Monster Madness, Scooby-Doo! Mystery Incorporated,
 Scooby-Doo! Stage Fright
 [[Smurfs Franchise]] - Smurfs: The Lost Village
 [[Solar Opposites]]

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Comedians/Gianmarco Soresi.md
+created: 2026-11-15T13:43:02.265Z
+modified: 2026-09-05T07:06:13.733Z
+published: 2026-09-05T07:06:13.733Z
 tags:
   - Smosh
 ---
+
 Get Happy!
 Cassanova Was a Woman
 Accommodations

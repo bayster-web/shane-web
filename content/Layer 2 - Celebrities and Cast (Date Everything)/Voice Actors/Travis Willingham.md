@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Travis Willingham.md
+created: 2026-11-15T13:43:34.667Z
+modified: 2026-11-14T14:10:33.170Z
+published: 2026-11-14T14:10:33.170Z
 tags:
   - DateEverything
 ---
+
 [[Alien (Franchise)]] - Aliens: Colonial Marines
 A Perfect Getaway
 [[Armored Core (Franchise)]] - Armored Core: For Answer, Armored Core V
@@ -66,7 +72,7 @@ Ghost Hunt
 Glass Fleet
 [[Grand Theft Auto Franchise]] - Grand Theft Auto V
 [[Guardians of the Galaxy (Cartoon)]]
-Gun Sword 
+Gun Sword
 [[Halo (Franchise)]] - Halo 4, Halo 5: Guardians, Halo Wars
 Hellsing Ultimate
 [[Heroes of the Storm]]
@@ -124,7 +130,7 @@ Mushishi
 [[Naruto]]: Shippuden
 Naruto Shippûden: Dragon Blade Chronicles
 Naruto Shippûden: Kazuna Drive
-Naruto Shippûden: Ultimate Ninja Heroes 3 
+Naruto Shippûden: Ultimate Ninja Heroes 3
 Naruto Shippûden: Ultimate Ninja Impact
 Naruto Shippûden: Ultimate Ninja Storm 2
 Naruto Shippûden: Ultimate Ninja Storm 3

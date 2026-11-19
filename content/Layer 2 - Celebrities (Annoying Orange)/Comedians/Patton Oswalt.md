@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Comedians/Patton Oswalt.md
+created: 2026-11-15T13:43:06.800Z
+modified: 2026-09-05T07:06:12.837Z
+published: 2026-09-05T07:06:12.837Z
 tags:
   - AnnoyingOrange
 ---
+
 22 Jump Street
 29th Independent Spirit Awards
 69th Writers Guild of America Awards
@@ -23,7 +29,7 @@ Aqua Teen Hunger Force Zombie Ninja Pro-Am
 [[Archer]]
 A Very [[Harold & Kumar]] 3D Christmas
 Axe Cop
-Bajillion Dollar Propertie$
+Bajillion Dollar Propertie\$
 Balls of Fury
 [[Batman Franchise]] - [[Batman Beyond]]
 Battle Creek
@@ -118,7 +124,7 @@ MEAD
 Mickey and the Roadster Racers
 Mighty Med
 Miles from Tomorrowland
-[[Minecraft - Story Mode]] 
+[[Minecraft - Story Mode]]
 [[Modern Family]]
 M.O.D.O.K.
 Mr. Show with Bob and David

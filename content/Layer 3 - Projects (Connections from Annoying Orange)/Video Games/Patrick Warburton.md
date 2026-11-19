@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 3 - Projects (Connections from Annoying Orange)/Video Games/Patrick Warburton.md
+created: 2026-11-15T13:43:16.574Z
+modified: 2026-10-08T03:56:09.967Z
+published: 2026-10-08T03:56:09.967Z
 tags:
   - AnnoyingOrange
 ---
+
 [[8 Simple Rules]]
 [[Agents of S.H.I.E.L.D.]]
 [[American Dad]]!

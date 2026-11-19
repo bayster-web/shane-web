@@ -1,6 +1,11 @@
 ---
-{}
+publish: true
+permalink: /Layer 3 - Projects (Date Everything)/Video Games/Franchises/Tony Hawk (Game Series).md
+created: 2026-11-15T13:43:01.080Z
+modified: 2026-09-05T07:06:27.289Z
+published: 2026-09-05T07:06:27.289Z
 ---
+
 Tony Hawk's Pro Skater
 Tony Hawk's Pro Skater 2
 Tony Hawk's Pro Skater 3

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/John DiMaggio.md
+created: 2026-11-15T13:43:15.390Z
+modified: 2026-10-07T12:05:28.833Z
+published: 2026-10-07T12:05:28.833Z
 tags:
   - AnnoyingOrange
 ---
+
 [[Adventure Time]]
 Adventure Time: Distant Lands
 Adventure Time: Fionna and Cake
@@ -211,7 +217,7 @@ Underdog
 Vampire Hunter D: Bloodlust
 [[Vampire - The Masquerade (Franchise)]] – Bloodlines
 Van Helsing: The London Assignment
-[[Voltron - Legendary Defender]] 
+[[Voltron - Legendary Defender]]
 [[We Bare Bears]]
 Whispers: An Elephant's Tale
 Wonder Woman

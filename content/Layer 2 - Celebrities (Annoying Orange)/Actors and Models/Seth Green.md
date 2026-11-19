@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Seth Green.md
+created: 2026-11-15T13:43:16.953Z
+modified: 2026-10-08T03:57:47.233Z
+published: 2026-10-08T03:57:47.233Z
 tags:
   - AnnoyingOrange
 ---
+
 12 oz. Mouse
 100 Deeds for Eddie McDowd
 ABC Afterschool Special
@@ -207,8 +213,7 @@ Young People's Specials
 [[Butterball (Turkey)]] - https://youtu.be/ylkLu83UNLM
 [[Sci-Fi Channel]] - https://www.youtube.com/watch?v=gwopTs-W6T4
 
-
-
 # Music Videos
+
 [[Fall Out Boy]] - This Ain't A Scene, It's An Arms Race
 [[Weird Al Yankovic]] - White and Nerdy

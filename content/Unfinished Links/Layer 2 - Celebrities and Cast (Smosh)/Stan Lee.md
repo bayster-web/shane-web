@@ -1,25 +1,29 @@
 ---
-{}
+publish: true
+permalink: /Unfinished Links/Layer 2 - Celebrities and Cast (Smosh)/Stan Lee.md
+created: 2026-11-15T13:43:05.931Z
+modified: 2026-09-05T07:06:28.364Z
+published: 2026-09-05T07:06:28.364Z
 ---
+
 [[Fantastic Four - Rise of the Silver Surfer (2007)]]
 [[Smosh - Celebrities]] - https://youtu.be/NBOPkjCqofM
 [[Who Wants To Be A Superhero]]?
 
 # Comics
- Spider-Man,
- X-Men, 
- Iron Man, 
- Thor, 
- The Hulk, 
- Ant-Man, and The Wasp,
-The Fantastic Four, 
-Black Panther, 
-Daredevil, 
-Doctor Strange, 
-Scarlet Witch, 
+
+Spider-Man,
+X-Men,
+Iron Man,
+Thor,
+The Hulk,
+Ant-Man, and The Wasp,
+The Fantastic Four,
+Black Panther,
+Daredevil,
+Doctor Strange,
+Scarlet Witch,
 Black Widow
-
-
 
 # Cameos
 
@@ -94,4 +98,5 @@ The Gifted (TV Show)
 [[Marvel Future Avengers]]
 
 # CONTINUE FROM BOOK APPEARANCES
-https://en.wikipedia.org/wiki/List_of_cameo_appearances_by_Stan_Lee#Book_appearances
+
+https://en.wikipedia.org/wiki/List\_of\_cameo\_appearances\_by\_Stan\_Lee#Book\_appearances

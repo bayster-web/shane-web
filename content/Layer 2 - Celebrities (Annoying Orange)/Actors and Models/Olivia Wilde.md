@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Olivia Wilde.md
+created: 2026-11-15T13:43:03.997Z
+modified: 2026-09-05T07:06:13.037Z
+published: 2026-09-05T07:06:13.037Z
 tags:
   - AnnoyingOrange
 ---
+
 The Girl Next Door
 Conversations with Other Women
 Alpha Dog
@@ -67,6 +73,7 @@ The Studio
 [[1984 (Broadway)]]
 
 # Music Videos
+
 [[Drake]] - Nice for What
 [[Red Hot Chilli Peppers]] - Dark Necessities
 [[Edward Sharpe and the Magnetic Zeros]] - No Love Like Yours

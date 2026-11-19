@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Brie Larson.md
+created: 2026-11-15T13:43:04.049Z
+modified: 2026-09-05T07:06:14.310Z
+published: 2026-09-05T07:06:14.310Z
 tags:
   - RoyalCourt
 ---
+
 Madison
 [[13 Going on 30]]
 Sleepover
@@ -42,8 +48,8 @@ Remembering
 [[Fast and the Furious Franchise]] - Fast X
 [[The Marvels (2023 - MCU)]]
 [[The Super Mario Bros. Movie]] - [[The Super Mario Galaxy Movie]]
-Skeletons 
-Close Personal Friends 
+Skeletons
+Close Personal Friends
 [[Fortnite]]
 [[The Tonight Show with Jay Leno]]
 To Have & to Hold
@@ -73,5 +79,5 @@ Growing Up
 [[Scott Pilgrim Takes Off]]
 Marvel Studios: Assembled
 [[The Bear]]
-Cry Wolf 
+Cry Wolf
 [[Beyoncé]] & [[Jay-Z]] Music Video (4:44)

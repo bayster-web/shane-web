@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Actors and Models/Aimee Carrero.md
+created: 2026-11-15T13:43:07.913Z
+modified: 2026-09-06T08:15:17.692Z
+published: 2026-09-06T08:15:17.692Z
 tags:
   - DateEverything
 ---
+
 The Essential Man
 Category 4
 [[Alvin and the Chipmunks]]: The Squeakquel
@@ -10,8 +16,8 @@ Devil's Due
 Obituaries
 The Last Witch Hunter
 Yoshua
-The Portuguese Kid 
-Dylan 
+The Portuguese Kid
+Dylan
 Wander Darkly
 Holidate
 Mack & Rita
@@ -19,8 +25,8 @@ Mack & Rita
 Spirited
 Upgraded
 Code 3
-One Attempt Remaining 
-Protecting Jared 
+One Attempt Remaining
+Protecting Jared
 [[Hannah Montana]]
 Lincoln Heights
 [[The Mentalist]]

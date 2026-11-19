@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Rob McElhenney.md
+created: 2026-11-15T13:43:18.642Z
+modified: 2026-10-24T16:28:16.992Z
+published: 2026-10-24T16:28:16.992Z
 tags:
   - RoyalCourt
 ---
+
 The Devil's Own
 A Civil Action
 Wonder Boys

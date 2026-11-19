@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Jim Cummings.md
+created: 2026-11-15T13:43:10.942Z
+modified: 2026-09-19T14:42:31.354Z
+published: 2026-09-19T14:42:31.354Z
 tags:
   - AnnoyingOrange
 ---
+
 2 Stupid Dogs
 101 Dalmatians II: Patch's London Adventure
 101 Dalmatians: The Series
@@ -327,5 +333,5 @@ Wild West C.O.W.-Boys of Moo Mesa
 Wonder Showzen
 [[World of Warcraft]]: Battle for Azeroth, Legion, Mists of Pandaria, Shadowlands  
 [[Wreck-It Ralph]]
-[[Ys Franchise]] - Ys: Book I&II
+[[Ys Franchise]] - Ys: Book I\&II
 Zambezia

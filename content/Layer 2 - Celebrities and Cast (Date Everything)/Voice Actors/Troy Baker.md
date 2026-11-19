@@ -1,8 +1,14 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Troy Baker.md
+created: 2026-11-15T13:43:07.370Z
+modified: 2026-09-05T07:06:13.563Z
+published: 2026-09-05T07:06:13.563Z
 tags:
   - DateEverything
   - Fortnite
 ---
+
 Æon Flux
 Age of Conan: Hyborian Adventures
 [[American Dad]]!
@@ -104,7 +110,7 @@ Justice League: Battle for Metropolis 4D
 Justice League: Crisis on Infinite Earth - Part Two
 Justice League: Crisis on Infinite Earths – Part Three
 Justice League: Warworld
-Justice League x RWBY: Super Heroes & Huntsmen, Part Two 
+Justice League x RWBY: Super Heroes & Huntsmen, Part Two
 Kekkaishi
 [[Kid Icarus Franchise]] - Kid Icarus: Uprising
 [[Kinect (Game Series)]] Disneyland Adventures

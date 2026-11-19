@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Musicians/Weird Al Yankovic.md
+created: 2026-11-15T13:43:30.141Z
+modified: 2026-10-30T23:46:32.533Z
+published: 2026-10-30T23:46:32.533Z
 tags:
   - AnnoyingOrange
 ---
+
 [[5 Second Films]]
 [[30 Rock]]
 [[Adam Ruins Everything]]
@@ -15,7 +21,7 @@ Ask the [[StoryBots]]
 [[Aunty Donna's Big Ol' House of Fun]]
 A Witches' Ball
 [[Back at the Barnyard]]
-Bajillion Dollar Propertie$
+Bajillion Dollar Propertie\$
 [[Batman Franchise]] - [[Batman - The Brave and the Bold]]
 [[Batman Franchise]] - Batman vs. Robin
 [[Bill & Ted Franchise]] - Bill & Ted Face the Music
@@ -88,7 +94,7 @@ Pete the Cat
 Sabrina: The Animated Series
 Safety Patrol
 Sandy Wexler
-Saturday Morning Preview Park 
+Saturday Morning Preview Park
 [[Scooby-Doo Franchise]] - Scooby-Doo and Guess Who?, Scooby-Doo, Where Are You Now!
 [[Scott Pilgrim (Franchise)]] - [[Scott Pilgrim Takes Off]]
 Seriously...Phil Collins

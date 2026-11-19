@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/YouTubers/Jake Paul.md
+created: 2026-11-15T13:42:59.896Z
+modified: 2026-09-05T07:06:12.341Z
+published: 2026-09-05T07:06:12.341Z
 tags:
   - DirectShane
 ---
+
 A Genie's Tail
 Airplane Mode
 [[Bizaardvark]]

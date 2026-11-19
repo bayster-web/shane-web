@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Unfinished Links/Layer 2 - Celebrities and YouTubers (Rhett and Link - Good Mythical Morning)/Musicians/Madison Beer.md
+created: 2026-11-15T13:43:14.477Z
+modified: 2026-10-03T07:37:22.844Z
+published: 2026-10-03T07:37:22.844Z
 tags:
   - GMM
 ---
+
 [[Good Mythical Morning]]
 Live with Kelly and Ryan
 MTV Europe Music Awards

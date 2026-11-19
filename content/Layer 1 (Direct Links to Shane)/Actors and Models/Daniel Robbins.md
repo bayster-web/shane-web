@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Daniel Robbins.md
+created: 2026-11-15T13:43:12.054Z
+modified: 2026-09-19T15:14:58.017Z
+published: 2026-09-19T15:14:58.017Z
 tags:
   - DirectShane
 ---
+
 American Crime
 [[American Crime Story]]
 Cooper Barrett's Guide to Surviving Life

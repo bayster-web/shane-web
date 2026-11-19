@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Kristen Schaal.md
+created: 2026-11-15T13:43:05.573Z
+modified: 2026-09-05T07:06:13.090Z
+published: 2026-09-05T07:06:13.090Z
 tags:
   - AnnoyingOrange
 ---
+
 [[30 Rock]]
 Adam & Steve
 [[Adventure Time]]

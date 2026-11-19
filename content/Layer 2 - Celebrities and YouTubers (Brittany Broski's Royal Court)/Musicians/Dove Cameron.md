@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Musicians/Dove Cameron.md
+created: 2026-11-15T13:43:11.585Z
+modified: 2026-09-19T14:48:55.312Z
+published: 2026-09-19T14:48:55.312Z
 tags:
   - RoyalCourt
 ---
+
 Barely Lethal
 Monsterville: Cabinet of Souls
 Dumplin'

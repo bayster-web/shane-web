@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Bruno Amato.md
+created: 2026-11-15T13:43:33.943Z
+modified: 2026-11-14T14:10:21.280Z
+published: 2026-11-14T14:10:21.280Z
 tags:
   - DirectShane
 ---
+
 [[2 Broke Girls]]
 [[Abbott Elementary]]
 [[Agents of S.H.I.E.L.D.]]

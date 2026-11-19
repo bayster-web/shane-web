@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Andrew James Allen.md
+created: 2026-11-15T13:40:24.367Z
+modified: 2026-09-05T07:06:11.924Z
+published: 2026-09-05T07:06:11.924Z
 tags:
   - DirectShane
 ---
+
 [[7th Heaven]]
 Bad Behaviour
 [[Bones]]

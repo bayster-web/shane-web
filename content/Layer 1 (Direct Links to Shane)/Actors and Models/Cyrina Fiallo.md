@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Cyrina Fiallo.md
+created: 2026-11-15T13:43:00.919Z
+modified: 2026-09-05T07:06:11.975Z
+published: 2026-09-05T07:06:11.975Z
 tags:
   - DirectShane
 ---
+
 [[9-1-1 Franchise]] - 9-1-1: Lone Star
 Abby's
 [[Barry]]
@@ -25,5 +31,5 @@ StartUp
 [[StuGo]]
 [[The Crew]]
 [[The Fosters]]
-The Resident 
+The Resident
 The Vindicators

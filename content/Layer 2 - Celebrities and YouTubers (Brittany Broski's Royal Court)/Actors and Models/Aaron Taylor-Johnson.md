@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Aaron Taylor-Johnson.md
+created: 2026-11-15T13:43:02.731Z
+modified: 2026-09-05T07:06:14.322Z
+published: 2026-09-05T07:06:14.322Z
 tags:
   - RoyalCourt
 ---
+
 The Apocalypse
 Tom & Thomas
 Behind Closed Doors
@@ -37,9 +43,9 @@ The Fall Guy
 Kraven the Hunter
 [[28 Days Later (Franchise)]] - 28 Years Later
 Fuze
-Werwulf 
-Blood on Snow 
-Cry to Heaven 
+Werwulf
+Blood on Snow
+Cry to Heaven
 Kick-Ass: The Game
 Armadillo
 [[The Bill]]

@@ -1,9 +1,15 @@
 ---
-{}
+publish: true
+permalink: /Layer 2 - Projects (Connections from Direct Links)/The Internet/Podcasts/Impaulsive.md
+created: 2026-11-15T13:43:24.926Z
+modified: 2026-10-24T16:36:55.146Z
+published: 2026-10-24T16:36:55.146Z
 ---
+
 [[Logan Paul]] - Host
 
 # Guests
+
 **[[Alex Jones (Infowars - Right Wing)]]**
 [[Arnold Schwarzenegger]]
 [[Belle Delphine]]
@@ -93,7 +99,7 @@ Keegan-Michael Key
 Danny Amendola
 Michael Rubin
 Jack's Dining Room (YouTuber)
-Ty Dolla $ign
+Ty Dolla \$ign
 Livvy Dunne (Social Media Person)
 Travis Scott
 Shareef O'Neal ([[Shaquille O'Neal]]'s son)
