@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Tim Curry.md
+created: 2026-11-19T23:06:22.424Z
+modified: 2026-09-06T08:38:06.565Z
+published: 2026-09-06T08:38:06.565Z
 tags:
   - AnnoyingOrange
 ---
+
 51st Golden Globe Awards
 100 Deeds for Eddie McDowd
 [[Aaahh!!! Real Monsters]]
@@ -21,7 +27,7 @@ Attila
 A Turtle's Tale: Sammy's Adventures
 Axel: The Biggest Little Hero
 Back to the Sea
-Bailey's Billion$
+Bailey's Billion\$
 [[Barbie Direct-to-DVD Movies]] - Barbie in the Nutcracker, Barbie and the Three Musketeers
 Bartok the Magnificent
 [[Batman Franchise]] - [[Batman Beyond]]
@@ -71,7 +77,7 @@ Frankenstein: Through the Eyes of the Monster
 Freakazoid!
 Gabriel Knight 3: Blood of the Sacred, Blood of the Damned
 Gabriel Knight: Sins of the Fathersx
-[[Garfield Franchise]] - Garfield: A Tail of Two Kitties 
+[[Garfield Franchise]] - Garfield: A Tail of Two Kitties
 [[Gargoyles]]
 Gary & Mike
 Gingerclown
@@ -235,8 +241,9 @@ Xyber 9: New Dawn
 [[Young Justice]]
 
 # Commercials
+
 [[Xerox]] - https://youtu.be/S4lA9otVKLA
 [[Smirnoff]] - https://youtu.be/Q70zsqMGb8Q
 [[Guinness]] - https://youtu.be/McAtqeIpZVM
-[[Cravendale]] - https://youtu.be/Bwfbkq6FOGQ / https://youtu.be/EmJhv6W_URY?t=6
-[[PBS]] - https://youtu.be/ndR6ykz_CP4
+[[Cravendale]] - https://youtu.be/Bwfbkq6FOGQ / https://youtu.be/EmJhv6W\_URY?t=6
+[[PBS]] - https://youtu.be/ndR6ykz\_CP4

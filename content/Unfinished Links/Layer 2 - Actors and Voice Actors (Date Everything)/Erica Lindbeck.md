@@ -1,4 +1,9 @@
 ---
+publish: true
+permalink: /Unfinished Links/Layer 2 - Actors and Voice Actors (Date Everything)/Erica Lindbeck.md
+created: 2026-11-19T23:06:23.243Z
+modified: 2026-11-21T18:30:13.907Z
+published: 2026-11-21T18:30:13.907Z
 tags:
   - DateEverything
 ---
@@ -33,7 +38,7 @@ Charlotte
 City the Animation
 Code Vein
 Coppelion
-Cyberpunk 2077
+[[Cyberpunk 2077]]
 Daemon X Machina
 Danganronpa 3: The End of Hope's Peak Academy
 Danganronpa Another Episode: Ultra Despair Girls
@@ -67,7 +72,7 @@ FLCL Alternative
 Fortnite Battle Royale
 Fortnite Battle Royale
 Fortnite: Save the World
-Genshin Impact
+[[Genshin Impact]]
 Glitter Force Doki Doki
 God of War Ragnarök
 Granblue Fantasy: Relink
@@ -91,7 +96,7 @@ Like a Dragon: Pirate Yakuza in Hawaii
 Lost Judgment
 Love Live! School Idol Project
 Love Live! The School Idol Movie
-Lupin the Third: Jigen's Gravestone 
+Lupin the Third: Jigen's Gravestone
 Magia Record
 Magi: The Kingdom of Magic
 Marathon
@@ -181,4 +186,4 @@ Yakuza 0 Director's Cut
 Yakuza Kiwami 3 & Dark Ties
 Yakuza: Like a Dragon
 Your Lie in April
-Zenless Zone Zero
+[[Zenless Zone Zero]]

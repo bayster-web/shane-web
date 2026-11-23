@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Comedians/Gilbert Gottfried.md
+created: 2026-11-19T23:06:22.412Z
+modified: 2026-11-19T23:13:33.926Z
+published: 2026-11-19T23:13:33.926Z
 tags:
   - AnnoyingOrange
 ---
+
 80s Creature House
 Abnormal Attraction
 A Disturbance in the Force
@@ -31,7 +37,7 @@ Big Bag
 Billy & Mandy Save Christmas
 [[Bobby's World]]
 Bonkers
-Boy Band 
+Boy Band
 Bravo's 100 Scariest Movie Moments
 Bumping Mics with Jeff Ross & Dave Attell
 Bump in the Night
@@ -102,7 +108,7 @@ Longshot
 Look Who's Talking Too
 Mad
 [[Mad About You]]
-[[Married... with Children]]
+[[Married with Children]]
 Meet Wally Sparks
 Mickey's House of Villains
 [[Microsoft Office]] XP (Voice of Clippy)

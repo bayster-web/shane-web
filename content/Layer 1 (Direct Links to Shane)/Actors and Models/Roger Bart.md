@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Roger Bart.md
+created: 2026-11-19T23:06:22.392Z
+modified: 2026-11-19T23:22:46.044Z
+published: 2026-11-19T23:22:46.044Z
 tags:
   - DirectShane
 ---
+
 [[30 Rock]]
 American Gangster
 A Series of Unfortunate Events (TV series)
@@ -42,7 +48,7 @@ The Life & Times of Tim
 The Producers (2005)
 [[The Producers (Broadway)]]
 The Stepford Wives (2004)
-[[Tick, Tick... Boom]]! (Musical AND Film)
+[[Tick, Tick Boom]]! (Musical AND Film)
 Trumbo
 [[Back to the Future - The Musical (Broadway)]]
 [[Young Frankenstein (Broadway)]]

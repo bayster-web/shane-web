@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Sally Kellerman.md
+created: 2026-11-19T23:06:22.421Z
+modified: 2026-09-05T07:06:13.055Z
+published: 2026-09-05T07:06:13.055Z
 tags:
   - AnnoyingOrange
 ---
+
 Reform School Girl
 Hands of a Stranger
 The Third Day
@@ -111,11 +117,8 @@ On Cinema
 Decker
 Difficult People
 
-
-
-
-
 # Commercials
+
 [[Hidden Valley Ranch]] - https://youtu.be/T-2isLGVmrw
 [[Mercedes-Benz]]
 [[Revlon]] - https://www.youtube.com/watch?v=3RWbjuM7izI

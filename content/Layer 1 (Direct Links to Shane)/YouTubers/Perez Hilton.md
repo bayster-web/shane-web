@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/YouTubers/Perez Hilton.md
+created: 2026-11-19T23:06:22.387Z
+modified: 2026-11-19T18:17:15.066Z
+published: 2026-11-19T18:17:15.066Z
 tags:
   - DirectShane
 ---
+
 90210
 Absolutely Fabulous: The Movie
 Another Gay Sequel: Gays Gone WIld!
@@ -27,3 +33,4 @@ Meet The Blacks
 [[Victorious]]
 We Love You, Sally Carmichael!
 [[Worst Cooks in America]]
+[[I'm A Celebrity Get Me Out of Here (AU)]]

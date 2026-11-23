@@ -1,8 +1,15 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Sports Stars/Matthew Willig.md
+created: 2026-11-19T23:06:22.413Z
+modified: 2026-11-19T23:20:22.402Z
+published: 2026-11-19T23:20:22.402Z
 tags:
   - AnnoyingOrange
 ---
-# [[NFL (Football)]] 
+
+# [[NFL (Football)]]
+
 [[New York Jets]] (1992–1995)
 [[Atlanta Falcons]] (1996–1997)
 [[Green Bay Packers]] (1998)
@@ -13,6 +20,7 @@ tags:
 [[St. Louis Rams]] (2005)
 
 # Acting
+
 Full Contact
 The Benchwarmers
 A Girl and a Gun
@@ -65,7 +73,7 @@ Kickin' It
 [[Brooklyn Nine-Nine]]
 [[The Legend of Korra]]
 Battle Creek
-[[Agents of S.H.I.E.L.D.]]
+[[Agents of S.H.I.E.L.D. (Show)]]
 Flaked
 Blunt Talk
 Type A
@@ -79,6 +87,7 @@ The Ballad of Buster Scruggs
 [[Spider-Man Franchise]] - Spider-Man: Shattered Dimensions
 
 # Commercials
+
 [[Capital One]] (alongside David Spade)
 [[Bud Light]]
 [[Halls]] (cough drop)

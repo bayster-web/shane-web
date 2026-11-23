@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Jennifer Hale.md
+created: 2026-11-19T23:06:22.415Z
+modified: 2026-09-05T07:06:13.184Z
+published: 2026-09-05T07:06:13.184Z
 tags:
   - AnnoyingOrange
 ---
+
 Adventures from the Book of Virtues
 [[Age of Empires (Franchise)]] - Age of Empires 3
 [[All Grown Up]]!

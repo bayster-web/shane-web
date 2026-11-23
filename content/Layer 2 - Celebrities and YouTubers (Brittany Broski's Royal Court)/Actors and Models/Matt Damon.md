@@ -1,10 +1,17 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Matt Damon.md
+created: 2026-11-19T23:06:22.475Z
+modified: 2026-10-25T17:10:36.899Z
+published: 2026-10-25T17:10:36.899Z
 tags:
   - RoyalCourt
 ---
+
 The phrase "...which could mean nothing." is about [[Ben Affleck]] and him.
 
 ---
+
 Mystic Pizza
 The Good Mother
 Field of Dreams
@@ -95,7 +102,7 @@ The Accountant 2
 Influenced
 The Rip
 [[The Odyssey (2026)]]
-Animals 
+Animals
 Push, Nevada
 The Leisure Class
 The Runner

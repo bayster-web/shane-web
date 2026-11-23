@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Michelle Veintimilla.md
+created: 2026-11-19T23:06:22.389Z
+modified: 2026-09-05T07:06:12.129Z
+published: 2026-09-05T07:06:12.129Z
 tags:
   - DirectShane
 ---
+
 Big Sky
 [[Blue Bloods]]
 [[Boston Blue]]

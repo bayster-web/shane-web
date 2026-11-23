@@ -1,8 +1,14 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Abby Trott.md
+created: 2026-11-19T23:06:22.429Z
+modified: 2026-09-05T07:06:13.380Z
+published: 2026-09-05T07:06:13.380Z
 tags:
   - DateEverything
   - Fortnite
 ---
+
 [[Ace Attorney (Franchise)]] - Phoenix Wright: Ace Attorney – Spirit of Justice (Maya Fey)
 [[Ace Combat (Franchise)]] - Ace Combat 7: Skies Unknown
 [[Aggretsuko]]
@@ -31,7 +37,7 @@ Engage Kiss
 [[Fire Emblem Franchise]] - Fire Emblem Heroes, Fire Emblem: Three Houses, Fire Emblem Warriors: Three Hopes
 [[Fortnite]] Battle Royale
 [[Fortnite]]: Save the World
-[[Ghost in the Shell]]: SAC_2045
+[[Ghost in the Shell]]: SAC\_2045
 [[Granblue Fantasy (Series)]] - Granblue Fantasy Versus: Rising
 [[Hunter x Hunter]]
 [[Infinity Nikki]]

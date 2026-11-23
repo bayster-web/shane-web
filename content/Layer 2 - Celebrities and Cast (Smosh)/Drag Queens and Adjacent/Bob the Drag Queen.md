@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Drag Queens and Adjacent/Bob the Drag Queen.md
+created: 2026-11-19T23:06:22.442Z
+modified: 2026-10-24T16:35:47.668Z
+published: 2026-10-24T16:35:47.668Z
 tags:
   - Smosh
 ---
+
 [[A Black Lady Sketch Show]]
 [[A Little Late with Lilly Singh]]
 Bob The Drag Queen: Crazy Black Lady
@@ -61,8 +67,8 @@ Dimension 20's Adventuring Party - [[Dropout (streaming service)]]
 [[Monét's Slumber Party]] - [[Dropout (streaming service)]]
 [[Moulin Rouge! (Broadway)]]
 
-
 # Podcasts
+
 Feast of Fun
 Haus of Mimosa: The Podcast
 Cooking with Drag Queens
@@ -112,7 +118,7 @@ In the Envelope: The Actor's Podcast
 Not Too Deep with Grace Helbig
 Wish U Were Weird with Sarah Rachel Lazarus
 Pepp Talks: Black Movie Classics
-[[The Bald and the Beautiful (Trixie and Katya Podcast)]] 
+[[The Bald and the Beautiful (Trixie and Katya Podcast)]]
 Sloppy Seconds with Big Dipper & Meatball
 Good Morning, Sodomites!
 Brad Behavior

@@ -13,7 +13,7 @@ Ryan and Trista Sutter (from The Bachelor, The Bachelorette and Dancing with the
 
 Natalie Nunn and Jacob Payne (from Bad Girls Club and Celebrity Big Brother UK)
 Spencer Pratt and Heidi Montag (from The Hills, I'm a Celebrity...Get Me Out of Here!, Famous Food and Celebrity Big Brother UK)
-Syleena Johnson and Kiwane Garris (from R&B Divas: Atlanta)
+Syleena Johnson and Kiwane Garris (from R\&B Divas: Atlanta)
 Tyson Apostol and Rachel Foulger (from Survivor)
 Aviva and Reid Drescher (from The Real Housewives of New York City)
 **Hosts and Counselors**: Jim Carroll, Elizabeth Carroll, David Bishop and Ilsa Norman
@@ -48,7 +48,7 @@ Brittish Williams and Lorenzo Gordon (from Basketball Wives LA)
 ## Season 8 - Marriage Boot Camp: Reality Stars 6
 
 Jade Roper and Tanner Tolbert (from The Bachelor, The Bachelorette and Bachelor in Paradise)
-Keke Wyatt and Michael Ford (from R&B Divas: Atlanta)
+Keke Wyatt and Michael Ford (from R\&B Divas: Atlanta)
 Amber Marchese and Jim Marchese (from The Real Housewives of New Jersey)
 Karen Gravano and Giovan "Storm" (from Mob Wives)
 Margeaux, Merika Palmiste and Nikko London (from Love & Hip Hop: Atlanta)
@@ -62,7 +62,6 @@ PreMadonna and Buck Thomas (from Love & Hip Hop: Atlanta)
 Gabrielle Victor and Victor Tarrats (from Bad Girls Club)
 Renee Graziano and Joey Gambino (from Mob Wives and Celebrity Big Brother UK)
 **Hosts and Counselors**: Dr. Ish Major and Dr. Venus "Dr. V" Nicolino
-
 
 ## Season 10 – Marriage Boot Camp: Reality Stars - Family Edition
 
@@ -98,15 +97,15 @@ Quani Robinson and Paul "Puma" Robinson (from Black Ink Crew)
 Momma Dee and Ernest Bryant (from Love & Hip Hop: Atlanta)
 **Hosts and Counselors**: Dr. Ish Major and Dr. Venus "Dr. V" Nicolino
 
-
 ## Season 14 - Marriage Boot Camp: Hip Hop Edition
+
 Waka Flocka Flame and Tammy Rivera (from Love & Hip Hop: Atlanta)
-Lil' Mo and Karl Dargan (from Love & Hip Hop: New York and R&B Divas: Los Angeles)
+Lil' Mo and Karl Dargan (from Love & Hip Hop: New York and R\&B Divas: Los Angeles)
 Lil' Fizz and Tiffany Campbell (from Love & Hip Hop: Hollywood)
 Soulja Boy and Nia Riley (from Love & Hip Hop: Hollywood)
 Jessica "Dimepiece" Chatman-Williams and Shawne Williams (from Love & Hip Hop: Atlanta)
 
-***Hosts and Counselors****: Dr. Ish Major and Dr. Venus "Dr. V" Nicolino
+_**Hosts and Counselors**_\*: Dr. Ish Major and Dr. Venus "Dr. V" Nicolino
 
 ## Season 15 – Marriage Boot Camp: Reality Stars - Family Edition 4
 
@@ -120,11 +119,11 @@ Corey, Eden and Courtney Feldman (from The Two Coreys)
 
 Cee-Lo Green and Shani James
 Styles P and Adjua Styles
-Michel'le and Robert "Stew" Stewart (from R&B Divas: Los Angeles)
+Michel'le and Robert "Stew" Stewart (from R\&B Divas: Los Angeles)
 Bianca Bonnie and Mustafaa "Chozus" (from Love & Hip Hop: New York)
 Joseline Hernandez and Robin "DJ Ballistic Beats" Ingouma (from Love & Hip Hop: Atlanta and Love & Hip Hop: Miami)
 
-**Hosts and Counselors****: Dr. Ish Major and Judge Lynn Toler
+**Hosts and Counselors**\*\*: Dr. Ish Major and Judge Lynn Toler
 
 ## Season 17 - Marriage Boot Camp: Hip Hop Edition 3
 
@@ -150,4 +149,3 @@ Mariahlynn and Rich Dollaz (from Love & Hip Hop: New York)
 Lyrica Anderson and A1 Bentley (from Love & Hip Hop: Hollywood)
 Gangsta Boo (from Three 6 Mafia) and Emmett Flores
 **Hosts and Counselors**: Dr. Ish Major and Judge Lynn Toler
-

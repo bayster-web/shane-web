@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Things Shane Has Been On or Sponsored By)/YouTube/Smosh/Smosh - Celebrities.md
+created: 2026-11-19T23:06:22.402Z
+modified: 2026-09-05T07:06:12.777Z
+published: 2026-09-05T07:06:12.777Z
 tags:
   - Smosh
 ---
+
 [[Smosh]]
 
 # Celebrities that have appeared on/in a Smosh (Main, Podcast, Games, Pit), or Smoshalike video or movie:
@@ -45,14 +51,14 @@ Lindsey Shaw (Ned's Declassified)
 [[Montez Ford]] (WWE)
 [[Nicole Byer]]
 [[Oliver Tree]]
-[[SungWon Cho - ProZD]] 
+[[SungWon Cho - ProZD]]
 [[Richard (Steven) Horvitz]]
 [[Rob Dyrdek]] - https://www.youtube.com/watch?v=IdbnFVFuZJ8
 [[Sarah Natochenny]]
 [[Shannon Chan-Kent]]
 [[Shelby Young]] (Voice Actress)
 [[Shigeru Miyamoto]]
-[[Stan Lee]] 
+[[Stan Lee]]
 Stavros Halkias
 [[Tara Sands]]
 [[Thomas Lennon]]

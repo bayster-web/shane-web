@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Voice Actors/Kaiji Tang.md
+created: 2026-11-19T23:06:22.441Z
+modified: 2026-11-23T18:52:34.242Z
+published: 2026-11-23T18:52:34.242Z
 tags:
   - Smosh
 ---
+
 13 Sentinels: Aegis Rim
 [[Advance Wars (Franchise)]] - Advance Wars 1+2: Re-Boot Camp
 AI: The Somnium Files
@@ -16,7 +22,7 @@ Battle Game in 5 Seconds
 Battle Royale
 [[Beastars ]]
 [[Berserk]]
-[[Beyblade]] - Beyblade Burst Surge
+[[Beyblade]] - [[Beyblade]] Burst Surge
 [[BlazBlue (Franchise)]] - BlazBlue: Calamity Trigger, BlazBlue: Cross Tag Battle
 [[Boruto]] - Boruto: Naruto Next Generations
 [[Bravely Default (Series)]] - Bravely Default
@@ -82,7 +88,7 @@ Mary Skelter Finale
 Mashle
 Master Detective Archives: Rain Code
 Medalist
-Megalobox 
+Megalobox
 [[Mortal Kombat Franchise]] - Mortal Kombat 1
 [[My Happy Marriage]] Season 2
 [[Naruto]]: Shippuden
@@ -94,7 +100,7 @@ Nura: Rise of the Yokai Clan
 Orient
 [[Persona (Franchise)]] - Persona 5, Persona 5 Royal
 Pluto
-[[Pokémon]] - Detective Pikachu, Detective Pikachu Returns, Pokémon, Pokémon Evolutions, Pokémon Masters, 
+[[Pokémon]] - Detective Pikachu, Detective Pikachu Returns, Pokémon, Pokémon Evolutions, Pokémon Masters,
 [[Ranma ½]]
 Reality Fighters
 Record of Ragnarok

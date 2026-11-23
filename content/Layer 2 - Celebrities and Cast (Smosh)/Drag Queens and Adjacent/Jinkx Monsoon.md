@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Drag Queens and Adjacent/Jinkx Monsoon.md
+created: 2026-11-19T23:06:22.442Z
+modified: 2026-09-05T07:06:13.813Z
+published: 2026-09-05T07:06:13.813Z
 tags:
   - Smosh
 ---
+
 Waxie Moon in Fallen Jewel
 East of Adin
 Drag Becomes Him

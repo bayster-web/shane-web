@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Directors and Artists/Rob Tinkler.md
+created: 2026-11-19T23:06:22.417Z
+modified: 2026-09-05T07:06:12.867Z
+published: 2026-09-05T07:06:12.867Z
 tags:
   - AnnoyingOrange
 ---
+
 [[6Teen]]
 8 Tiny Reindeer (Writer)
 Air Bud: Spikes Back
@@ -30,7 +36,7 @@ Comedy Now! (Writer)
 Connor Undercover
 Coopers' Camera
 Crazy Canucks
-Cries for Help (Writer) 
+Cries for Help (Writer)
 Cupcake & Dino: General Services
 [[Cyberchase]]
 [[Cyberchase]]: Totally Rad

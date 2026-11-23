@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Jim Cummings.md
+created: 2026-11-19T23:06:22.416Z
+modified: 2026-11-19T23:21:56.668Z
+published: 2026-11-19T23:21:56.668Z
 tags:
   - AnnoyingOrange
 ---
+
 2 Stupid Dogs
 101 Dalmatians II: Patch's London Adventure
 101 Dalmatians: The Series
@@ -154,7 +160,7 @@ Mickey's Twice Upon a Christmas
 [[Mighty Magiswords]]
 [[Minecraft - Story Mode]]
 Monster Hunters
-[[Monsters, Inc.]]
+[[Monsters, Inc]]
 [[Mortal Kombat Franchise]] - Mortal Kombat: The Journey Begins
 Motorcity
 [[MultiVersus]] 
@@ -168,8 +174,8 @@ Nickelodeon Kart Racers 3: Slime Speedway  
 Nickelodeon Party Blast  
 Nicktoons MLB  
 Niko and the Sword of Light
-[[OK K.O.]]! Let's Be Heroes
-[[OK K.O.]]! Let's Play Heroes  
+[[OK K.O. - Let's Be Heroes]]! Let's Be Heroes
+[[OK K.O. - Let's Be Heroes]]! Let's Play Heroes  
 Orion Burger  
 Ozzy & Drix
 Painkiller  
@@ -327,5 +333,5 @@ Wild West C.O.W.-Boys of Moo Mesa
 Wonder Showzen
 [[World of Warcraft]]: Battle for Azeroth, Legion, Mists of Pandaria, Shadowlands  
 [[Wreck-It Ralph]]
-[[Ys Franchise]] - Ys: Book I&II
+[[Ys Franchise]] - Ys: Book I\&II
 Zambezia

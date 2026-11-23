@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Ben Giroux.md
+created: 2026-11-19T23:06:22.424Z
+modified: 2026-09-19T14:49:20.142Z
+published: 2026-09-19T14:49:20.142Z
 tags:
   - AnnoyingOrange
 ---
+
 Santa Buddies
 Thanks for Dying
 Abner, the Invisible Dog

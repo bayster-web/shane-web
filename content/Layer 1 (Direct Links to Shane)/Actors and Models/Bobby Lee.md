@@ -1,12 +1,18 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Bobby Lee.md
+created: 2026-11-19T23:06:22.393Z
+modified: 2026-11-19T23:19:29.611Z
+published: 2026-11-19T23:19:29.611Z
 tags:
   - DirectShane
 ---
-=3 - [[Ray William Johnson (Equals Three)]]
+
+\=3 - [[Ray William Johnson (Equals Three)]]
 2 Different Tears ([[Wonder Girls]] music video)
 Alone Together
 [[American Dad]]
-[[And Just Like That...]]
+[[And Just Like That]]
 Animal Practice
 [[Arrested Development]]
 A Very [[Harold & Kumar]] 3D Christmas

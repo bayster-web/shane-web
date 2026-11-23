@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Robbie Daymond.md
+created: 2026-11-19T23:06:22.431Z
+modified: 2026-11-19T23:21:56.674Z
+published: 2026-11-19T23:21:56.674Z
 tags:
   - DateEverything
 ---
+
 [[Adventure Time]]: Fionna and Cake
 [[Agents of Mayhem]]
 Akiba's Beat
@@ -59,7 +65,7 @@ Fist of the North Star: Lost Paradise
 FLCL Progressive
 [[Friday the 13th (Franchise)]]: The Game
 Get Blake!
-[[Ghost in the Shell]]: SAC_2045
+[[Ghost in the Shell]]: SAC\_2045
 [[Ghost of Tsushima]]
 [[Ghost of Yōtei]]
 Glitter Force
@@ -119,7 +125,7 @@ Monsters: 103 Mercies Dragon Damnation
 [[Naruto]]: Shippuden, [[Naruto]] x [[Boruto]]: Ultimate Ninja Storm Connections
 [[NieR (Franchise)]] - Nier: Automata, Nier Replicant ver.1.22474487139...
 NiNoKuni
-[[OK K.O.]]! Let's Be Heroes, OK K.O.! Let's Play Heroes
+[[OK K.O. - Let's Be Heroes]]! Let's Be Heroes, OK K.O.! Let's Play Heroes
 Omega Strikers
 [[One Piece]]
 [[One-Punch Man]], One-Punch Man: A Hero Nobody Knows

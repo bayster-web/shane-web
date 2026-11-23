@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Steve Blum.md
+created: 2026-11-19T23:06:22.432Z
+modified: 2026-11-19T23:20:02.015Z
+published: 2026-11-19T23:20:02.015Z
 tags:
   - DateEverything
 ---
+
 007: From Russia with Love
 A Cat in Paris
 [[Ace Combat (Franchise)]] - Ace Combat 5: The Unsung War
@@ -116,7 +122,7 @@ Fuse
 [[FusionFall]]
 [[Generator Rex]]
 [[Ghost in the Shell]]
-[[Ghost in the Shell]]: SAC_2045
+[[Ghost in the Shell]]: SAC\_2045
 Ghost Slayers Ayashi
 Giant Robo
 [[G.I. Joe (Franchise)]] - G.I. Joe: Resolute, G.I. Joe: The Rise of Cobra
@@ -143,7 +149,7 @@ Hellboy Web of Wyrd
 [[Heroes of the Storm]]
 [[Hitman (Franchise)]] - Hitman 3
 [[Hotel Transylvania]] 2
-[[Hulk and the Agents of S.M.A.S.H.]]
+[[Hulk and the Agents of S.M.A.S.H. (Show)]]
 Hulk Vs
 Hyper Doll
 I Know That Voice
@@ -231,7 +237,7 @@ Monkie Kid: A Hero is Born
 [[Mortal Kombat Franchise]] - Mortal Kombat 1, Mortal Kombat 11, Mortal Kombat Legends: Scorpion's Revenge, Mortal Kombat: Onslaught, Mortal Kombat X
 MotorStorm: Apocalypse
 [[My Life as a Teenage Robot]]
-[[Naruto]
+\[\[Naruto]
 [[Naruto]]: Shippuden
 Naruto Shippuden: Clash of Ninja Revolution III
 Naruto: The Broken Bond

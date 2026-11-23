@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Reality Stars/Kendall Jenner.md
+created: 2026-11-19T23:06:22.413Z
+modified: 2026-09-19T14:44:40.706Z
+published: 2026-09-19T14:44:40.706Z
 tags:
   - AnnoyingOrange
 ---
+
 2014 Much Music Video Awards
 [[America's Next Top Model]] Cycle 18
 [[Hawaii Five-0]]
@@ -26,6 +32,7 @@ Victoria's Secret Fashion Show 2018
 [[Tyler, The Creator]] Music Video (I Think)
 
 # Commercials
+
 [[818 Tequila]]
 [[Adidas]] - https://www.ispot.tv/ad/wTbI/adidas-original-is-never-finished-feat-james-harden-snoop-dogg
 [[ALO (Apparel)]] - https://youtu.be/BeNFudJFPVQ

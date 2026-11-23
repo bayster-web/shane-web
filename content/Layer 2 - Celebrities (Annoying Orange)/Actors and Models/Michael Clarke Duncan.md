@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Michael Clarke Duncan.md
+created: 2026-11-19T23:06:22.421Z
+modified: 2026-11-19T23:13:33.921Z
+published: 2026-11-19T23:13:33.921Z
 tags:
   - AnnoyingOrange
 ---
+
 A Crush on You
 Air Buddies
 American Crude
@@ -18,7 +24,7 @@ Brother Bear
 Brother Bear 2
 Built to Last
 Bulworth
-Cats & Dogs[
+Cats & Dogs\[
 Cats & Dogs: The Revenge of Kitty Galore
 Caught Up
 [[Chuck]]
@@ -26,7 +32,7 @@ Cross
 [[CSI Franchise]] - CSI: NY
 Daredevil
 D.E.B.S.
-Delgo[
+Delgo\[
 Dinotopia: Quest for the Ruby Sunstone
 [[Family Guy]]
 [[Fish Hooks]]
@@ -35,7 +41,7 @@ Friday
 From the Rough
 George and the Dragon
 George Lopez
-George of the Jungle 2[
+George of the Jungle 2\[
 [[God of War (Franchise)]] - God of War II
 Green Lantern
 In the Hive
@@ -45,7 +51,7 @@ Kung Fu Panda
 Legend of Kung Fu Rabbit
 Living Single
 Loonatics Unleashed
-[[Married... with Children]]
+[[Married with Children]]
 Minoriteam
 One Way
 Panic in the Park

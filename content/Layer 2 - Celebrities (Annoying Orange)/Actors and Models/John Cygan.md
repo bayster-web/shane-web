@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/John Cygan.md
+created: 2026-11-19T23:06:22.422Z
+modified: 2026-09-05T07:06:12.986Z
+published: 2026-09-05T07:06:12.986Z
 tags:
   - AnnoyingOrange
 ---
+
 A Good Knight's Quest
 Arc the Lad: Twilight of the Spirits
 Babes

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Olivia Wilde.md
+created: 2026-11-19T23:06:22.420Z
+modified: 2026-11-19T23:16:09.442Z
+published: 2026-11-19T23:16:09.442Z
 tags:
   - AnnoyingOrange
 ---
+
 The Girl Next Door
 Conversations with Other Women
 Alpha Dog
@@ -49,7 +55,7 @@ I Want Your Sex
 The Invite
 Behemoth!
 Skin
-[[The O.C.]]
+[[The O.C. (Show)]]
 The Black Donnellys
 [[House MD]]
 [[Saturday Night Live]]
@@ -67,6 +73,7 @@ The Studio
 [[1984 (Broadway)]]
 
 # Music Videos
+
 [[Drake]] - Nice for What
 [[Red Hot Chilli Peppers]] - Dark Necessities
 [[Edward Sharpe and the Magnetic Zeros]] - No Love Like Yours

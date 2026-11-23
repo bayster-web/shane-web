@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Actors and Models/Neil Newbon.md
+created: 2026-11-19T23:06:22.427Z
+modified: 2026-10-24T16:53:41.530Z
+published: 2026-10-24T16:53:41.530Z
 tags:
   - DateEverything
 ---
+
 Are You Ready for Love?
 As If
 [[Baldur's Gate Franchise]] - Baldur's Gate 3

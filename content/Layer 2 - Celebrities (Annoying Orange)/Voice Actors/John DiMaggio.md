@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/John DiMaggio.md
+created: 2026-11-19T23:06:22.417Z
+modified: 2026-11-19T23:21:56.670Z
+published: 2026-11-19T23:21:56.670Z
 tags:
   - AnnoyingOrange
 ---
+
 [[Adventure Time]]
 Adventure Time: Distant Lands
 Adventure Time: Fionna and Cake
@@ -94,7 +100,7 @@ Green Lantern: The Animated Series
 [[Happily N'Ever After]]
 [[Hearthstone]]
 Historical Roasts
-[[Hulk and the Agents of S.M.A.S.H.]]
+[[Hulk and the Agents of S.M.A.S.H. (Show)]]
 [[Inside Job]]
 Interview with the Vampire (TV Series)
 [[Invincible]]
@@ -131,7 +137,7 @@ Morris and the Cow
 [[My Name Is Earl]]
 Mythic Quest
 No Time to Spy: A Loud House Movie
-[[OK K.O.]]! Let's Be Heroes
+[[OK K.O. - Let's Be Heroes]]! Let's Be Heroes
 Out There
 [[Perry Mason (2020)]]
 [[Phineas and Ferb]]
@@ -211,7 +217,7 @@ Underdog
 Vampire Hunter D: Bloodlust
 [[Vampire - The Masquerade (Franchise)]] – Bloodlines
 Van Helsing: The London Assignment
-[[Voltron - Legendary Defender]] 
+[[Voltron - Legendary Defender]]
 [[We Bare Bears]]
 Whispers: An Elephant's Tale
 Wonder Woman

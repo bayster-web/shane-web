@@ -1,4 +1,9 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Greg Cipes.md
+created: 2026-11-19T23:06:22.414Z
+modified: 2026-11-19T23:21:18.367Z
+published: 2026-11-19T23:21:18.367Z
 tags:
   - AnnoyingOrange
 ---
@@ -109,7 +114,7 @@ Trolland
 Twentyfourseven
 [[Unfriended]]
 Vile
-[[Whatever Happened to... Robot Jones]]?
+[[Whatever Happened to Robot Jones]]?
 W.I.T.C.H.
 [[Without a Trace]]
 [[Young Justice]]

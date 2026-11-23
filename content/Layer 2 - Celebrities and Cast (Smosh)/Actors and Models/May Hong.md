@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Actors and Models/May Hong.md
+created: 2026-11-19T23:06:22.443Z
+modified: 2026-09-05T07:06:13.716Z
+published: 2026-09-05T07:06:13.716Z
 tags:
   - Smosh
 ---
+
 [[Broad City]]
 High Maintenance
 New Amsterdam
@@ -16,9 +22,10 @@ Adam
 Perfect Girl
 
 # Companies Modelled For
-[[Eckhaus Latta]] 
+
+[[Eckhaus Latta]]
 [[Marc Jacobs]]
 [[Gucci]]
 [[Adidas]]
-[[Marni]] 
+[[Marni]]
 [[Telfar]]

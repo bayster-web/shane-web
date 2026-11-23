@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/YouTubers/Tyler Oakley.md
+created: 2026-11-19T23:06:22.387Z
+modified: 2026-09-05T07:06:12.399Z
+published: 2026-09-05T07:06:12.399Z
 tags:
   - DirectShane
 ---
+
 2014 Kids Choice Awards
 [[Catfish]]: The TV Show
 [[Celebrity Medium with Tyler Henry]]

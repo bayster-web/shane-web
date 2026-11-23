@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Comedians/Gabriel Iglesias.md
+created: 2026-11-19T23:06:22.411Z
+modified: 2026-09-05T07:06:12.828Z
+published: 2026-09-05T07:06:12.828Z
 tags:
   - AnnoyingOrange
 ---
+
 Entre vivos y plebeyos
 El Matador
 Days of Santiago

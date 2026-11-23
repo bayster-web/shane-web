@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Keith David.md
+created: 2026-11-19T23:06:22.394Z
+modified: 2026-11-19T23:21:56.664Z
+published: 2026-11-19T23:21:56.664Z
 tags:
   - DirectShane
 ---
+
 3x3 Eyes
 [[7th Heaven]]
 21 Bridges
@@ -247,7 +253,7 @@ Now Here
 [[Numb3rs]]
 Off Limits
 Oh My God, Yes!
-[[OK K.O.]]!
+[[OK K.O. - Let's Be Heroes]]!
 Once Upon a Time in Wonderland
 Parallel Worlds: A Psychedelic Love Story
 Pastor Brown

@@ -1,4 +1,9 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Malcolm McDowell.md
+created: 2026-11-19T23:06:22.423Z
+modified: 2026-09-05T07:06:12.999Z
+published: 2026-09-05T07:06:12.999Z
 tags:
   - AnnoyingOrange
 ---

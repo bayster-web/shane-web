@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Josh Peck.md
+created: 2026-11-19T23:06:22.392Z
+modified: 2026-11-19T23:21:18.364Z
+published: 2026-11-19T23:21:18.364Z
 tags:
   - DirectShane
 ---
+
 13: The Musical
 [[After Midnight]]
 ATM
@@ -37,5 +43,5 @@ The Guardian
 [[The Powerpuff Girls]]
 [[The Wedding Ringer]]
 Turner & Hooch (Disney+ Show)
-[[Whatever Happened to... Robot Jones]]?
+[[Whatever Happened to Robot Jones]]?
 [[Scooby-Doo Franchise]] - What's New, Scooby-Doo

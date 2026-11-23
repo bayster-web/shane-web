@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Luke Thompson.md
+created: 2026-11-19T23:06:22.471Z
+modified: 2026-09-19T14:54:08.240Z
+published: 2026-09-19T14:54:08.240Z
 tags:
   - RoyalCourt
 ---
+
 Shakespeare's Globe: A Midsummer Night's Dream
 Globe on Screen: Julius Caesar
 The Complete Walk: Romeo and Juliet

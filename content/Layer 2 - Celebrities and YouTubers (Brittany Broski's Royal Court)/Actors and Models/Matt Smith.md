@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Matt Smith.md
+created: 2026-11-19T23:06:22.475Z
+modified: 2026-11-14T14:10:21.473Z
+published: 2026-11-14T14:10:21.473Z
 tags:
   - RoyalCourt
 ---
+
 In Bruges
 Womb
 Lost River
@@ -17,7 +23,7 @@ The Forgiven
 [[Morbius (2022 - SSU)]]
 Starve Acre
 Caught Stealing
-[[Star Wars Franchise]] - Star Wars: Starfighter 
+[[Star Wars Franchise]] - Star Wars: Starfighter
 The Ruby in the Smoke
 The Shadow in the North
 Party Animals

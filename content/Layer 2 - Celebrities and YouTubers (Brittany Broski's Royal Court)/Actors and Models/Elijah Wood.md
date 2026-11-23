@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Elijah Wood.md
+created: 2026-11-19T23:06:22.469Z
+modified: 2026-09-05T07:06:14.329Z
+published: 2026-09-05T07:06:14.329Z
 tags:
   - RoyalCourt
 ---
+
 9
 A Girl Walks Home Alone at Night
 All I Want
@@ -123,6 +129,7 @@ Transference
 [[Batman Franchise]] - Batman: Arkham Shadow
 
 # Music Videos
+
 [[Paula Abdul]]: "Forever Your Girl" (1989)
 [[The Cranberries]]: "Ridiculous Thoughts" (1995)
 The Apples in Stereo: "Energy" (as director) (2006)

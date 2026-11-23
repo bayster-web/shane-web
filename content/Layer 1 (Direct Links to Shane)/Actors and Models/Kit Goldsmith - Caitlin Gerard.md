@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Kit Goldsmith - Caitlin Gerard.md
+created: 2026-11-19T23:06:22.389Z
+modified: 2026-09-05T07:06:12.098Z
+published: 2026-09-05T07:06:12.098Z
 tags:
   - DirectShane
 ---
+
 American Crime
 American Killing
 Answers to Nothing

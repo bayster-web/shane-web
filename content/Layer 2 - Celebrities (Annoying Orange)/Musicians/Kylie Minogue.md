@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Musicians/Kylie Minogue.md
+created: 2026-11-19T23:06:22.410Z
+modified: 2026-09-05T07:06:12.891Z
+published: 2026-09-05T07:06:12.891Z
 tags:
   - AnnoyingOrange
 ---
+
 20,000 Days on Earth
 A Christmas Star
 [[Annoying Orange (TV Show or YouTube Series)]]
@@ -51,10 +57,11 @@ The Sullivans
 Zoo Family
 
 # Commercials
+
 Australia (Tourism) - https://www.youtube.com/watch?v=QMAq8F8N2Fg
 [[Coca-Cola]] - https://www.nfsa.gov.au/collection/item/coke-special-delivery-featuring-kylie-minogue
 [[Chanel]] - https://youtu.be/ohvN6A7Onos
 [[H&M]] - https://www.youtube.com/watch?v=QHhw3Zr-o2o
 [[Lexus]] - https://youtu.be/umT2pjnudTU
 [[Volkswagen]] - https://youtu.be/mTVbwhN8Nv0
-[[Dance Central]] - https://youtu.be/0RnHtFsJh_8
+[[Dance Central]] - https://youtu.be/0RnHtFsJh\_8

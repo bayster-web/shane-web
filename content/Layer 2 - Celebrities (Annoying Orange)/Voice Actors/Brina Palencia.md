@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Brina Palencia.md
+created: 2026-11-19T23:06:22.414Z
+modified: 2026-09-05T07:06:13.140Z
+published: 2026-09-05T07:06:13.140Z
 tags:
   - AnnoyingOrange
 ---
+
 A Certain Scientific Railgun
 Aquarion
 Aquarion Evol
@@ -10,7 +16,7 @@ Aria the Scarlet Ammo AA
 Beck: Mongolian Chop Squad
 Black Blood Brothers
 [[Black Butler]]
-Black Butler: Book of the Atlantic 
+Black Butler: Book of the Atlantic
 Black Cat
 [[Borderlands]]
 [[Castle]]

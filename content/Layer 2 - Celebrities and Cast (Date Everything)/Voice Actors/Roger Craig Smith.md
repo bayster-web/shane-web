@@ -1,4 +1,9 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Roger Craig Smith.md
+created: 2026-11-19T23:06:22.435Z
+modified: 2026-11-19T23:21:56.677Z
+published: 2026-11-19T23:21:56.677Z
 tags:
   - DateEverything
 ---
@@ -56,7 +61,7 @@ Duel Masters
 [[Fish Hooks]]
 Future-Worm!
 [[Ghost in the Shell]] 2: Innocence
-[[Ghost in the Shell]]: SAC_2045
+[[Ghost in the Shell]]: SAC\_2045
 [[G.I. Joe (Franchise)]] - G.I. Joe: The Rise of Cobra
 Grounded
 [[Guardians of the Galaxy (Cartoon)]]
@@ -66,7 +71,7 @@ Harvey Street Kids
 [[Hell's Kitchen]] (Narrator for Seasons 13 & 14)
 [[He-Man and the Masters of the Universe]]
 [[Hi-Fi Rush]]
-[[Hulk and the Agents of S.M.A.S.H.]]
+[[Hulk and the Agents of S.M.A.S.H. (Show)]]
 If You Give a Mouse a Cookie
 [[Inside Job]]
 Iron Man & Captain America: Heroes United
@@ -129,7 +134,7 @@ Monster
 [[Naruto]] Shippuden: Ultimate Ninja Storm Revolution
 [[Naruto]] Shippuden: Ultimate Ninja Storms Generations
 [[Naruto]] the Movie: Legend of the Stone of Gelel
-[[OK K.O.]]! Let's Be Heroes
+[[OK K.O. - Let's Be Heroes]]! Let's Be Heroes
 Patlabor 2: The Movie
 Patlabor: The Movie
 Penn Zero: Part-Time Hero

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/George Takei.md
+created: 2026-11-19T23:06:22.423Z
+modified: 2026-09-05T07:06:12.982Z
+published: 2026-09-05T07:06:12.982Z
 tags:
   - AnnoyingOrange
 ---
+
 [[3rd Rock from the Sun]]
 [[Adventure Time]]
 [[Allegiance (Broadway)]]
@@ -83,7 +89,7 @@ Scooby-Doo and Guess Who?
 Space Cases
 [[Spider-Man Franchise]] - [[Spider-Man - The Animated Series]]
 Star Trek: 25th Anniversary
-[[Star Trek Franchise]] - Star Trek, Star Trek: Judgment Rites, Star Trek: Lower Decks, Star Trek: Shattered Universe, Star Trek: Short Treks, Star Trek: Starfleet Academy, Star Trek: Starfleet Command, Star Trek: Starfleet Command II: Empires at War, Star Trek: The Animated Series, Star Trek: Voyager, 
+[[Star Trek Franchise]] - Star Trek, Star Trek: Judgment Rites, Star Trek: Lower Decks, Star Trek: Shattered Universe, Star Trek: Short Treks, Star Trek: Starfleet Academy, Star Trek: Starfleet Command, Star Trek: Starfleet Command II: Empires at War, Star Trek: The Animated Series, Star Trek: Voyager,
 [[Star Wars Franchise]] - Star Wars: The Clone Wars, Star Wars: Visions
 Supah Ninjas
 Teeny Titans
@@ -105,7 +111,7 @@ Through the Keyhole
 [[Transformers Franchise]] - Transformers: Animated, Transformers: Prime
 True Justice
 [[Ultimate Spider-Man]]
-Vega$
+Vega\$
 Voyage to the Bottom of the Sea
 [[Will & Grace]]
 [[Yakuza & Like A Dragon Franchise]] - Yakuza: Like a Dragon

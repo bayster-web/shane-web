@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Jeffrey Tambor.md
+created: 2026-11-19T23:06:22.423Z
+modified: 2026-11-19T23:17:18.044Z
+published: 2026-11-19T23:17:18.044Z
 tags:
   - AnnoyingOrange
 ---
+
 3-South
 9 to 5
 55 Steps
@@ -40,7 +46,7 @@ Crossing the Bridge
 [[CSI Franchise]] - CSI: Crime Scene Investigation
 Desert Hearts
 Dinosaurs
-[[Doogie Howser, M.D.]]
+[[Doogie Howser, M.D.  (Show)]]
 [[Dr. Dolittle Franchise]] - Dr. Dolittle
 [[Duckman]]
 Eloise at Christmastime

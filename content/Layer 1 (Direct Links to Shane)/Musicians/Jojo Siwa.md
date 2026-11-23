@@ -1,12 +1,18 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Musicians/Jojo Siwa.md
+created: 2026-11-19T23:06:22.378Z
+modified: 2026-09-05T07:06:12.209Z
+published: 2026-09-05T07:06:12.209Z
 tags:
   - DirectShane
 ---
+
 Abby's Ultimate Dance Competition
 [[All That (2019 Reboot)]]
 (Hashtag) AMFAD: All My Friends Are Dead
 [[Bizaardvark]]
-[[Celebrity Big Brother (UK)]], 
+[[Celebrity Big Brother (UK)]],
 [[Dance Moms]]
 [[Dancing with the Stars (US)]]
 [[Escape the Night]]
@@ -19,17 +25,18 @@ Pictionary (2023 Game Show)
 [[RuPaul's Drag Race]]
 [[School of Rock (TV Show)]]
 Selling Sunset
-[[So You Think You Can Dance US]], 
+[[So You Think You Can Dance US]],
 The Angry Birds Movie 2
 [[The Ellen DeGeneres Show]]
 [[The Kelly Clarkson Show]]
-[[The Masked Singer (US)]], 
+[[The Masked Singer (US)]],
 The Thundermans
 [[The Tonight Show Starring Jimmy Fallon]]
 
 # Commercials
+
 [[Toyota]] Highlander - https://youtu.be/h8hASHiTgEc
-[[JCPenney]] 
+[[JCPenney]]
 [[MLB (Major League Baseball)]] - https://youtu.be/EXrw2u6j3F4
 [[Universal Orlando]] - https://youtu.be/Dy1Kh6Pinvo
 [[Michaels]] (Craft Store) - https://youtu.be/hofxp2Byih0

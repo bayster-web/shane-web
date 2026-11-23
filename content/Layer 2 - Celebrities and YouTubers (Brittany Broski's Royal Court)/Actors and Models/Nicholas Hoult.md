@@ -1,24 +1,30 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Nicholas Hoult.md
+created: 2026-11-19T23:06:22.475Z
+modified: 2026-10-24T16:59:17.055Z
+published: 2026-10-24T16:59:17.055Z
 tags:
   - RoyalCourt
 ---
+
 About a Boy
 A Single Man
 Brass Eye
 [[Casualty]]
 Clash of the Titans
-[[Cocomelon]]: The Movie 
+[[Cocomelon]]: The Movie
 Collide
 Coming Down the Mountain
 Crossing Swords
-Cry to Heaven 
+Cry to Heaven
 Dark Places
 [[Deadpool]] 2
 [[Doctors (UK Soap) 1]]
 Equals
 [[Fable (Series)]] - Fable III
 [[Holby City]]
-How to Rob a Bank 
+How to Rob a Bank
 [[Injustice Franchise]] - Injustice 2
 Intimate Relations
 Jack the Giant Slayer

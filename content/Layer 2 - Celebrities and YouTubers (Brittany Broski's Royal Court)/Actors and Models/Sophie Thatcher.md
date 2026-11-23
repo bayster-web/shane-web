@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Sophie Thatcher.md
+created: 2026-11-19T23:06:22.474Z
+modified: 2026-10-24T16:49:01.123Z
+published: 2026-10-24T16:49:01.123Z
 tags:
   - RoyalCourt
 ---
+
 [[Pavement]] Music Video (Harness Your Hopes)
 [[Chicago P.D.]]
 The Exorcist (Fox Show)
@@ -19,4 +25,4 @@ MaXXXine
 Heretic
 [[Companion]]
 Her Private Hell
-Peaches 
+Peaches

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Actors and Models/Dante Basco.md
+created: 2026-11-19T23:06:22.428Z
+modified: 2026-11-14T14:10:21.389Z
+published: 2026-11-14T14:10:21.389Z
 tags:
   - DateEverything
 ---
+
 Moonwalker
 The Wizard
 Cold Dog Soup
@@ -85,7 +91,7 @@ Blindspotting
 Almost Paradise
 The Dragon Prince
 [[Hey A.J.!]]
-The Dragon King 
+The Dragon King
 [[Nostalgia Critic]]
 [[Camp Camp]]
 [[Death Battle]]
@@ -105,4 +111,5 @@ Nicktoons MLB
 [[Date Everything!]]
 
 # Commercials
+
 [[TurboTax]] - https://youtu.be/mhrWmEFy9qg

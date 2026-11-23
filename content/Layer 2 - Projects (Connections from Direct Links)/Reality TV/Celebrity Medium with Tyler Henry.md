@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Projects (Connections from Direct Links)/Reality TV/Celebrity Medium with Tyler Henry.md
+created: 2026-11-19T23:06:22.533Z
+modified: 2026-11-19T18:07:58.748Z
+published: 2026-11-19T18:07:58.748Z
 tags: []
 ---
-***List of celebrities who have been on the show:*** 
+
+_**List of celebrities who have been on the show:**_
 Adrianne Palicki
 Alan Thicke
 Allison Janney
@@ -68,7 +74,7 @@ Jaleel White
 Jamie Chung
 Jamie-Lynn Sigler
 Jana Kramer
-Janice Dickinson
+[[Janice Dickinson]]
 Jax Taylor
 Jeannie Mai
 Jen Harley

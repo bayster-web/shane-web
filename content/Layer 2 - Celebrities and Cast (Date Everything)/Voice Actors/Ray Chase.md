@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Ray Chase.md
+created: 2026-11-19T23:06:22.435Z
+modified: 2026-11-14T14:10:33.147Z
+published: 2026-11-14T14:10:33.147Z
 tags:
   - DateEverything
 ---
+
 Akiba's Beat
 Akiba's Trip: Hellbound & Debriefed
 Altered Carbon: Resleeved

@@ -1,8 +1,14 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Amanda Hufford.md
+created: 2026-11-19T23:06:22.428Z
+modified: 2026-09-05T07:06:13.407Z
+published: 2026-09-05T07:06:13.407Z
 tags:
   - DateEverything
 ---
-Afflicted 
+
+Afflicted
 [[The Amazing Digital Circus]]
 [[Batman Franchise]]- Batman: Arkham City: End Game
 Bread Barbershop
@@ -32,7 +38,6 @@ Splintered Caravan
 [[Warframe]]
 Wo Long: Fallen Dynasty
 Zipped Up
-
 
 # The Amazing Digital Circus Fan Songs --
 

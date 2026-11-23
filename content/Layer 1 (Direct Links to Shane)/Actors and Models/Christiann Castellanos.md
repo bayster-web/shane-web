@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Christiann Castellanos.md
+created: 2026-11-19T23:06:22.395Z
+modified: 2026-09-19T15:14:58.274Z
+published: 2026-09-19T15:14:58.274Z
 tags:
   - DirectShane
 ---
+
 [[American Crime Story]]
 [[It's Always Sunny in Philadelphia]]
 [[Bob Thunder - Internet Assassin]]

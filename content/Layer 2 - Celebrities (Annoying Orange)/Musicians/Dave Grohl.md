@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Musicians/Dave Grohl.md
+created: 2026-11-19T23:06:22.411Z
+modified: 2026-10-30T23:47:36.120Z
+published: 2026-10-30T23:47:36.120Z
 tags:
   - AnnoyingOrange
 ---
+
 [[Nirvana]]
 [[Foo Fighters]] ([[NPR Tiny Desk]] - https://www.youtube.com/watch?v=wxaXWSVhRXU)
 [[Daria]] - Is It Fall Yet?
@@ -25,7 +31,7 @@ The Smart Studios Story
 Industrial Accident: The Story of Wax Trax! Records
 [[Bill & Ted Franchise]]- Bill & Ted Face the Music
 [[I'm in the Band]]
-What Drives Us[
+What Drives Us\[
 Studio 666
 [[The X-Files]]
 [[Space Ghost Coast to Coast]]
@@ -49,8 +55,9 @@ Biography: KISStory
 [[Hot Ones]]
 [[A Minecraft Movie]] - Soundtrack (I Feel Alive)
 
-# To Add - 
-https://en.wikipedia.org/wiki/Dave_Grohl_discography
+# To Add -
+
+https://en.wikipedia.org/wiki/Dave\_Grohl\_discography
 
 Blast
 Cat Power

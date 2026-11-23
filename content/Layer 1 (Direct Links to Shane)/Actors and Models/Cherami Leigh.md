@@ -1,13 +1,19 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Cherami Leigh.md
+created: 2026-11-19T23:06:22.396Z
+modified: 2026-11-21T18:30:15.351Z
+published: 2026-11-21T18:30:15.351Z
 tags:
   - DirectShane
   - Fortnite
   - DateEverything
 ---
+
 3% (2016)
 [[9-1-1 Franchise]] - 9-1-1
 44 Cats (2018)
-A Certain Magical Index (2008) 
+A Certain Magical Index (2008)
 A Certain Scientific Accelerator (2019)
 A Certain Scientific Railgun (2009)
 [[AFK Arena]] (2019)
@@ -84,8 +90,8 @@ Corpse Princess: Kuro (2009)
 Cry (2013)
 Cyberdimension Neptunia: 4 Goddesses Online (2017)
 [[Cyberpunk 2077]] (2020)
-Cyberpunk 2077: No Coincidence (2023)
-Cyberpunk 2077: Phantom Liberty (2023)
+[[Cyberpunk 2077]]: No Coincidence (2023)
+[[Cyberpunk 2077]]: Phantom Liberty (2023)
 Cyborg 009: Call of Justice (2016)
 Czech Beautiful (2012)
 Dance in the Vampire Bund (2010)
@@ -159,8 +165,8 @@ Garo the Animation (2014)
 Garo: Vanishing Line (2017)
 Gekijouban Toaru majutsu no indekkusu: Endyumion no kiseki (2013)
 Ghost Hunt (2006)
-[[Ghost in the Shell]]: SAC_2045 (2020)
-[[Ghost in the Shell]]: SAC_2045 - Sustainable War (2021)
+[[Ghost in the Shell]]: SAC\_2045 (2020)
+[[Ghost in the Shell]]: SAC\_2045 - Sustainable War (2021)
 [[Ginger Snaps]] (2017)
 [[God Eater (Franchise)]] - God Eater (2015), God Eater 2: Rage Burst (2015), God Eater: Resurrection (2015)
 God Wars: Toki o koete (2017)
@@ -207,14 +213,14 @@ Junji Ito Maniac: Japanese Tales of the Macabre (2023)
 Kansei (2011)
 Kantai Collection: Kan Colle (2015)
 Kantai Collection: KanColle Movie (2016)
-Kaze no Stigma (2007) 
+Kaze no Stigma (2007)
 Kenichi: The Mightiest Disciple (2006)
 Kenzen Robo Daimidaler (2014)
 Kibaoh Klashers (2017)
 Kidou Senshi Gundam: Tekketsu no Orphans - Urdr Hunt (2022)
 Kiln (2026)
 King's Quest (2015)
-K: Missing Kings (2014) 
+K: Missing Kings (2014)
 [[Komi Can't Communicate]] (2021)
 Konohana Kitan (2017)
 [[Kotaro Lives Alone]] (2022)
@@ -336,7 +342,7 @@ Revival of [[Evangelion]] (1998)
 Ribbit (2014)
 [[SaGa (Franchise)]] - Romancing SaGa 2: Revenge of the Seven (2024)
 [[Rune Factory (Franchise)]] - Rune Factory: Guardians of Azuma (2025)
-[[RWBY]] (2012) 
+[[RWBY]] (2012)
 RWBY: Volume 5 (2018)
 RWBY: Volume 6 (2019)
 [[Sailor Moon]] (1992)
@@ -452,7 +458,7 @@ World of Final Fantasy (2016)
 Xeno Realms: Sky Brother Force (2022)
 [[xxxHOLiC]] (2006)
 [[xxxHOLiC]] the Movie: A Midsummer Night's Dream (2005)
-Yakitori: Soldiers of Misfortune (2023) 
+Yakitori: Soldiers of Misfortune (2023)
 [[Yakuza & Like A Dragon Franchise]] - Yakuza: Like a Dragon (2020) / Like a Dragon: Infinite Wealth (2024) / Like a Dragon: Pirate Yakuza in Hawaii (2025)
 Yona of the Dawn (2014)
 YooHoo to the Rescue (2019)
@@ -466,9 +472,9 @@ Zettai shôgeki: Puratonikku hâto - Shizuka ni, ori no yô ni
 [[Zombieland Saga]] (2018)
 
 # Commercials
+
 [[Albertsons]] - https://youtu.be/J-iyGYsJmZ8
 [[Aldi]]
 Texas Lottery
 [[Wingstop]]
 [[Radio Disney]] (DJ)
-

@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Finn Wolfhard.md
+created: 2026-11-19T23:06:22.470Z
+modified: 2026-09-19T14:29:48.725Z
+published: 2026-09-19T14:29:48.725Z
 tags:
   - RoyalCourt
 ---
+
 [[It (2017)]]
 Dog Days
 Howard Lovecraft and the Kingdom of Madness
@@ -16,10 +22,10 @@ How It Ends
 When You Finish Saving the World
 Guillermo del Toro's Pinocchio
 Hell of a Summer
-[[Saturday Night (SNL Movie)]] 
+[[Saturday Night (SNL Movie)]]
 The Legend of Ochi
 ParaNorman: The Thrifting
-Crash Land 
+Crash Land
 Ally
 [[The 100]]
 [[Supernatural]]
@@ -41,6 +47,7 @@ It: Welcome to Derry
 [[Game Grumps]] - Guest Grumps
 
 # Music Videos
+
 | Artists                                        | Songs                                                          |
 | ---------------------------------------------- | -------------------------------------------------------------- |
 | Facts                                          | Retro Oceans                                                   |
@@ -55,11 +62,12 @@ It: Welcome to Derry
 | The Aubreys                                    | Getting Better (Otherwise)<br>Loved One<br>Smoke Bomb          |
 | Finn Wolfhard                                  | Choose the Latter<br>Trailers After Dark<br>Objection!         |
 | [[George Harrison]] <br>(from [[The Beatles]]) | Give Me Love (Give Me Peace on Earth) <br>-- Directed by Finn. |
- 
+
 # Podcasts
+
 SModcast
 Review Revue
-Elara Radio 25_25
+Elara Radio 25\_25
 If I Were You
 Lackluster Video
 Review Revue

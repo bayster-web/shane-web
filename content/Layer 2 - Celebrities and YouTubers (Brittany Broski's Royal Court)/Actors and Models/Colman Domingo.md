@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Colman Domingo.md
+created: 2026-11-19T23:06:22.472Z
+modified: 2026-09-19T15:00:47.492Z
+published: 2026-09-19T15:00:47.492Z
 tags:
   - RoyalCourt
 ---
+
 Timepiece
 Around the Fire
 King of the Bingo Game
@@ -43,9 +49,9 @@ The Running Man
 Wicked: For Good
 [[Michael (2026 Movie)]]
 [[Disclosure Day]]
-An Innocent Girl 
-Lincoln in the Bardo 
-Michael 2 
+An Innocent Girl
+Lincoln in the Bardo
+Michael 2
 Nash Bridges
 [[Law and Order Franchise]] - Law & Order, Law & Order: Criminal Intent, Law & Order: Trial by Jury, Law & Order: Criminal Intent
 [[The Big Gay Sketch Show]]
@@ -73,5 +79,6 @@ The Four Seasons
 [[Passing Strange (Broadway)]]
 
 ---
+
 [[Sabrina Carpenter]] Music Video (Tears)
 Featured in [[Jessie Ware]] Song (Automatic)

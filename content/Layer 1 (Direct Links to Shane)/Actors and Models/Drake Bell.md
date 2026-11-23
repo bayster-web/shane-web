@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Drake Bell.md
+created: 2026-11-19T23:06:22.394Z
+modified: 2026-11-19T23:20:01.936Z
+published: 2026-11-19T23:20:01.936Z
 tags:
   - DirectShane
 ---
+
 7 Secrets with Miranda Cosgrove
 20 Moves
 ABC Afterschool Special
@@ -43,7 +49,7 @@ Gun
 Highly Gifted
 Home and Family
 [[Home Improvement]]
-[[Hulk and the Agents of S.M.A.S.H.]]
+[[Hulk and the Agents of S.M.A.S.H. (Show)]]
 [[iCarly]]
 I Owe My Life To Corbin Bleu
 It's A Rockabilly World!

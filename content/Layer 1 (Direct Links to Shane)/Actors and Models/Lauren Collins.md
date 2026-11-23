@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Lauren Collins.md
+created: 2026-11-19T23:06:22.391Z
+modified: 2026-09-05T07:06:12.120Z
+published: 2026-09-05T07:06:12.120Z
 tags:
   - DirectShane
 ---
+
 Angela's Eyes
 Being Erica
 Blue Murder

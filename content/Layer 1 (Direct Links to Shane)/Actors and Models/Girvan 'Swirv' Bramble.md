@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Girvan 'Swirv' Bramble.md
+created: 2026-11-19T23:06:22.391Z
+modified: 2026-11-19T23:20:46.711Z
+published: 2026-11-19T23:20:46.711Z
 tags:
   - DirectShane
 ---
+
 68 Whiskey
 All's Fair
 [[Ant-Man and the Wasp (2018 - MCU)]]
@@ -33,7 +39,7 @@ Shadows Fall
 Side Hustle
 Snowfall
 Stranded 3
-[[S.W.A.T.]]
+[[S.W.A.T.  (Show)]]
 The Afterparty
 The American Society of Magical Negroes
 [[The Wheel of Time]]

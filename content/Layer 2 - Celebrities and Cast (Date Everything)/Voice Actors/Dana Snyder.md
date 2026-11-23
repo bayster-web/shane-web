@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Dana Snyder.md
+created: 2026-11-19T23:06:22.428Z
+modified: 2026-11-19T23:21:56.674Z
+published: 2026-11-19T23:21:56.674Z
 tags:
   - DateEverything
 ---
+
 12 oz. Mouse
 Adventure Time
 A Letter to Momo
@@ -33,6 +39,7 @@ DC Super Friends
 Farzar
 [[Fish Hooks]]
 [[Gamer's Guide to Pretty Much Everything]]
+[[Grand Theft Auto Franchise]] - Grand Theft Auto VI
 Harvey Beaks
 Hell and Back
 [[Jellystone]]!
@@ -47,7 +54,7 @@ Mao Mao: Heroes of Pure Heart
 Minoriteam
 Nerdland
 [[Nicky, Ricky, Dicky & Dawn]]
-[[OK K.O.]]! Let's Be Heroes
+[[OK K.O. - Let's Be Heroes]]! Let's Be Heroes
 [[Open Season]] - Open Season 3
 [[Paradise PD]]
 [[Pickle and Peanut]]
@@ -70,7 +77,7 @@ The Cartoonstitute
 The Thundermans
 The Thundermans Return
 The Thundermans: Undercover
-[[The Venture Bros.]]
+[[The Venture Bros]]
 The Venture Bros.: Radiant Is the Blood of the Baboon Heart
 ThunderCats Roar
 [[Triptank]]

@@ -1,15 +1,21 @@
 ---
+publish: true
+permalink: /Unfinished Links/Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Daisy Edgar-Jones.md
+created: 2026-11-19T23:06:23.222Z
+modified: 2026-10-24T16:46:37.707Z
+published: 2026-10-24T16:46:37.707Z
 tags:
   - RoyalCourt
 ---
+
 Fresh
 Where the Crawdads Sing
 Twisters
 On Swift Horses
 Sense and Sensibility
-A Place in Hell 
-The Take 
-Tomorrow, and Tomorrow, and Tomorrow 
+A Place in Hell
+The Take
+Tomorrow, and Tomorrow, and Tomorrow
 [[Cold Feet]]
 Outnumbered
 [[Silent Witness]]

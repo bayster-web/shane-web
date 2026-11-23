@@ -1,8 +1,14 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Voice Actors/Shelby Young.md
+created: 2026-11-19T23:06:22.440Z
+modified: 2026-11-19T23:18:06.212Z
+published: 2026-11-19T23:18:06.212Z
 tags:
   - Smosh
   - DateEverything
 ---
+
 ## Note - Most Roles are ADR Voicing
 
 2 Bedroom 1 Bath
@@ -169,7 +175,7 @@ Status Update
 Strange Planet
 Superman
 Tag
-[[Teenage Mutant Ninja Turtles Franchise]] - Tales of the Teenage Mutant Ninja Turtles 
+[[Teenage Mutant Ninja Turtles Franchise]] - Tales of the Teenage Mutant Ninja Turtles
 Tatsuki Fujimoto 17-26
 The Acolyte
 The Babysitter: Killer Queen
@@ -223,7 +229,7 @@ Voicemails for Isabelle
 Wake Up Dead Man: A Knives Out Mystery
 Waltzing Anna
 WandaVision
-[[What If...]]?
+[[What If (Show)]]?
 What If...? An Immersive Story
 What's Next for Sarah?
 [[What We Do in the Shadows]]

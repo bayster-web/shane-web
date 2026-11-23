@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Liam O'Brien.md
+created: 2026-11-19T23:06:22.434Z
+modified: 2026-11-19T23:20:01.994Z
+published: 2026-11-19T23:20:01.994Z
 tags:
   - DateEverything
 ---
+
 [[Afro Samurai]]: Resurrection
 Age of Umbra
 [[Alien (Franchise)]] - Aliens: Colonial Marines
@@ -94,7 +100,7 @@ Haré+Guu
 His and Her Circumstances
 [[Horizon Franchise]] - Horizon Zero Dawn: The Frozen Wilds
 How to Train Your Dragon: School of Dragons
-[[Hulk and the Agents of S.M.A.S.H.]]
+[[Hulk and the Agents of S.M.A.S.H. (Show)]]
 Hulk: Where Monsters Dwell
 [[inFAMOUS Franchise]] - inFamous: Second Son
 Infinity Blade III
@@ -196,7 +202,7 @@ Tenjho Tenge
 [[Terminator - Franchise]] - Terminator Salvation
 Texhnolyze
 [[XCOM (Franchise)]] - The Bureau: XCOM Declassified
-The Dragon King 
+The Dragon King
 [[Elder Scrolls Franchise]] - The Elder Scrolls Online
 [[The Evil Within]]
 The Last: Naruto the Movie

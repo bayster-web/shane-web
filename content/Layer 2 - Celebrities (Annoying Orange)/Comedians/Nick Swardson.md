@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Comedians/Nick Swardson.md
+created: 2026-11-19T23:06:22.411Z
+modified: 2026-09-05T07:06:12.842Z
+published: 2026-09-05T07:06:12.842Z
 tags:
   - AnnoyingOrange
 ---
+
 [[Almost Famous]]
 Pretty When You Cry
 Malibu's Most Wanted
@@ -17,7 +23,7 @@ The House Bunny
 [[Bolt (2008)]]
 Bedtime Stories
 Just Go with It
-Bucky Larson: Born to Be a Star 
+Bucky Larson: Born to Be a Star
 30 Minutes or Less
 Jack and Jill
 That's My Boy

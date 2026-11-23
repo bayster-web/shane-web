@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Unfinished Links/Layer 2 - Celebrities and YouTubers (Rhett and Link - Good Mythical Morning)/Rob Huebel.md
+created: 2026-11-19T23:06:23.294Z
+modified: 2026-11-19T23:20:22.435Z
+published: 2026-11-19T23:20:22.435Z
 tags:
   - GMM
 ---
+
 Bowling for Columbine
 Blackballed: The Bobby Dukes Story
 Terrorists
@@ -88,7 +94,7 @@ The ArScheerio Paul Show
 Axe Cop
 [[Comedy Bang! Bang!]]
 [[Drunk History]]
-[[Agents of S.H.I.E.L.D.]]
+[[Agents of S.H.I.E.L.D. (Show)]]
 [[Parks and Recreation]]
 Garfunkel and Oates
 [[The Mindy Project]]

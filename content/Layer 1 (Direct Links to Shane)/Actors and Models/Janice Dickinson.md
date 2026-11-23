@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Janice Dickinson.md
+created: 2026-11-19T23:06:22.396Z
+modified: 2026-11-19T18:14:16.660Z
+published: 2026-11-19T18:14:16.660Z
 tags:
   - DirectShane
 ---
+
 [[Charmed]]
 Exposed
 Earth Girls Are Easy
@@ -15,7 +21,7 @@ The Surreal Life
 Million Dollar Listing Los Angeles
 The Janice Dickinson Modeling Agency
 Janice & Abbey
-[[I'm A Celebrity Get Me Out of Here (UK)]]
+[[I'm A Celebrity Get Me Out of Here (UK)]] / "South Africa" (All Stars, UK)
 [[I'm A Celebrity Get Me Out of Here (US)]]
 Finland's Next Top Model
 [[Come Dine with Me]]
@@ -31,4 +37,3 @@ Loose Women
 [[Couples Therapy (VH1)]]
 The Face Thailand
 [[The Bachelor (US)]]
-[[I'm A Celebrity Get Me Out of Here (South Africa)]]

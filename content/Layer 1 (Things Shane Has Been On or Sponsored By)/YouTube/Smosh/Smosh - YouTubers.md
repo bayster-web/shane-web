@@ -1,8 +1,14 @@
 ---
+publish: true
+permalink: /Layer 1 (Things Shane Has Been On or Sponsored By)/YouTube/Smosh/Smosh - YouTubers.md
+created: 2026-11-19T23:06:22.403Z
+modified: 2026-10-21T11:11:38.383Z
+published: 2026-10-21T11:11:38.383Z
 tags:
   - ShaneOn
   - Smosh
 ---
+
 [[Aimsey]]
 [[Alpharad]]
 Alveus Sanctuary
@@ -53,9 +59,9 @@ Ice Cream Sandwich (Animator)
 James Willems & Elyse Willems (Funhaus)
 [[Jarvis Johnson]] & Jordan Adika
 j aubrey
-[[Jenna Marbles]] 
+[[Jenna Marbles]]
 [[jschlatt]]
-Jujimufu 
+Jujimufu
 [[KallMeKris]]
 [[Katie Marovitch]] ([[Dropout (streaming service)]])
 Laina (Overly Attached Girlfriend Meme)
@@ -71,7 +77,7 @@ Miles Bonsignore (2nd Try)
 Mina Le (@gremlita)
 [[Mini Ladd]]
 Mythical Kitchen ([[Rhett and Link]])
-Nicole Rafiee 
+Nicole Rafiee
 [[Nihachu]]
 [[Nux Taku]]
 [[PewDiePie]]
@@ -92,7 +98,7 @@ Sabrina Brier
 [[SmallAnt]]
 [[Smosh]]
 Spill Sesh
-[[StarKid Productions (Team StarKid)]] 
+[[StarKid Productions (Team StarKid)]]
 [[SwaggerSouls]]
 Swell Entertainment
 Syd & Olivia (Ex-Writers and Podcasters)
@@ -121,4 +127,5 @@ Yasmine Sahid
 [[Amber Singletary]]
 
 # YouTubers who have been on Smosh / Smoshalike
+
 [[Zac Oyama]] ([[Dropout (streaming service)]])

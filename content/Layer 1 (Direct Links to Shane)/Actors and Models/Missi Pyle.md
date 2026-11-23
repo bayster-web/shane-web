@@ -1,8 +1,14 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Missi Pyle.md
+created: 2026-11-19T23:06:22.395Z
+modified: 2026-09-19T14:36:41.138Z
+published: 2026-09-19T14:36:41.138Z
 tags:
   - DirectShane
 ---
-$#! My Dad Says
+
+\$#! My Dad Says
 [[2 Broke Girls]]
 [[9-1-1 Franchise]] - 9-1-1: Nashville
 50 First Days

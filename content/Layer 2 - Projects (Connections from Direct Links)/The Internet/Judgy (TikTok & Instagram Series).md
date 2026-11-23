@@ -1,8 +1,13 @@
 ---
-{}
+publish: true
+permalink: /Layer 2 - Projects (Connections from Direct Links)/The Internet/Judgy (TikTok & Instagram Series).md
+created: 2026-11-19T23:06:22.561Z
+modified: 2026-10-29T21:33:00.435Z
+published: 2026-10-29T21:33:00.435Z
 ---
 
 # Internet / Smaller Celebrities and Comedians
+
 [[Smosh]] - [[Ian Hecox]] & [[Anthony Padilla]]
 [[Tana Mongeau]]
 Jake Shane
@@ -44,12 +49,8 @@ Gus Heagerty
 Cory Peter Lane
 Lauren Davis - Buldak Sponsored Post
 Glorelys
-Grace O'malley 
+Grace O'malley
 Sam Rocha
-
-
-
-
 
 National Women's Soccer League Sponsored Post
 Hinge Sponsored Post
@@ -57,8 +58,8 @@ Suave Sponsored Post
 Flamingo Sponsored Post
 Laura Geller Beauty Sponsored Post
 
-
 # Celebrities
+
 [[Chase Stokes]]
 [[Joey King]] & [[Maisie Williams]] - Practical Magic 2 promo
 [[Mo Gilligan]]
@@ -96,5 +97,4 @@ Yris Palmer (Khloe Kardashian (The Girls)
 [[Robin Thede]]
 [[Keke Palmer]]
 
-
-![[ZZZ - Image (Judgy).png]]
+![[Unfinished Links/Other/ZZZ - Image (Judgy).png]]

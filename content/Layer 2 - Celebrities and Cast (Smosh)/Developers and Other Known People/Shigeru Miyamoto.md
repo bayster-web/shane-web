@@ -1,8 +1,15 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Developers and Other Known People/Shigeru Miyamoto.md
+created: 2026-11-19T23:06:22.443Z
+modified: 2026-11-14T14:10:33.183Z
+published: 2026-11-14T14:10:33.183Z
 tags:
   - Smosh
 ---
+
 # Game Credits
+
 1080° Snowboarding
 [[Animal Crossing (Franchise)]] - Animal Crossing
 Baseball
@@ -79,6 +86,6 @@ Yoshi's Safari
 Yoshi's Story
 Yume Kōjō: Doki Doki Panic
 
-
 # Other
+
 [[The Tonight Show Starring Jimmy Fallon]]

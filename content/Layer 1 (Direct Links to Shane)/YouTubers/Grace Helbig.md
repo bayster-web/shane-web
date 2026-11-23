@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/YouTubers/Grace Helbig.md
+created: 2026-11-19T23:06:22.385Z
+modified: 2026-09-05T07:06:12.322Z
+published: 2026-09-05T07:06:12.322Z
 tags:
   - DirectShane
 ---
+
 [[Chelsea Lately]]
 [[Cupcake Wars]]
 [[Epic Rap Battles of History]]

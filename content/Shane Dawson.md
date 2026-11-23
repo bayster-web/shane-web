@@ -1,7 +1,12 @@
 ---
-{}
+publish: true
+permalink: /Shane Dawson.md
+created: 2026-11-19T23:06:23.445Z
+modified: 2026-11-08T15:09:31.030Z
+published: 2026-11-08T15:09:31.030Z
 ---
-# *People Shane has directly worked with, in one way or another:*
+
+# _People Shane has directly worked with, in one way or another:_
 
 - [[Alaska (Alaska Thunderfuck)]] (via Shane and Friends podcast)
 - [[Andrew James Allen]] (via [[Smiley]])
@@ -13,7 +18,7 @@
 - [[Charlie Puth]] (via making music for Shane's old web series Shane and Friends (not to be confused with the podcast of the same name.))
 - [[Cherami Leigh]] (via Not Cool, and other short films of his.)
 - [[Christiann Castellanos]] (via [[Bob Thunder - Internet Assassin]])
-- [[Colleen Ballinger]] / Miranda Sings (via YouTube collabs) 
+- [[Colleen Ballinger]] / Miranda Sings (via YouTube collabs)
 - [[cupcakKe]] (via Carpool Karaoke video together, originally on Shane's channel.)
 - [[Cyrina Fiallo]] (via short film Friends 4 Ever)
 - [[Daniel Robbins]] (via short film Friends 4 Ever)
@@ -52,7 +57,7 @@
 - [[Lori Greiner]] (via Shane and Friends podcast)
 - [[Lucas Cruikshank (FRED)]] (Interviewed by Shanaynay on Shane's channel, as well as other collab videos.)
 - [[Michael Corcoran]] (via Superluv! (song))
-- [[Michelle Veintimilla ]](Not Cool Actress)
+- [[Michelle Veintimilla ]]\(Not Cool Actress)
 - [[Michelle Visage]] (via Shane and Friends podcast)
 - [[Missi Pyle]] (via [[internet Famous]] and short film The Lottery)
 - [[Mitchell Musso]] (via Shane and Friends podcast)
@@ -67,7 +72,7 @@
 - [[Scott Chernoff]] (via Shane Dawson TV videos, "Santa's Dead: A Love Story", and "HOT TEENS GONE WILD ON DEGRASSI!")
 - [[Shanna Malcolm]] (via so many of his videos, Smiley, and being ex-friends with him)
 - [[Steve-O]] (via Shane and Friends podcast, as well as Shane being on the [[Steve-O's Wild Ride!]] Podcast)
-- [[Tana Mongeau]] (via collabs and Shane and Friends podcast.) ***(And also the fact he made her piss on him on camera.)***
+- [[Tana Mongeau]] (via collabs and Shane and Friends podcast.) _**(And also the fact he made her piss on him on camera.)**_
 - [[Tara Reid]] (via Shane and Friends podcast)
 - [[Tiffany (New York) Pollard]] (via Shane and Friends podcast)
 - [[Toby Turner (Tobuscus)]] (via High Fructose Adventures of Annoying Orange & [[Smiley]])
@@ -78,10 +83,10 @@
 - [[Wendy McColm]] (via [[internet Famous]])
 - [[Willam Belli]] (via Shane and Friends podcast and collabs.)
 - [[Wilmer Valderrama]] (Interviewed by Shanaynay on Shane's channel)
-- [[Zachary Quinto]] (via The Chair (documentary series, that filmed the making of his movie Not Cool, *which Zachary Quinto had his name removed off of.*))
+- [[Zachary Quinto]] (via The Chair (documentary series, that filmed the making of his movie Not Cool, _which Zachary Quinto had his name removed off of._))
 - [[Sandra Lee (Dr. Pimple Popper)]] (via Shane and Friends Podcast)
 
-## Direct Links (Shane has appeared or worked on these things): 
+## Direct Links (Shane has appeared or worked on these things):
 
 - Alison Rosen is Your New Best Friend (Podcast, by ex-host of [[The Adam Carolla Show (now Podcast)]] podcast)
 - Animeme Rap Battles
@@ -92,7 +97,7 @@
 - [[Escape the Night]]
 - Fat Camp (2017) -- in doubt
 - **[[H3H3 Podcast]]**
-- [[Hey Qween!]] - https://www.dailymotion.com/video/x6s4t8m / https://www.youtube.com/watch?v=XXOV40xg9eY 
+- [[Hey Qween!]] - https://www.dailymotion.com/video/x6s4t8m / https://www.youtube.com/watch?v=XXOV40xg9eY
 - Jenna and Julien (podcast)
 - [[Larry King]] (via Larry King interviewing Shane Dawson)
 - [[LEGO]] Batman & Spider-Man Movie 2 (forrestfire101)
@@ -112,9 +117,7 @@
 - [[Just Dance (Series)]] - Just Dance 4 Commercial (https://www.youtube.com/watch?v=K9zMen63b7k)
 - [[Keywords Press (Imprint of Atria - Simon and Schuster)]] (via both of his books)
 
-# **[[Smosh]]** 
-
-
+# **[[Smosh]]**
 
 # Products / Companies that have sponsored Shane Dawson
 
@@ -136,7 +139,7 @@
 [[Morgan and Morgan (Law Firm)]] (via The Shane Dawson Podcast)
 [[PDS Debt]] (via The Shane Dawson Podcast)
 [[PrizePicks]] (via The Shane Dawson Podcast)
-[[Quidd]] (via Shane Dawson video ($1000 Mystery Box)) - Defunct Sponsor
+[[Quidd]] (via Shane Dawson video (\$1000 Mystery Box)) - Defunct Sponsor
 [[QwikMatch]] (via Shane Dawson video (The Secret Life of Jeffree Star)) - Defunct Sponsor
 [[Raycons]] (via The Shane Dawson Podcast)
 [[Ridge Wallet]] (via Shane Dawson video (The End of Jeffree Star and Shane Dawson))
@@ -150,6 +153,6 @@
 [[Patreon]] - https://www.patreon.com/cw/ShaneDawson
 
 # Other
+
 Shane Dawson was used within a [[Jeopardy!]] question. - https://www.youtube.com/watch?v=3Cpktui2YDc
 Events: [[Streamy Awards]], [[People's Choice Awards]], [[Teen Choice Awards]]
-

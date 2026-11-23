@@ -1,8 +1,14 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Troy Baker.md
+created: 2026-11-19T23:06:22.431Z
+modified: 2026-11-19T23:20:02.025Z
+published: 2026-11-19T23:20:02.025Z
 tags:
   - DateEverything
   - Fortnite
 ---
+
 Æon Flux
 Age of Conan: Hyborian Adventures
 [[American Dad]]!
@@ -87,7 +93,7 @@ Guardians of Middle-earth
 Gunslinger Girl
 [[Halo (Franchise)]] - Halo 4
 [[Heroes of the Storm]]
-[[Hulk and the Agents of S.M.A.S.H.]]
+[[Hulk and the Agents of S.M.A.S.H. (Show)]]
 Indiana Jones and the Great Circle
 [[inFAMOUS Franchise]] - Infamous Second Son
 Infex
@@ -104,7 +110,7 @@ Justice League: Battle for Metropolis 4D
 Justice League: Crisis on Infinite Earth - Part Two
 Justice League: Crisis on Infinite Earths – Part Three
 Justice League: Warworld
-Justice League x RWBY: Super Heroes & Huntsmen, Part Two 
+Justice League x RWBY: Super Heroes & Huntsmen, Part Two
 Kekkaishi
 [[Kid Icarus Franchise]] - Kid Icarus: Uprising
 [[Kinect (Game Series)]] Disneyland Adventures

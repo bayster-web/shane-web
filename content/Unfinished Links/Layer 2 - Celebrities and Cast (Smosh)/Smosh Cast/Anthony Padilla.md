@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Unfinished Links/Layer 2 - Celebrities and Cast (Smosh)/Smosh Cast/Anthony Padilla.md
+created: 2026-11-19T23:06:23.253Z
+modified: 2026-09-05T07:06:28.205Z
+published: 2026-09-05T07:06:28.205Z
 tags:
   - Smosh
 ---
+
 Red vs Blue
 [[Epic Rap Battles of History]]
 [[Annoying Orange (TV Show or YouTube Series)]]

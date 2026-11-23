@@ -1,13 +1,19 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Kellan Lutz.md
+created: 2026-11-19T23:06:22.419Z
+modified: 2026-09-05T07:06:12.988Z
+published: 2026-09-05T07:06:12.988Z
 tags:
   - AnnoyingOrange
 ---
+
 Stick It
 Accepted
 Ghosts of Goldfield
 Prom Night
 Deep Winter
-[[Twilight (Franchise)]] - Twilight, The Twilight Saga: New Moon, The Twilight Saga: Eclipse, 
+[[Twilight (Franchise)]] - Twilight, The Twilight Saga: New Moon, The Twilight Saga: Eclipse,
 The Twilight Saga: Breaking Dawn – Part 1, The Twilight Saga: Breaking Dawn – Part 2
 After Dusk They Come
 Meskada

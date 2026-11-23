@@ -1,9 +1,16 @@
 ---
+publish: true
+permalink: /Layer 2 - Projects (Connections from Direct Links)/The Internet/Good Mythical Morning.md
+created: 2026-11-19T23:06:22.560Z
+modified: 2026-10-21T11:17:40.713Z
+published: 2026-10-21T11:17:40.713Z
 tags:
   - ShaneLinks
   - GMM
 ---
+
 # Guests - Celebrities
+
 [[Daniel Radcliffe]]
 [[Lady Antebellum (Lady A)]]
 [[Lindsey Stirling]]
@@ -85,7 +92,7 @@ The New Day ([[Kofi Kingston]] / [[Xavier Woods]])
 [[Alfonso Ribeiro]]
 [[Kelly Rowland]] (Destiny's Child)
 [[Ian Somerhalder]]
-[[Cameron Monaghan]] 
+[[Cameron Monaghan]]
 [[Rainn Wilson]]
 [[Joe Manganiello]]
 [[Terry Crews]]
@@ -136,9 +143,8 @@ Cookie Monster ([[Sesame Street]]) - yes, really.
 [[Stephanie Beatriz]]
 [[Mckenna Grace]]
 
-
-
 # Guests - YouTubers / Streamers
+
 Alex Wasabi
 [[Angela Giarratana]]
 Anna Akana
@@ -147,7 +153,7 @@ Basement Yard
 Binging With Babish
 [[Colleen Ballinger]] - Miranda Sings
 Collins Key
-[[Courtney Miller]] 
+[[Courtney Miller]]
 Coyote Peterson
 Dead Meat
 De'arra
@@ -210,6 +216,7 @@ Zach King
 Zay Dupree
 
 # Company Sponsors
+
 [[Coca-Cola]] Freestyle - https://youtu.be/hpAPHvCWmks
 [[BetterHelp]] - https://www.youtube.com/watch?v=tWzzi8URNso
 National Pork Board - https://youtu.be/ReJzgKpKxDU

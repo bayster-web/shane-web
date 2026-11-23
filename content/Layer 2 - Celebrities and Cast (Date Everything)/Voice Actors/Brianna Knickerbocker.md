@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Brianna Knickerbocker.md
+created: 2026-11-19T23:06:22.432Z
+modified: 2026-09-15T00:33:19.512Z
+published: 2026-09-15T00:33:19.512Z
 tags:
   - DateEverything
 ---
+
 [[Ace Combat (Franchise)]] - Ace Combat 7: Skies Unknown
 A.I.C.O. -Incarnation-
 Airplane Mode

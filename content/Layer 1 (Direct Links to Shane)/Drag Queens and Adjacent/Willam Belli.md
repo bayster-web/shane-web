@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Drag Queens and Adjacent/Willam Belli.md
+created: 2026-11-19T23:06:22.382Z
+modified: 2026-09-05T07:06:12.239Z
+published: 2026-09-05T07:06:12.239Z
 tags:
   - DirectShane
 ---
+
 Accused
 [[Aly & AJ]] (Music Video)
 [[American Pie]] - American Wedding

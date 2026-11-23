@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Carlos Alazraqui.md
+created: 2026-11-19T23:06:22.416Z
+modified: 2026-11-19T23:18:52.395Z
+published: 2026-11-19T23:18:52.395Z
 tags:
   - AnnoyingOrange
 ---
+
 [[Aaahh!!! Real Monsters]]
 [[A Bug's Life (1998)]]
 [[Adam Ruins Everything]]
@@ -60,7 +66,7 @@ Crashbox
 [[Curious George Franchise]] - Curious George, Curious George 2: Follow That Monkey!, Curious George: A Halloween Boo Fest
 Dads in Parks
 Dance Baby Dance
-[[Dan Vs.]]
+[[Dan Vs. (Show)]]
 Delhi Safari
 [[Despicable Me Franchise]] - Despicable Me 3
 [[Despicable Me Franchise]] - Minions
@@ -143,7 +149,7 @@ Minnie's Bow-Toons
 Minoriteam
 Mixels
 [[Monsters at Work]]
-[[Monsters, Inc.]]
+[[Monsters, Inc]]
 [[Monsters University (2013)]]
 Moonbeam City
 Motorcity

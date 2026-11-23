@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 3 - Projects (Connections from Smosh)/Music Videos & Artists Worked With/KSI.md
+created: 2026-11-19T23:06:23.091Z
+modified: 2026-10-29T21:47:21.816Z
+published: 2026-10-29T21:47:21.816Z
 tags:
   - Smosh
 ---
+
 Prime
 Lunchly
 Laid in America

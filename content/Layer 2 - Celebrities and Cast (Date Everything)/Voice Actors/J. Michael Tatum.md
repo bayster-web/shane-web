@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/J. Michael Tatum.md
+created: 2026-11-19T23:06:22.430Z
+modified: 2026-09-05T07:06:13.495Z
+published: 2026-09-05T07:06:13.495Z
 tags:
   - DateEverything
 ---
+
 18if
 91 Days
 ACCA: 13-Territory Inspection Dept.
@@ -28,7 +34,7 @@ Chio's School Road
 Chrome Shelled Regios
 Code:Breaker
 [[Code Geass]]: Akito the Exiled
-Code: Realize − Guardian of Rebirth 
+Code: Realize − Guardian of Rebirth
 Code Vein II
 Corpse Princess
 Daimidaler the Sound Robot

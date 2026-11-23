@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Actors and Models/Jennifer Lawrence.md
+created: 2026-11-19T23:06:22.444Z
+modified: 2026-09-05T07:06:13.688Z
+published: 2026-09-05T07:06:13.688Z
 tags:
   - Smosh
 ---
+
 A Beautiful Planet
 American Hustle
 Bread and Roses
@@ -23,7 +29,7 @@ The Burning Plain
 The Devil You Know
 [[The Hunger Games (Franchise)]] - The Hunger Games, The Hunger Games: Catching Fire, The Hunger Games: Mockingjay – Part 1, The Hunger Games: Mockingjay – Part 2, The Hunger Games: Sunrise on the Reaping
 The Poker House
-What Happens at Night 
+What Happens at Night
 Winter's Bone
 [[X-Men (Live-Action Film Series)]] - X-Men: First Class, X-Men: Apocalypse, X-Men: Days of Future Past, Dark Phoenix
 Zurawski v Texas

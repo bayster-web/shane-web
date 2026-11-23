@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Colleen Clinkenbeard.md
+created: 2026-11-19T23:06:22.430Z
+modified: 2026-09-05T07:06:13.448Z
+published: 2026-09-05T07:06:13.448Z
 tags:
   - DateEverything
 ---
+
 ACCA: 13-Territory Inspection Dept.
 [[Ace Attorney (Franchise)]] - Ace Attorney (Anime) - Mia Fey
 A Certain Scientific Railgun S

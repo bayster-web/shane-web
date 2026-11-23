@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Paul Scheer.md
+created: 2026-11-19T23:06:22.396Z
+modified: 2026-10-08T03:59:21.399Z
+published: 2026-10-08T03:59:21.399Z
 tags:
   - DirectShane
 ---
+
 1UP
 10 Items or Less
 [[30 Rock]]
@@ -20,33 +26,17 @@ Army of One
 Ass Backwards
 Bad Guys
 Bajillion Dollar Propertie$
-Balloon
-[[Batman Franchise]] - Batman: Caped Crusader
-[[Batman Franchise]] - Batman: The Audio Adventures
-Best F(r)iends Volume Two
-[[Big City Greens]]
-[[Big Mouth]]
+Balloon [[Batman Franchise]] - Batman: Caped Crusader [[Batman Franchise]] - Batman: The Audio Adventures
+Best F(r)iends Volume Two [[Big City Greens]] [[Big Mouth]]
 Black Mondays
-Blunt Talk
-[[Bob's Burgers]]
-[[Bride Wars]]
-[[Brooklyn Nine-Nine]]
-Burning Love
-[[Celebrity Family Feud]]
-[[Celebrity Wheel of Fortune]]
-[[Childrens Hospital]]
-Clear History
-[[Comedy Bang! Bang!]]
-[[Comedy Bang! Bang!]] - Podcast
-[[Crank Yankers]]
-Crash Test: With [[Rob Huebel]] and Paul Scheer
-[[Curb Your Enthusiasm]]
+Blunt Talk [[Bob's Burgers]] [[Bride Wars]] [[Brooklyn Nine-Nine]]
+Burning Love [[Celebrity Family Feud]] [[Celebrity Wheel of Fortune]] [[Childrens Hospital]]
+Clear History [[Comedy Bang! Bang!]] [[Comedy Bang! Bang!]] - Podcast [[Crank Yankers]]
+Crash Test: With [[Rob Huebel]] and Paul Scheer [[Curb Your Enthusiasm]]
 Daddy's Home
-Debbie & Doug Drop Acid in the Desert
-[[Dropout (streaming service)]] - [[Dirty Laundry]]
+Debbie & Doug Drop Acid in the Desert [[Dropout (streaming service)]] - [[Dirty Laundry]]
 Do You Want to See a Dead Body?
-Drive Share
-[[Drunk History]] (US)
+Drive Share [[Drunk History]] (US)
 Electric City
 Emperor
 Escape from Planet Earth
@@ -156,5 +146,5 @@ Wet Hot American Summer: First Day of Camp
 Wet Hot American Summer: Ten Years Later
 White Ninja
 Whitney
-[[Workaholics]] 
+[[Workaholics]]
 Year One

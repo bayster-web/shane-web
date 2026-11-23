@@ -1,7 +1,13 @@
 ---
+publish: true
+permalink: /Layer 2 - Celebrities and Cast (Smosh)/Comedians/Howie Mandel.md
+created: 2026-11-19T23:06:22.438Z
+modified: 2026-09-21T18:10:45.005Z
+published: 2026-09-21T18:10:45.005Z
 tags:
   - Smosh
 ---
+
 [[Game Changer]] - [[Dropout (streaming service)]]
 Gas
 The Funny Farm
@@ -125,7 +131,7 @@ Inside Jokes
 [[Harley Quinn]]
 [[America's Got Talent]]: The Champions
 The Search for Canada's Game Shows
-The game theory $1,000,000 challenge for St. Jude
+The game theory \$1,000,000 challenge for St. Jude
 BullshIt: The Game Show
 [[Canada's Got Talent]]
 [[America's Got Talent]]: All-Stars
