@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "tui": {
+      "source": "github:quartz-community/tui",
+      "resolved": "https://github.com/quartz-community/tui.git",
+      "commit": "485847b3a1801b8005cd5fedd7b59f571199801d",
+      "installedAt": "2026-11-23T19:34:12.706Z"
+    }
+  }
+}
