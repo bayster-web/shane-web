@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Mark Hamill.md
 created: 2026-11-19T23:06:22.425Z
-modified: 2026-11-19T23:18:52.379Z
-published: 2026-11-19T23:18:52.379Z
+modified: 2026-11-24T18:06:17.050Z
+published: 2026-11-24T18:06:17.050Z
 tags:
   - AnnoyingOrange
 ---
@@ -50,7 +50,7 @@ Burl's
 [[Buzz Lightyear of Star Command]]
 [[Call of Duty Franchise]] - Call of Duty 2: Big Red One
 Cannon
-[[Castle in the Sky (1986)]]
+[[Castle in the Sky]]
 Child's Play
 Choose Your Own Adventure: The Abominable Snowman
 [[Chuck]]
@@ -227,7 +227,7 @@ The Avengers: Earth's Mightiest Heroes
 The Big Red One
 The Bill Cosby Show
 [[The Boondocks]]
-[[The Boy and the Heron (2023)]]
+[[The Boy and the Heron]]
 The Cartoon Cartoon Show
 The City
 [[The Cleveland Show]]

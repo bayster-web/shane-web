@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/John DiMaggio.md
 created: 2026-11-19T23:06:22.417Z
-modified: 2026-11-19T23:21:56.670Z
-published: 2026-11-19T23:21:56.670Z
+modified: 2026-11-24T18:10:42.479Z
+published: 2026-11-24T18:10:42.479Z
 tags:
   - AnnoyingOrange
 ---
@@ -52,7 +52,7 @@ Best Medicine
 [[Brickleberry]]
 Cartoon Network Universe: FusionFall
 Casper's Scare School
-[[Castle in the Sky (1986)]]
+[[Castle in the Sky]]
 Catscratch
 [[Chicago Hope]]
 [[Chowder]]
@@ -109,7 +109,7 @@ It's Pony
 [[Jackie Chan Adventures]]
 [[Johnny Bravo]]
 Justice League: Crisis on Infinite Earths - Part Three
-Justice League Dark: Apokolips War
+[[Justice League Dark]]: Apokolips War
 [[Justice League Unlimited]]
 Justice League: Warworld
 Kaijudo
@@ -146,7 +146,7 @@ Pirates of Silicon Valley
 [[Planet Sheen]]
 [[Pom Poko (1994)]]
 [[Pound Puppies]]
-[[Princess Mononoke (1997)]]
+[[Princess Mononoke]]
 [[Ralph Breaks the Internet]]
 [[Randy Cunningham]]: 9th Grade Ninja
 [[Rick and Morty]]

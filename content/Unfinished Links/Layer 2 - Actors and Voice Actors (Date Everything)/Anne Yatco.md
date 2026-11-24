@@ -2,8 +2,8 @@
 publish: true
 permalink: /Unfinished Links/Layer 2 - Actors and Voice Actors (Date Everything)/Anne Yatco.md
 created: 2026-11-19T23:06:23.242Z
-modified: 2026-11-24T17:52:15.825Z
-published: 2026-11-24T17:52:15.825Z
+modified: 2026-11-24T18:05:50.765Z
+published: 2026-11-24T18:05:50.765Z
 tags:
   - DateEverything
 ---
@@ -48,7 +48,7 @@ Goddess of Victory: Nikke
 [[Godzilla (Franchise)]] - Godzilla Singular Point (2021)
 Good Night World (2023)
 Grand Cross: Age of Titans
-[[Grave of the Fireflies (1988)]]\
+[[Grave of the Fireflies]]\
 Gunbuster (1988-1989)
 Her Blue Sky (2019)\
 High-Rise Invasion (2021)

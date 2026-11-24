@@ -1,27 +1,27 @@
 # Movies
 
-[[Castle in the Sky (1986)]]
+[[Castle in the Sky]]
 [[My Neighbor Totoro]]
-[[Grave of the Fireflies (1988)]]
+[[Grave of the Fireflies]]
 [[Kiki's Delivery Service]]
-[[Only Yesterday (1991)]]
-[[Porco Rosso (1992)]]
+[[Only Yesterday]]
+[[Porco Rosso]]
 Pom Poko
 Whisper of the Heart
-[[Princess Mononoke (1997)]]
+[[Princess Mononoke]]
 My Neighbors the Yamadas
 [[Spirited Away]]
-[[The Cat Returns (2002)]]
-[[Howl's Moving Castle (2004)]]
+[[The Cat Returns]]
+[[Howl's Moving Castle]]
 Tales from Earthsea
-[[Ponyo (2008)]]
+[[Ponyo]]
 Arrietty
 From Up on Poppy Hill
 The Wind Rises
 The Tale of the Princess Kaguya
-[[When Marnie Was There (2014)]]
+[[When Marnie Was There]]
 The Red Turtle
-[[The Boy and the Heron (2023)]]
+[[The Boy and the Heron]]
 Ocean Waves
 Earwig and the Witch
 Ronja, the Robber's Daughter

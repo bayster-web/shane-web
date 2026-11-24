@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Laura Bailey.md
 created: 2026-11-19T23:06:22.435Z
-modified: 2026-11-24T17:54:13.064Z
-published: 2026-11-24T17:54:13.064Z
+modified: 2026-11-24T18:05:54.319Z
+published: 2026-11-24T18:05:54.319Z
 tags:
   - DateEverything
 ---
@@ -160,7 +160,7 @@ New Tales from the [[Borderlands]]
 [[NieR (Franchise)]] - Nier, Nier: Replicant ver.1.22474487139..
 [[One Piece]]
 [[One Tree Hill]]
-[[Only Yesterday (1991)]]
+[[Only Yesterday]]
 Origin: Spirits of the Past
 [[Ouran High School Host Club]]
 [[Persona (Franchise)]] - Persona 3 Portable, Persona 4, Persona 4 Golden, Persona 4: The Animation

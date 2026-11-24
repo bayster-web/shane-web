@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Actors and Models/Josh Hutcherson.md
 created: 2026-11-19T23:06:22.445Z
-modified: 2026-09-05T07:06:13.674Z
-published: 2026-09-05T07:06:13.674Z
+modified: 2026-11-24T18:05:42.048Z
+published: 2026-11-24T18:05:42.048Z
 tags:
   - Smosh
 ---
@@ -30,7 +30,7 @@ Firehouse Dog
 [[Foster the People]] Music Video (Worst Nites)
 [[Future Man]]
 House Blend
-[[Howl's Moving Castle (2004)]]
+[[Howl's Moving Castle]]
 I Love LA
 In Dubious Battle
 Journey 2: The Mysterious Island

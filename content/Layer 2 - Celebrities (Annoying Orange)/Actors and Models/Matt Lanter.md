@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Matt Lanter.md
 created: 2026-11-19T23:06:22.420Z
-modified: 2026-11-19T23:20:46.722Z
-published: 2026-11-19T23:20:46.722Z
+modified: 2026-11-24T18:10:42.122Z
+published: 2026-11-24T18:10:42.122Z
 tags:
   - AnnoyingOrange
 ---
@@ -24,7 +24,7 @@ DC Showcase: Blue Beetle
 Judy's Got a Gun
 Jupiter's Legacy
 Justice League: Crisis on Infinite Earths
-Justice League Dark: Apokolips War
+[[Justice League Dark]]: Apokolips War
 Justice League: Throne of Atlantis
 [[LEGO]] Star Wars Holiday Special
 [[LEGO]] Star Wars Summer Vacation

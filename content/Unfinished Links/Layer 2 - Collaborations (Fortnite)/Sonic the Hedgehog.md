@@ -2,8 +2,8 @@
 publish: true
 permalink: /Unfinished Links/Layer 2 - Collaborations (Fortnite)/Sonic the Hedgehog.md
 created: 2026-11-19T23:06:23.353Z
-modified: 2026-11-24T17:50:52.188Z
-published: 2026-11-24T17:50:52.188Z
+modified: 2026-11-24T18:02:14.899Z
+published: 2026-11-24T18:02:14.899Z
 tags:
   - Fortnite
 ---
@@ -14,9 +14,9 @@ tags:
 
 Sonic - [[Roger Craig Smith]] (Games) / [[Ben Schwartz]] (Live Action Movies) / Deven Mack (Sonic Prime) / Jason Griffith / Jaleel White ([[Sonic the Hedgehog (SatAM Cartoon)]]) / Ryan Drummond
 
-Tails - Colleen O'Shaughnessey & Kate Higgins / Ashleigh Ball (Sonic Prime)
+Tails - [[Colleen O'Shaughnessey]] & Kate Higgins / Ashleigh Ball (Sonic Prime)
 
-Shadow - Keanu Reeves (Live Action Movies) / Kirk Thornton / Jason Griffith
+Shadow - Keanu Reeves (Live Action Movies) / [[Kirk Thornton]] / Jason Griffith
 
 Knuckles - Idris Elba (Live Action Movies) / Dave B Mitchell / [[Travis Willingham]] / Scott Dreier / Dan Green
 
@@ -44,4 +44,4 @@ Metal Sonic - [[Ray Chase]] / Ryan Drummond
 
 Jet the Hawk - Michael Yurchak / Jason Griffith
 
-Charmy Bee - Amy Birnbaum / Emily Corkery / Colleen O'Shaughnessey
+Charmy Bee - Amy Birnbaum / Emily Corkery / [[Colleen O'Shaughnessey]]

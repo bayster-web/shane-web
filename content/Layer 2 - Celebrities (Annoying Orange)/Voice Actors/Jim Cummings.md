@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Jim Cummings.md
 created: 2026-11-19T23:06:22.416Z
-modified: 2026-11-19T23:21:56.668Z
-published: 2026-11-19T23:21:56.668Z
+modified: 2026-11-24T18:05:46.644Z
+published: 2026-11-24T18:05:46.644Z
 tags:
   - AnnoyingOrange
 ---
@@ -60,7 +60,7 @@ Cabin Boy
 Cartoon All-Stars to the Rescue
 Cartoon Network Racing  
 Cartoon Network Universe: [[FusionFall]]
-[[Castle in the Sky (1986)]]
+[[Castle in the Sky]]
 [[CatDog]]
 CatDog and the Great Parent Mystery
 CatDog: Quest for the Golden Hydrant  

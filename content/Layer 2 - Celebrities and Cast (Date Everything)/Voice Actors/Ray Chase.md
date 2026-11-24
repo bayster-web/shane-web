@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Ray Chase.md
 created: 2026-11-19T23:06:22.435Z
-modified: 2026-11-14T14:10:33.147Z
-published: 2026-11-14T14:10:33.147Z
+modified: 2026-11-24T18:10:41.772Z
+published: 2026-11-24T18:10:41.772Z
 tags:
   - DateEverything
 ---
@@ -77,8 +77,8 @@ Indivisible
 Judgment
 [[Jujutsu Kaisen]]
 [[Jujutsu Kaisen]]: Cursed Clash
-Justice League Dark
-Justice League Dark: Apokolips War
+[[Justice League Dark]]
+[[Justice League Dark]]: Apokolips War
 Kill Blue
 [[Killer Instinct (Franchise)]] - Killer Instinct
 Kimi ni Todoke

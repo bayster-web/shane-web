@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities and YouTubers (Brittany Broski's Royal Court)/Actors and Models/Anne Hathaway.md
 created: 2026-11-19T23:06:22.471Z
-modified: 2026-09-19T14:44:30.471Z
-published: 2026-09-19T14:44:30.471Z
+modified: 2026-11-24T18:06:06.600Z
+published: 2026-11-24T18:06:06.600Z
 tags:
   - RoyalCourt
 ---
@@ -11,7 +11,7 @@ tags:
 The Princess Diaries
 The Other Side of Heaven
 Nicholas Nickleby
-[[The Cat Returns (2002)]]
+[[The Cat Returns]]
 The Princess Diaries 2: Royal Engagement
 [[Hoodwinked]]!
 Havoc

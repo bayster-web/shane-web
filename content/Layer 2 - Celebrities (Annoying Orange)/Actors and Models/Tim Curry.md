@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Actors and Models/Tim Curry.md
 created: 2026-11-19T23:06:22.424Z
-modified: 2026-09-06T08:38:06.565Z
-published: 2026-09-06T08:38:06.565Z
+modified: 2026-11-24T18:06:06.586Z
+published: 2026-11-24T18:06:06.586Z
 tags:
   - AnnoyingOrange
 ---
@@ -176,7 +176,7 @@ Terry Pratchett's The Colour of Magic
 The Adventures of Don Coyote and Sancho Panda
 The Adventures of [[Jimmy Neutron]]: Boy Genius
 The Adventures of Jimmy Neutron Boy Genius: Jet Fusion
-[[The Cat Returns (2002)]]
+[[The Cat Returns]]
 The Chosen One
 The Easter Story Keepers
 The First Snow of Winter

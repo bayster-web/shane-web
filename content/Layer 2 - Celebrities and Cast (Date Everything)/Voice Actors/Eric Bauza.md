@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Eric Bauza.md
 created: 2026-11-19T23:06:22.431Z
-modified: 2026-11-19T23:18:52.415Z
-published: 2026-11-19T23:18:52.415Z
+modified: 2026-11-24T18:06:12.540Z
+published: 2026-11-24T18:06:12.540Z
 tags:
   - DateEverything
 ---
@@ -187,7 +187,7 @@ Turbo Fast
 [[Victor and Valentino]]
 [[Voltron - Legendary Defender]] Motion Comic
 [[We Baby Bears]]
-[[When Marnie Was There (2014)]]
+[[When Marnie Was There]]
 Where's Waldo?
 Woody Woodpecker
 Woody Woodpecker Goes to Camp

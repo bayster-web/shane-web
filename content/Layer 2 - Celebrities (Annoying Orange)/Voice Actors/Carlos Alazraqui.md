@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Carlos Alazraqui.md
 created: 2026-11-19T23:06:22.416Z
-modified: 2026-11-19T23:18:52.395Z
-published: 2026-11-19T23:18:52.395Z
+modified: 2026-11-24T18:05:34.024Z
+published: 2026-11-24T18:05:34.024Z
 tags:
   - AnnoyingOrange
 ---
@@ -172,7 +172,7 @@ Plastic Man
 [[Pocahontas (1995)]]
 [[Pocahontas II - Journey to a New World]]
 [[Pokémon]]: Jirachi, Wish Maker
-[[Ponyo (2008)]]
+[[Ponyo]]
 [[Pound Puppies]]
 Powerloafing
 [[Puppy Dog Pals]]

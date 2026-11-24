@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Actors and Models/Keith David.md
 created: 2026-11-19T23:06:22.394Z
-modified: 2026-11-19T23:21:56.664Z
-published: 2026-11-19T23:21:56.664Z
+modified: 2026-11-24T18:06:02.529Z
+published: 2026-11-24T18:06:02.529Z
 tags:
   - DirectShane
 ---
@@ -267,7 +267,7 @@ Pluto
 Portal to Hell
 President Curtis
 Pretty When You Cry
-[[Princess Mononoke (1997)]]
+[[Princess Mononoke]]
 Prizefighter
 [[Psych]]
 Pups Alone

@@ -3,7 +3,7 @@
 [[007 (Franchise)]] - Newest James Bond
 [[The Odyssey (2026)]]
 [[Harry Potter (Franchise)]] - Harry Potter and the Goblet of Fire (2005)
-[[Studio Ghibli]] - [[The Boy and the Heron (2023)]]
+[[Studio Ghibli]] - [[The Boy and the Heron]]
 [[Tenet]]
 Mickey 17
 Die My Love

@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Tom Kenny.md
 created: 2026-11-19T23:06:22.416Z
-modified: 2026-11-19T23:21:18.380Z
-published: 2026-11-19T23:21:18.380Z
+modified: 2026-11-24T18:05:58.238Z
+published: 2026-11-24T18:05:58.238Z
 tags:
   - AnnoyingOrange
 ---
@@ -170,7 +170,7 @@ Pinocchio and the Water of Life
 Pinocchio: A True Story
 Plankton: The Movie
 Plastic Man in Puddle Trouble
-[[Porco Rosso (1992)]]
+[[Porco Rosso]]
 [[Pound Puppies]]
 Primal
 [[Puppy Dog Pals]]
