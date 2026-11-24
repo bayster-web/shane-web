@@ -1,0 +1,37 @@
+# Hello there! Welcome to my website.
+
+This is the website that is made from my web connecting common franchises, forms of media, artists, musicians, actors, and other famous people, all back to the problematic YouTuber, Shane Dawson.
+
+This page is not made in support of him. Just tracking how much connections (past and present), that he has made and those connections' connections, and so on.
+
+I recommend starting here on the [[Shane Dawson]] page. This has links to most of the people he has collaborated with, or at least had on his podcast, or worked with in some way.
+
+## PLEASE NOTE - If some pages are unfinished, that is because I constantly work on this project, and may not have gotten to those pages yet.
+
+\-- Admin Bay.
+
+# Recommended Links:
+
+### [[Annoying Orange (TV Show or YouTube Series)]]
+
+### [[Brittany Broski's Royal Court]]
+
+### [[Cherami Leigh]]
+
+### [[Date Everything!]]
+
+### [[John Michael Higgins]]
+
+### [[MrBeast]] / [[MrBeast Lab]]
+
+### [[Shane Dawson]]
+
+### [[Star Trek Franchise]]
+
+### [[Star Wars Franchise]]
+
+### [[The Simpsons]]
+
+### [[Trisha Paytas]]
+
+### [[Weird Al Yankovic]]
