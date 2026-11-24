@@ -5,17 +5,17 @@
 Jennifer "JWoww" Farley and Roger Mathews (from [[Jersey Shore]] and Snooki & Jwoww)
 Traci Braxton and Kevin Surratt (from Braxton Family Values)
 Tanisha Thomas and Clive Muir (from Bad Girls Club, Tanisha Gets Married and Celebrity Fit Club)
-Gretchen Rossi and Slade Smiley (from The Real Housewives of Orange County)
-Ryan and Trista Sutter (from The Bachelor, The Bachelorette and Dancing with the Stars)
+Gretchen Rossi and Slade Smiley (from [[Real Housewives Franchise]] - The Real Housewives of Orange County)
+Ryan and Trista Sutter (from The Bachelor, The Bachelorette and [[Dancing with the Stars (US)]])
 **Hosts and Counselors**: Jim Carroll, Elizabeth Carroll, Bobby Davis and Ilsa Norman
 
 ## Season 4 – Marriage Boot Camp: Reality Stars 2
 
 Natalie Nunn and Jacob Payne (from Bad Girls Club and Celebrity Big Brother UK)
-Spencer Pratt and Heidi Montag (from The Hills, I'm a Celebrity...Get Me Out of Here!, Famous Food and Celebrity Big Brother UK)
+Spencer Pratt and Heidi Montag (from The Hills, I'm a Celebrity...Get Me Out of Here!, Famous Food and [[Celebrity Big Brother (UK)]])
 Syleena Johnson and Kiwane Garris (from R\&B Divas: Atlanta)
-Tyson Apostol and Rachel Foulger (from Survivor)
-Aviva and Reid Drescher (from The Real Housewives of New York City)
+Tyson Apostol and Rachel Foulger (from [[Survivor (US)]])
+Aviva and Reid Drescher (from [[Real Housewives Franchise]] - The Real Housewives of New York City)
 **Hosts and Counselors**: Jim Carroll, Elizabeth Carroll, David Bishop and Ilsa Norman
 
 ## Season 5 – Marriage Boot Camp: Reality Stars 3
@@ -33,12 +33,12 @@ June "Mama June" Shannon and Mike "Sugar Bear" Thompson (from Here Comes Honey B
 Sarah Oliver and Jimmy "Inkman/Ink" Coney (from Bad Girls Club)
 Sundy and Cedric Carter (from Basketball Wives LA)
 Benzino and Althea Heart (from Love & Hip Hop: Atlanta)
-Sean Lowe and Catherine Giudici (from The Bachelor and Dancing with the Stars)
+Sean Lowe and Catherine Giudici (from The Bachelor and [[Dancing with the Stars (US)]])
 **Hosts and Counselors**: Jim Carroll, Elizabeth Carroll, David Bishop and Ilsa Norman
 
 ## Season 7 - Marriage Boot Camp: Reality Stars 5
 
-[[Tara Reid]] and Dean May (from Taradise and Celebrity Big Brother UK)
+[[Tara Reid]] and Dean May (from Taradise and [[Celebrity Big Brother (UK)]])
 Lisa D'Amato and Adam Friedman (from America's Next Top Model and Celebrity Rehab)
 Michelle Money and Cody Sattler (from The Bachelor, The Bachelorette, Bachelor Pad and Bachelor in Paradise)
 Toya and Mickey "Memphitz" Wright (from Tiny and Toya and Toya: A Family Affair)
@@ -49,7 +49,7 @@ Brittish Williams and Lorenzo Gordon (from Basketball Wives LA)
 
 Jade Roper and Tanner Tolbert (from The Bachelor, The Bachelorette and Bachelor in Paradise)
 Keke Wyatt and Michael Ford (from R\&B Divas: Atlanta)
-Amber Marchese and Jim Marchese (from The Real Housewives of New Jersey)
+Amber Marchese and Jim Marchese (from [[Real Housewives Franchise]] -  The Real Housewives of New Jersey)
 Karen Gravano and Giovan "Storm" (from Mob Wives)
 Margeaux, Merika Palmiste and Nikko London (from Love & Hip Hop: Atlanta)
 **Hosts and Counselors**: Dr. Ish Major and Dr. Venus "Dr. V" Nicolino
@@ -60,15 +60,15 @@ Ashley Hebert and J.P. Rosenbaum (from The Bachelorette)
 Amy Duggar and Dillon King (from 19 Kids and Counting)
 PreMadonna and Buck Thomas (from Love & Hip Hop: Atlanta)
 Gabrielle Victor and Victor Tarrats (from Bad Girls Club)
-Renee Graziano and Joey Gambino (from Mob Wives and Celebrity Big Brother UK)
+Renee Graziano and Joey Gambino (from Mob Wives and [[Celebrity Big Brother (UK)]])
 **Hosts and Counselors**: Dr. Ish Major and Dr. Venus "Dr. V" Nicolino
 
 ## Season 10 – Marriage Boot Camp: Reality Stars - Family Edition
 
-Chad "Ochocinco" and Paula Johnson (from Ochocinco: The Ultimate Catch and Dancing with the Stars)
-Michael "The Situation", Marc and Frank "Maximo" Sorrentino (from [[Jersey Shore]], The Sorrentinos, Dancing with the Stars and Celebrity Big Brother UK)
-Kendra and Patti Wilkinson (from The Girls Next Door, Kendra, Kendra on Top, I'm a Celebrity...Get Me Out of Here! and Dancing with the Stars)
-[[Farrah Abraham]], Debra and Michael Abraham (from 16 and Pregnant, Teen Mom and Celebrity Big Brother UK)
+Chad "Ochocinco" and Paula Johnson (from Ochocinco: The Ultimate Catch and [[Dancing with the Stars (US)]])
+Michael "The Situation", Marc and Frank "Maximo" Sorrentino (from [[Jersey Shore]], The Sorrentinos, [[Dancing with the Stars (US)]] and [[Celebrity Big Brother (UK)]])
+Kendra and Patti Wilkinson (from The Girls Next Door, Kendra, Kendra on Top, [[I'm A Celebrity Get Me Out of Here (UK)]] and [[Dancing with the Stars (US)]])
+[[Farrah Abraham]], Debra and Michael Abraham (from 16 and Pregnant, Teen Mom and [[Celebrity Big Brother (UK)]])
 **Hosts and Counselors**: Dr. Ish Major and Dr. Venus "Dr. V" Nicolino
 
 ## Season 11 - Marriage Boot Camp: Reality Stars 8
@@ -82,16 +82,16 @@ Amina Buddafly, Peter Gunz and Tara Wallace (from Love & Hip Hop: New York)
 
 ## Season 12 – Marriage Boot Camp: Reality Stars - Family Edition 2
 
-Brandi and Guy Glanville (from The Real Housewives of Beverly Hills, Celebrity Big Brother U.S., Celebrity Big Brother UK and The Apprentice)
-Renee, Jenniffer and Lana Graziano (from Mob Wives and Celebrity Big Brother UK)
+Brandi and Guy Glanville (from [[Real Housewives Franchise]] -  The Real Housewives of Beverly Hills, [[Celebrity Big Brother (US)]], [[Celebrity Big Brother (UK)]] and The Apprentice)
+Renee, Jenniffer and Lana Graziano (from Mob Wives and [[Celebrity Big Brother (UK)]])
 Jim Jones, Chrissy Lampkin and Nancy "Mama Jones" Jones (from Love & Hip Hop: New York, Chrissy & Mr. Jones and Jim & Chrissy: Vow or Never)
 Amber, Tonya Portwood, and Matt Baier (from 16 and Pregnant and Teen Mom)
 **Hosts and Counselors**: Dr. Ish Major and Dr. Venus "Dr. V" Nicolino
 
 ## Season 13 - Marriage Boot Camp: Reality Stars - Family Edition 3
 
-Aubrey O'Day and Pauly D (from Making the Band, All About Aubrey, The Celebrity Apprentice, [[Jersey Shore]], Famously Single and Celebrity Big Brother UK)
-Kim Richards and Wynn Katz (from The Real Housewives of Beverly Hills)
+Aubrey O'Day and Pauly D (from Making the Band, All About Aubrey, The Celebrity Apprentice, [[Jersey Shore]], Famously Single and [[Celebrity Big Brother (UK)]])
+Kim Richards and Wynn Katz (from [[Real Housewives Franchise]] -  The Real Housewives of Beverly Hills)
 Desiree Hartsock and Chris Siegfried (from The Bachelorette)
 Quani Robinson and Paul "Puma" Robinson (from Black Ink Crew)
 Momma Dee and Ernest Bryant (from Love & Hip Hop: Atlanta)

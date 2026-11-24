@@ -1,2 +1,2 @@
-[[Whose Line Is It, Anyway (US)]]
+[[Whose Line Is It Anyway (US)]]
 [[Ziwe]]

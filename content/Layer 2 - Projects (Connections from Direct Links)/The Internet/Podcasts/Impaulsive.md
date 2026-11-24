@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Projects (Connections from Direct Links)/The Internet/Podcasts/Impaulsive.md
 created: 2026-11-19T23:06:22.655Z
-modified: 2026-10-24T16:36:55.146Z
-published: 2026-10-24T16:36:55.146Z
+modified: 2026-11-24T19:40:04.156Z
+published: 2026-11-24T19:40:04.156Z
 ---
 
 [[Logan Paul]] - Host
@@ -86,7 +86,7 @@ Forrest Galante (TV Personality)
 Sophia & Sistine Stallone (Sylvester Stallone's Daughters)
 Ryan Serhant (Real Estate Broker/Owning Manhattan producer)
 Cesar Millan (Dog Whisperer)
-Abbey Romeo and David Isaacman ([[Love on the Spectrum]] contestants)
+Abbey Romeo and David Isaacman ([[Love on the Spectrum (US)]] contestants)
 Lamar Odom (NBA player, married Khloe Kardashian)
 Tom Brady (NFL)
 Rayasianboy

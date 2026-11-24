@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Comedians/Tiffany Haddish.md
 created: 2026-11-19T23:06:22.439Z
-modified: 2026-11-19T23:11:10.024Z
-published: 2026-11-19T23:11:10.024Z
+modified: 2026-11-24T19:36:43.356Z
+published: 2026-11-24T19:36:43.356Z
 tags:
   - Smosh
 ---
@@ -124,7 +124,7 @@ Phat Tuesdays: The Era of Hip Hop Comedy
 [[Crank Yankers]]
 [[The Proud Family - Louder and Prouder]]
 The Jason Lee Show
-[[Whose Line Is It, Anyway (US)]]?
+[[Whose Line Is It Anyway (US)]]?
 A Very Demi Holiday Special
 It's Florida, Man
 [[The Masked Singer (US)]]

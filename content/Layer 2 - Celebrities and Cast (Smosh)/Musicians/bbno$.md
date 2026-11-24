@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Musicians/bbno$.md
 created: 2026-11-19T23:06:22.436Z
-modified: 2026-09-05T07:06:13.793Z
-published: 2026-09-05T07:06:13.793Z
+modified: 2026-11-24T19:53:03.740Z
+published: 2026-11-24T19:53:03.740Z
 tags:
   - Smosh
 ---
@@ -16,7 +16,7 @@ Yung Bar / Billy Marchiafava (Bad Boy)
 [[Benee]] (Help Herself)
 Kalush Orchestra
 [[Smosh]] - Various Videos and Submissive & Breedable
-[[Hatsune Miku]] (Check ft. Hatsune Miku - https://youtu.be/EOM2FfpkFOA)
+[[Hatsune Miku]] (Check ft. [[Hatsune Miku]] - https://youtu.be/EOM2FfpkFOA)
 [[Ironmouse]] (1-800)
 [[My Singing Monsters]] (Cold Island)
 [[Valorant]] / Grabbitz (Ticking Away)

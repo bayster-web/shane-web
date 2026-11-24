@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Voice Actors/Richard (Steven) Horvitz.md
 created: 2026-11-19T23:06:22.439Z
-modified: 2026-09-05T07:06:13.853Z
-published: 2026-09-05T07:06:13.853Z
+modified: 2026-11-24T19:40:04.140Z
+published: 2026-11-24T19:40:04.140Z
 tags:
   - Smosh
 ---
@@ -44,7 +44,7 @@ Invader Zim
 [[Johnny Bravo]]
 [[Kinect (Game Series)]] - Kinectimals
 Legends of Oz: Dorothy's Return
-[[Love on the Spectrum]]
+[[Love on the Spectrum (US)]]
 [[Metal Gear Solid Franchise]] - Metal Gear Solid 4: Guns of the Patriots
 [[Mighty Magiswords]]
 [[Mighty Morphin Power Rangers]] - Mighty Morphin Power Rangers, Mighty Morphin Power Rangers: The Movie, Mighty Morphin Power Rangers: Once & Always, Power Rangers Lightspeed Rescue, Power Rangers Time Force, Power Rangers Turbo, Power Rangers Wild Force, Power Rangers Zeo

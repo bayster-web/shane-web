@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 1 (Direct Links to Shane)/Drag Queens and Adjacent/Michelle Visage.md
 created: 2026-11-19T23:06:22.381Z
-modified: 2026-09-05T07:06:12.250Z
-published: 2026-09-05T07:06:12.250Z
+modified: 2026-11-24T19:35:05.559Z
+published: 2026-11-24T19:35:05.559Z
 tags:
   - DirectShane
 ---
@@ -16,5 +16,5 @@ Beyond the Gates
 [[RuPaul's Drag Race]] All Stars
 [[Strictly Come Dancing (Dancing With The Stars UK)]]
 [[The Drew Barrymore Show]]
-[[Would I Lie to You]]
+[[Would I Lie to You (UK)]]
 [[Stop! That! Train!]]

@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Drag Queens and Adjacent/Monét X Change.md
 created: 2026-11-19T23:06:22.442Z
-modified: 2026-09-05T07:06:13.825Z
-published: 2026-09-05T07:06:13.825Z
+modified: 2026-11-24T19:37:10.527Z
+published: 2026-11-24T19:37:10.527Z
 tags:
   - Smosh
 ---
@@ -14,7 +14,7 @@ The World of Madame X
 Dating My Mother
 RuPaul's Drag Race (Season 10)
 RuPaul's Drag Race: Untucked (Season 9)
-What Would You Do? (Season 14)
+[[What Would You Do]]? (Season 14)
 RuPaul's Drag Race All Stars (Season 4)
 [[The View]]
 Brunch with Tiffany
