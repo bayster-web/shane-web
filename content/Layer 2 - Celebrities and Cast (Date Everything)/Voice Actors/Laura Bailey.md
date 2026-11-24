@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Laura Bailey.md
 created: 2026-11-19T23:06:22.435Z
-modified: 2026-11-14T14:10:33.137Z
-published: 2026-11-14T14:10:33.137Z
+modified: 2026-11-24T17:54:13.064Z
+published: 2026-11-24T17:54:13.064Z
 tags:
   - DateEverything
 ---
@@ -225,7 +225,7 @@ The Swan Princess: Royally Undercover
 The Wonderful 101
 Thief
 Tiger and Bunny: The Rising
-Tiger & Bunny
+[[Tiger & Bunny]]
 Titansgrave: The Ashes of Valkana
 To Have and to Hold
 [[Tron Franchise]] - Tron: Evolution
@@ -235,7 +235,7 @@ Tsukuyomi: Moon Phase
 [[Ultimate Spider-Man]]
 [[Uncharted (Franchise)]] - Uncharted 4: A Thief's End, Uncharted: The Lost Legacy
 [[Valkyria Chronicles (Franchise)]] - Valkyria Chronicles, Valkyria Chronicles II
-Vampire Knight
+[[Vampire Knight (Series)]] - Vampire Knight
 [[Walker, Texas Ranger]]
 WildStar
 [[Winx Club]]

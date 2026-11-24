@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Liam O'Brien.md
 created: 2026-11-19T23:06:22.434Z
-modified: 2026-11-19T23:20:01.994Z
-published: 2026-11-19T23:20:01.994Z
+modified: 2026-11-24T17:52:17.466Z
+published: 2026-11-24T17:52:17.466Z
 tags:
   - DateEverything
 ---
@@ -218,8 +218,8 @@ The Prince of Tennis
 The Saboteur
 The Third: The Girl With the Blue Eye
 The Witness
-Tiger & Bunny
-Tiger & Bunny: The Rising
+[[Tiger & Bunny]]
+[[Tiger & Bunny]]: The Rising
 [[Titanfall]] 2
 To Heart
 [[Tomb Raider Franchise]] - Tomb Raider

@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Robbie Daymond.md
 created: 2026-11-19T23:06:22.431Z
-modified: 2026-11-19T23:21:56.674Z
-published: 2026-11-19T23:21:56.674Z
+modified: 2026-11-24T17:52:18.296Z
+published: 2026-11-24T17:52:18.296Z
 tags:
   - DateEverything
 ---
@@ -175,7 +175,7 @@ The Rocketeer
 [[The Seven Deadly Sins]] - The Seven Deadly Sins, The Seven Deadly Sins: Cursed by Light, The Seven Deadly Sins: Four Knights of the Apocalypse
 The [[Tom and Jerry]] Show
 [[The Walking Dead Franchise]] - The Walking Dead: The Final Season
-Tiger & Bunny
+[[Tiger & Bunny]]
 [[Transformers Franchise]] - Transformers: Rescue Bots
 [[Ultraman Franchise]] - ULTRAMAN
 Unicorn: Warriors Eternal

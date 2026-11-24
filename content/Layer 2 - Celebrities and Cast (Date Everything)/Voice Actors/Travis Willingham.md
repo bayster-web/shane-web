@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Travis Willingham.md
 created: 2026-11-19T23:06:22.435Z
-modified: 2026-11-19T23:20:02.022Z
-published: 2026-11-19T23:20:02.022Z
+modified: 2026-11-24T17:52:21.177Z
+published: 2026-11-24T17:52:21.177Z
 tags:
   - DateEverything
 ---
@@ -180,7 +180,7 @@ The Tower of Druaga series
 [[The World Ends With You (Franchise)]]  - The World Ends with You
 Thor: The Dark World (App)
 Tiger and Bunny: The Rising
-Tiger & Bunny
+[[Tiger & Bunny]]
 [[Tom and Jerry]]: Forbidden Compass
 [[Trails (Series)]] - Trails in the Sky 1st Chapter
 [[Transformers Franchise]] - Transformers: Dark of the Moon, Transformers: Fall of Cybertron, Transformers: Rise of the Dark Spark, Transformers: Robots in Disguise, Transformers: The Last Knight, Transformers: War for Cybertron

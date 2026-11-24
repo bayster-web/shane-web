@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Voice Actors/Tara Sands.md
 created: 2026-11-19T23:06:23.246Z
-modified: 2026-11-23T19:17:46.555Z
-published: 2026-11-23T19:17:46.555Z
+modified: 2026-11-24T17:52:20.381Z
+published: 2026-11-24T17:52:20.381Z
 tags:
   - Smosh
 ---
@@ -103,7 +103,7 @@ The God of High School
 The Orbital Children
 [[The Sarah Silverman Program]]
 [[The Seven Deadly Sins]]
-Tiger & Bunny
+[[Tiger & Bunny]]
 Time Bokan
 Time of Eve
 To Heart

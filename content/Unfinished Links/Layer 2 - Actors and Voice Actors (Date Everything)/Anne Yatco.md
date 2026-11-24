@@ -2,8 +2,8 @@
 publish: true
 permalink: /Unfinished Links/Layer 2 - Actors and Voice Actors (Date Everything)/Anne Yatco.md
 created: 2026-11-19T23:06:23.242Z
-modified: 2026-09-26T09:54:08.870Z
-published: 2026-09-26T09:54:08.870Z
+modified: 2026-11-24T17:52:15.825Z
+published: 2026-11-24T17:52:15.825Z
 tags:
   - DateEverything
 ---
@@ -119,7 +119,7 @@ Thermae Romae Novae (2022)
 [[The Seven Deadly Sins]]: Four Knights of the Apocalypse (2023-2024)
 [[The World Ends With You (Franchise)]] - NEO: The World Ends with You
 The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat (2021)
-Tiger & Bunny 2 (2022)
+[[Tiger & Bunny]] 2 (2022)
 [[Tom and Jerry]]: Forbidden Compass (2025)
 Tower of Fantasy
 Tower of God: New World

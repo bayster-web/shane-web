@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Steve Blum.md
 created: 2026-11-19T23:06:22.432Z
-modified: 2026-11-19T23:20:02.015Z
-published: 2026-11-19T23:20:02.015Z
+modified: 2026-11-24T17:52:19.116Z
+published: 2026-11-24T17:52:19.116Z
 tags:
   - DateEverything
 ---
@@ -356,7 +356,7 @@ The Wonderful 101
 They Were Eleven
 Thor: God of Thunder
 ThunderCats Roar
-Tiger & Bunny
+[[Tiger & Bunny]]
 Tokyo Revelation
 [[Tomb Raider Franchise]] - Tomb Raider: Anniversary
 [[Tom Clancy's (Game Franchise)]] -  Tom Clancy's EndWar, Tom Clancy's Ghost Recon: Future Soldier
