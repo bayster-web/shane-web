@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Liam O'Brien.md
 created: 2026-11-19T23:06:22.434Z
-modified: 2026-11-24T17:52:17.466Z
-published: 2026-11-24T17:52:17.466Z
+modified: 2026-11-26T02:49:35.760Z
+published: 2026-11-26T02:49:35.760Z
 tags:
   - DateEverything
 ---
@@ -90,7 +90,7 @@ Gokudo
 [[Grand Theft Auto Franchise]] - Grand Theft Auto V
 [[Guild Wars 2]]: End of Dragons
 [[Guild Wars 2]]: Secrets of the Obscure
-Gungrave
+[[Gungrave]]
 Gun Sword
 .hack//G.U. series
 .hack//Legend of the Twilight

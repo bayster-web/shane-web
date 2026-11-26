@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Date Everything)/Voice Actors/Steve Blum.md
 created: 2026-11-19T23:06:22.432Z
-modified: 2026-11-24T17:52:19.116Z
-published: 2026-11-24T17:52:19.116Z
+modified: 2026-11-26T02:49:35.169Z
+published: 2026-11-26T02:49:35.169Z
 tags:
   - DateEverything
 ---
@@ -138,7 +138,7 @@ Guild Wars 2: Heart of Thorns
 Guild Wars 2: Path of Fire
 Guild Wars Factions
 Gundam Side Story 0079: Rise from the Ashes
-Gungrave: Overdose
+[[Gungrave]]: Overdose
 Gurren Lagann
 Gurumin: A Monstrous Adventure
 Guyver Bio Booster Armor series

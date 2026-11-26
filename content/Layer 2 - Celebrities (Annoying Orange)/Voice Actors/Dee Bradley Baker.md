@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities (Annoying Orange)/Voice Actors/Dee Bradley Baker.md
 created: 2026-11-19T23:06:22.416Z
-modified: 2026-11-19T23:20:01.945Z
-published: 2026-11-19T23:20:01.945Z
+modified: 2026-11-26T02:50:51.823Z
+published: 2026-11-26T02:50:51.823Z
 tags:
   - AnnoyingOrange
 ---
@@ -152,7 +152,7 @@ Jake and the Never Land Pirates
 Jason and the Heroes of Mount Olympus
 [[Jimmy Neutron]]: Boy Genius
 [[Johnny Bravo]]
-JumpStart educational software
+[[JumpStart (Educational Software Franchise)]] - JumpStart educational software
 Jungle Cubs
 Jungle Junction
 [[Justice League (Cartoon)]]

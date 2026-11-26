@@ -2,8 +2,8 @@
 publish: true
 permalink: /Layer 2 - Celebrities and Cast (Smosh)/Voice Actors/Bryce Papenbrook.md
 created: 2026-11-19T23:06:22.440Z
-modified: 2026-11-24T18:11:59.049Z
-published: 2026-11-24T18:11:59.049Z
+modified: 2026-11-26T02:50:51.825Z
+published: 2026-11-26T02:50:51.825Z
 tags:
   - Smosh
   - DateEverything
@@ -76,7 +76,7 @@ Green Green
 [[Horizon Franchise]] - Horizon Zero Dawn
 Inazuma Eleven Ares
 [[JoJo's Bizarre Adventure]]
-JumpStart Academy series
+[[JumpStart (Educational Software Franchise)]] - JumpStart Academy series
 Kekkaishi
 Kengan Ashura
 King's Raid: Successors of the Will
